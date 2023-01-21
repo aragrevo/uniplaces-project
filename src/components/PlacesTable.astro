@@ -6,10 +6,13 @@ import TableHeaderCell from '@components/TableHeaderCell.astro';
 import {getLeaderboard} from '@services/leaderboard';
 
 const data = await getLeaderboard();
+const places = data.sort((a, b) => Number(a.rentValue) - Number(b.rentValue));
 ---
 
 <table class='min-w-full text-sm text-left text-gray-500 dark:text-gray-400'>
-  <thead class='text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400'>
+  <thead
+    class='hidden sm:table-header-group text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400'
+  >
     <tr>
       <TableHeaderCell>
         <span class='sr-only'>Image</span>
@@ -17,21 +20,24 @@ const data = await getLeaderboard();
       <TableHeaderCell>Title</TableHeaderCell>
       <TableHeaderCell>Configuration</TableHeaderCell>
       <TableHeaderCell>Location</TableHeaderCell>
-      <TableHeaderCell>Price</TableHeaderCell>
+      <TableHeaderCell>Price €</TableHeaderCell>
       <TableHeaderCell>Bills</TableHeaderCell>
       <TableHeaderCell>Availabre from</TableHeaderCell>
     </tr>
   </thead>
   <tbody>
     {
-      data.map(d => (
-        <tr class='bg-white border-b dark:bg-gray-800 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600'>
-          <TableCell class='w-32 p-0'>
+      places.map(d => (
+        <tr class='mb-0.5 sm:mb-0 bg-white border-b dark:bg-gray-800 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600 flex justify-start flex-wrap items-center sm:table-row sm:text-sm lg:text-base'>
+          <TableCell class='p-0 self-center flex-grow px-0'>
             <a href={d.link} target='_blank' rel='noopener noreferrer'>
-              <div class='relative' set:html={d.image} />
+              <div
+                class='relative aspect-video sm:rounded-full overflow-hidden w-full sm:aspect-square sm:w-20 lg:w-32'
+                set:html={d.image}
+              />
             </a>
           </TableCell>
-          <TableCell class='font-semibold text-base text-gray-900 dark:text-white'>
+          <TableCell class='font-semibold md:text-base text-gray-900 dark:text-white basis-full'>
             <a
               href={d.link}
               target='_blank'
@@ -40,18 +46,21 @@ const data = await getLeaderboard();
               {d.title}
             </a>
           </TableCell>
-          <TableCell>
-            <div class='font-medium'>{d.configuration}</div>
+          <TableCell class='basis-full'>
+            <div class='font-medium '>{d.configuration}</div>
             <div class='font-normal text-gray-500'>{d.rentBy}</div>
           </TableCell>
-          <TableCell class='whitespace-nowrap'>{d.neighbourHood}</TableCell>
-          <TableCell class='font-semibold text-gray-900 dark:text-white whitespace-nowrap'>
+          <TableCell class='whitespace-nowrap basis-full flex flex-row justify-between'>
+            <div class='font-medium'>{d.neighbourHood}</div>
+            <div class='font-normal text-gray-500 capitalize'>{d.city}</div>
+          </TableCell>
+          <TableCell class='font-semibold text-gray-900 dark:text-white whitespace-nowrap flex-auto'>
             {d.rentValue}
             {d.rentFrequency}
           </TableCell>
-          <TableCell>
+          <TableCell class=''>
             {d.billsIncluded && (
-              <span title={d.billsIncluded}>
+              <span title={d.billsIncluded} class='w-5 h-5'>
                 <CheckIcon />
               </span>
             )}
