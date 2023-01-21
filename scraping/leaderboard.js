@@ -13,6 +13,7 @@ const LEADERBOARD_SELECTORS = {
 
 export async function getLeaderBoard($, city) {
   const $rows = $('main section div a');
+  console.log($rows.length);
 
   const leaderBoardSelectorEntries = Object.entries(LEADERBOARD_SELECTORS);
 
@@ -29,12 +30,17 @@ export async function getLeaderBoard($, city) {
       return [key, value];
     });
     const leaderboardForTeam = Object.fromEntries(leaderBoardEntries);
+    const link = $el.attr('href');
+    const parts = $el.text()?.split('https');
+    const partImg = parts.length >= 2 ? parts[2] : '';
+    const imageUrl = partImg.split('&')[0];
     leaderboard.push({
       ...leaderboardForTeam,
       city,
       rentValue: leaderboardForTeam.rentValue.replace(/\,/g, ''),
-      link: $el.attr('href'),
-      image: $el.text(),
+      link,
+      image: `https${imageUrl}`,
+      text: $el.text(),
     });
   });
   const filtered = leaderboard.filter(l => !!l.title);

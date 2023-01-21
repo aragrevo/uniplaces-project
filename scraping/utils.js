@@ -30,7 +30,7 @@ export async function scrapeAndSave(cities) {
       logInfo(`Scraping [${url}]...`);
       const $ = url ? await scrape(url) : null;
       const content = await getLeaderBoard($, city);
-      logSuccess(`[${city}] scraped successfully`);
+      logSuccess(`[${city}] scraped successfully [${content.length}]`);
       contentAll.push(content);
     }
 
