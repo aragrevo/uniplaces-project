@@ -2,9 +2,17 @@
 import CheckIcon from '@components/icons/CheckIcon.astro';
 import TableCell from '@components/TableCell.astro';
 import TableHeaderCell from '@components/TableHeaderCell.astro';
+import Image from './Image.astro';
 
 const {data = []} = Astro.props;
 const places = data.sort((a, b) => Number(a.rentValue) - Number(b.rentValue));
+
+const replaceToIcon = value => {
+  return value
+    .replace('people', 'people 🕴 ')
+    .replace(/bathrooms?/, 'bathroom 🛀 ')
+    .replace(/bedrooms?/, 'bedrooms 🛌 ');
+};
 ---
 
 <table class='min-w-full text-sm text-left text-gray-500 dark:text-gray-400'>
@@ -27,12 +35,15 @@ const places = data.sort((a, b) => Number(a.rentValue) - Number(b.rentValue));
     {
       places.map(d => (
         <tr class='mb-0.5 sm:mb-0 bg-white border-b dark:bg-gray-800 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600 flex justify-start flex-wrap items-center sm:table-row sm:text-sm lg:text-base'>
-          <TableCell class='p-0 self-center flex-grow px-0'>
+          <TableCell class='p-0 self-center flex-grow px-0 lg:p-0'>
             <a href={d.link} target='_blank' rel='noopener noreferrer'>
-              <div
-                class='relative aspect-video sm:rounded-full overflow-hidden w-full sm:aspect-square sm:w-20 lg:w-32'
-                set:html={d.image}
-              />
+              <div class=' overflow-hidden w-full  sm:w-20 lg:w-32'>
+                <Image
+                  src={d.image}
+                  alt={`Image from ${d.title}`}
+                  class='sm:aspect-square aspect-video sm:rounded-full'
+                />
+              </div>
             </a>
           </TableCell>
           <TableCell class='font-semibold md:text-base text-gray-900 dark:text-white basis-full'>
@@ -45,7 +56,9 @@ const places = data.sort((a, b) => Number(a.rentValue) - Number(b.rentValue));
             </a>
           </TableCell>
           <TableCell class='basis-full'>
-            <div class='font-medium '>{d.configuration}</div>
+            <div class='font-medium '>
+              <span set:html={replaceToIcon(d.configuration)} />
+            </div>
             <div class='font-normal text-gray-500'>{d.rentBy}</div>
           </TableCell>
           <TableCell class='whitespace-nowrap basis-full flex flex-row justify-between'>
