@@ -17,10 +17,9 @@ export async function scrape(url) {
   return cheerio.load(html);
 }
 
-const cities = ['porto', 'braga', 'guimaraes', 'lisbon', 'aveiro', 'viseu', 'coimbra', 'leiria'];
 const baseUrl = 'https://www.uniplaces.com/accommodation';
 
-export async function scrapeAndSave() {
+export async function scrapeAndSave(cities) {
   const start = performance.now();
   const contentAll = [];
   try {
