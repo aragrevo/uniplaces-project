@@ -8,6 +8,7 @@ export const cleanText = text =>
     .replace(/\t|\n|\s:/g, '')
     .replace(/.*:/g, ' ')
     .replace(/Available from/g, '')
+    .replace(/€/g, '')
     .trim();
 
 export async function scrape(url) {
@@ -16,17 +17,27 @@ export async function scrape(url) {
   return cheerio.load(html);
 }
 
+const cities = ['porto', 'braga', 'guimaraes', 'lisbon', 'aveiro', 'viseu', 'coimbra', 'leiria'];
+const baseUrl = 'https://www.uniplaces.com/accommodation';
+
 export async function scrapeAndSave() {
   const start = performance.now();
-  const url = 'https://www.uniplaces.com/accommodation/porto?guests=3&move-in=2023-05-16&order=price_asc';
+  const contentAll = [];
   try {
-    logInfo(`Scraping [LeaderBoard]...`);
-    const $ = url ? await scrape(url) : null;
-    const content = await getLeaderBoard($);
-    logSuccess(`[LeaderBoard] scraped successfully`);
+    for (const city of cities) {
+      const url = `${baseUrl}/${city}?guests=3&move-in=2023-05-16&order=price_asc&rent-type[]=property`;
+
+      logInfo(`Scraping [${city}]...`);
+      logInfo(`Scraping [${url}]...`);
+      const $ = url ? await scrape(url) : null;
+      const content = await getLeaderBoard($, city);
+      logSuccess(`[${city}] scraped successfully`);
+      contentAll.push(content);
+    }
 
     logInfo(`Writing [LeaderBoard] to database...`);
-    await writeDBFile('leaderboard', content);
+    const contentFlat = contentAll.flat();
+    await writeDBFile('leaderboard', contentFlat);
     logSuccess(`[LeaderBoard] written successfully`);
   } catch (e) {
     logError(`Error scraping [LeaderBoard]`);

@@ -11,7 +11,7 @@ const LEADERBOARD_SELECTORS = {
   offerAvailability: {selector: '.offer__availability', typeOf: 'string'},
 };
 
-export async function getLeaderBoard($) {
+export async function getLeaderBoard($, city) {
   const $rows = $('main section div a');
 
   const leaderBoardSelectorEntries = Object.entries(LEADERBOARD_SELECTORS);
@@ -31,6 +31,8 @@ export async function getLeaderBoard($) {
     const leaderboardForTeam = Object.fromEntries(leaderBoardEntries);
     leaderboard.push({
       ...leaderboardForTeam,
+      city,
+      rentValue: leaderboardForTeam.rentValue.replace(/\,/g, ''),
       link: $el.attr('href'),
       image: $el.text(),
     });
