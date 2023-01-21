@@ -3,9 +3,7 @@ import CheckIcon from '@components/icons/CheckIcon.astro';
 import TableCell from '@components/TableCell.astro';
 import TableHeaderCell from '@components/TableHeaderCell.astro';
 
-import {getLeaderboard} from '@services/leaderboard';
-
-const data = await getLeaderboard();
+const {data = []} = Astro.props;
 const places = data.sort((a, b) => Number(a.rentValue) - Number(b.rentValue));
 ---
 

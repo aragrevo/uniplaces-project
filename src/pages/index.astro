@@ -1,13 +1,25 @@
 ---
-import PlacesTable from '@components/PlacesTable.astro';
 import Layout from '@layouts/Layout.astro';
+import BtnCity from '@components/BtnCity.astro';
+import PlacesTable from '@components/PlacesTable.astro';
+import {getCities, getLeaderboard} from '@services/leaderboard';
+const data = await getLeaderboard();
+const cities = await getCities();
+
+const citiesCount = cities.map(name => {
+  const count = data.filter(d => d.city === name).length;
+  return {name, count};
+});
 ---
 
 <Layout>
   <main class='px-4 py-8'>
     <h1 class='text-3xl text-center'>Uniplaces Project</h1>
-    <section class='relative overflow-x-auto my-8'>
-      <PlacesTable />
+    <section class='py-8 flex gap-3 flex-wrap justify-between'>
+      {citiesCount.map(city => <BtnCity {...city} />)}
+    </section>
+    <section class='relative overflow-x-auto py-8'>
+      <PlacesTable data={data} />
     </section>
   </main>
 </Layout>

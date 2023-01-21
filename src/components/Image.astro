@@ -1,0 +1,12 @@
+---
+const {src, alt, class: className} = Astro.props;
+---
+
+<img
+  class={`rounded-lg object-cover object-top transition-all ${className}`}
+  src={src}
+  alt={alt}
+  decoding='async'
+  loading='lazy'
+  fetchpriority='high'
+/>
