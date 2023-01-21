@@ -1,79 +1,13 @@
 ---
-import CheckIcon from '@components/icons/CheckIcon.astro';
-import TableCell from '@components/TableCell.astro';
-import TableHeaderCell from '@components/TableHeaderCell.astro';
-import {getLeaderboard} from '@services/leaderboard';
-
-const data = await getLeaderboard();
+import PlacesTable from '@components/PlacesTable.astro';
+import Layout from '@layouts/Layout.astro';
 ---
 
-<html lang='en'>
-  <head>
-    <meta charset='utf-8' />
-    <link rel='icon' type='image/svg+xml' href='/favicon.svg' />
-    <meta name='viewport' content='width=device-width' />
-    <meta name='generator' content={Astro.generator} />
-    <title>Uniplaces Project</title>
-  </head>
-  <body class='container grid place-items-center min-h-screen max-w-6xl mx-auto bg-neutral-900 text-neutral-100'>
-    <h1 class='text-3xl'>Uniplaces Project</h1>
-    <div class='relative overflow-x-auto shadow-md sm:rounded-lg'>
-      <table class='min-w-full text-sm text-left text-gray-500 dark:text-gray-400'>
-        <thead class='text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400'>
-          <tr>
-            <TableHeaderCell>
-              <span class='sr-only'>Image</span>
-            </TableHeaderCell>
-            <TableHeaderCell>Title</TableHeaderCell>
-            <TableHeaderCell>Configuration</TableHeaderCell>
-            <TableHeaderCell>Location</TableHeaderCell>
-            <TableHeaderCell>Price</TableHeaderCell>
-            <TableHeaderCell>Bills</TableHeaderCell>
-            <TableHeaderCell>Availabre from</TableHeaderCell>
-          </tr>
-        </thead>
-        <tbody>
-          {
-            data.map(d => (
-              <tr class='bg-white border-b dark:bg-gray-800 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600'>
-                <TableCell class='w-32 p-0'>
-                  <a href={d.link} target='_blank' rel='noopener noreferrer'>
-                    <div class='relative' set:html={d.image} />
-                  </a>
-                </TableCell>
-                <TableCell class='font-semibold text-base text-gray-900 dark:text-white'>
-                  <a
-                    href={d.link}
-                    target='_blank'
-                    rel='noopener noreferrer'
-                    class='hover:underline hover:text-blue-600 transition-all'>
-                    {d.title}
-                  </a>
-                </TableCell>
-                <TableCell>
-                  <div class='font-medium'>{d.configuration}</div>
-                  <div class='font-normal text-gray-500'>{d.rentBy}</div>
-                </TableCell>
-                <TableCell class='whitespace-nowrap'>{d.neighbourHood}</TableCell>
-                <TableCell class='font-semibold text-gray-900 dark:text-white whitespace-nowrap'>
-                  {d.rentValue}
-                  {d.rentFrequency}
-                </TableCell>
-                <TableCell>
-                  {d.billsIncluded && (
-                    <span title={d.billsIncluded}>
-                      <CheckIcon />
-                    </span>
-                  )}
-                </TableCell>
-                <TableCell class='whitespace-nowrap'>
-                  <span>{d.offerAvailability}</span>
-                </TableCell>
-              </tr>
-            ))
-          }
-        </tbody>
-      </table>
-    </div>
-  </body>
-</html>
+<Layout>
+  <main class='px-4 py-8'>
+    <h1 class='text-3xl text-center'>Uniplaces Project</h1>
+    <section class='relative overflow-x-auto my-8'>
+      <PlacesTable />
+    </section>
+  </main>
+</Layout>
