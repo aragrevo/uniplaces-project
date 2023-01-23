@@ -8,7 +8,5 @@ const {src, alt, height, width, class: className, lazy = true} = Astro.props;
   alt={alt}
   decoding='async'
   loading={lazy ? 'lazy' : 'eager'}
-  height={height}
-  width={width}
   fetchpriority='high'
 />
