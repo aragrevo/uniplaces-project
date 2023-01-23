@@ -33,12 +33,13 @@ const replaceToIcon = value => {
   </thead>
   <tbody>
     {
-      places.map(d => (
+      places.map((d, i) => (
         <tr class='mb-0.5 sm:mb-0 bg-white border-b dark:bg-gray-800 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600 flex justify-start flex-wrap items-center sm:table-row sm:text-sm lg:text-base'>
           <TableCell class='p-0 self-center flex-grow px-0 lg:p-0'>
             <a href={d.link} target='_blank' rel='noopener noreferrer'>
               <div class=' overflow-hidden w-full  sm:w-20 lg:w-32'>
                 <Image
+                  lazy={i === 0 ? false : true}
                   src={d.image}
                   alt={`Image from ${d.title}`}
                   class='sm:aspect-square aspect-video sm:rounded-full'

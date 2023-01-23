@@ -1,5 +1,5 @@
 ---
-const {src, alt, height, width, class: className} = Astro.props;
+const {src, alt, height, width, class: className, lazy = true} = Astro.props;
 ---
 
 <img
@@ -7,7 +7,7 @@ const {src, alt, height, width, class: className} = Astro.props;
   src={src}
   alt={alt}
   decoding='async'
-  loading='lazy'
+  loading={lazy ? 'lazy' : 'eager'}
   height={height}
   width={width}
   fetchpriority='high'
