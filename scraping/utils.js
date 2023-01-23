@@ -19,6 +19,8 @@ export async function scrape(url) {
 
 const baseUrl = 'https://www.uniplaces.com/accommodation';
 
+const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
+
 export async function scrapeAndSave(cities) {
   const start = performance.now();
   const contentAll = [];
@@ -29,6 +31,7 @@ export async function scrapeAndSave(cities) {
       logInfo(`Scraping [${city}]...`);
       logInfo(`Scraping [${url}]...`);
       const $ = url ? await scrape(url) : null;
+      await sleep(500);
       const content = await getLeaderBoard($, city);
       logSuccess(`[${city}] scraped successfully [${content.length}]`);
       contentAll.push(content);
