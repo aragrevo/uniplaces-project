@@ -12,6 +12,7 @@ const citiesCount = cities.map(name => {
 });
 ---
 
+<!-- TODO: filter list --><!-- TODO: check views --><!-- TODO:  -->
 <Layout>
   <main class='px-4 py-8'>
     <h1 class='text-3xl text-center'>Uniplaces Project</h1>
@@ -21,5 +22,14 @@ const citiesCount = cities.map(name => {
     <section class='relative overflow-x-auto py-8'>
       <PlacesTable data={data} />
     </section>
+    <script>
+      function handleClick({target}) {
+        console.log('button clicked!', target.id);
+      }
+      const btns = document.querySelectorAll('button.btn-city');
+      btns.forEach(btn => {
+        btn.addEventListener('click', handleClick);
+      });
+    </script>
   </main>
 </Layout>
