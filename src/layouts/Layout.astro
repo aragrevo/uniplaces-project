@@ -1,6 +1,9 @@
 ---
 import {getLeaderboard} from '@services/leaderboard';
+import Navbar from '@components/Navbar.astro';
 const data = await getLeaderboard();
+
+const {title = ''} = Astro.props;
 ---
 
 <!DOCTYPE html>
@@ -15,10 +18,16 @@ const data = await getLeaderboard();
     <!-- https://cdn-static-new.uniplaces.com -->
     {data.map(({image}) => <link href={image} rel='preload' type='image/jpg' as='image' fetchpriority='high' />)}
     <!-- Primary Meta Tags -->
-    <title>Uniplaces Project</title>
+    <title>Home Project | {title}</title>
     <meta name='description' content='Scrape uniplace to search lucky places' />
   </head>
-  <body class='container grid place-items-center min-h-screen max-w-6xl mx-auto bg-neutral-900 text-neutral-100'>
-    <slot />
+  <body class='container min-h-screen max-w-6xl mx-auto bg-neutral-900 text-neutral-100 flex flex-col'>
+    <header class='w-full'>
+      <Navbar />
+    </header>
+    <main class='px-4 py-8 h-full flex flex-col grow'>
+      <h1 class='text-3xl text-center'>{title}</h1>
+      <slot />
+    </main>
   </body>
 </html>
