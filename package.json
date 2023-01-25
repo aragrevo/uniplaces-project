@@ -9,7 +9,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "scrape": "node --no-warnings scraping/index.js"
+    "scrape": "node --no-warnings scraping/index.js",
+    "scrapeSupercasa": "node --no-warnings scraping/index.js supercasa"
   },
   "dependencies": {
     "@astrojs/tailwind": "2.1.3",
