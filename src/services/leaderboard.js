@@ -23,7 +23,8 @@ export const getCities = async () => {
 export const getSupercasa = async () => {
   try {
     const places = await readDBFile('supercasa');
-    return places;
+    const sortedContent = places.sort((a, b) => +a.rentValue - +b.rentValue);
+    return sortedContent;
   } catch (e) {
     // enviar el error a un servicio de reporte de errores
     return null;
