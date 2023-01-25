@@ -24,13 +24,16 @@ export async function getSupercasa($, city) {
     const leaderboardForTeam = Object.fromEntries(leaderBoardEntries);
     const link = $el.find('.property-list-title a').attr('href');
     const style = $el.find('.property-media .swiper-wrapper').attr('style');
-    const parts = style.split('https');
-    const partImg = parts.length >= 2 ? parts[1] : '';
-    const imageUrl = partImg.split(')')[0];
+    const parts = style?.split('https');
+    const partImg = parts?.length >= 2 ? parts[1] : '';
+    const imageUrl = partImg && partImg?.split(')')[0];
     const text = $el.find('script').text();
+    const valueParts = leaderboardForTeam.rentValue.split(' ');
+    const value = valueParts[0];
 
     leaderboard.push({
       ...leaderboardForTeam,
+      rentValue: value.replace(/\./g, ''),
       city,
       link,
       image: `https${imageUrl}`,

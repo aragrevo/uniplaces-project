@@ -7,20 +7,26 @@ import {scrapeAndSave} from './utils.js';
 //
 
 const scrapeParameter = process.argv.at(-1);
+const cities = await readDBFile('cities');
 
 logInfo('Scraping all data...');
 if (scrapeParameter === 'supercasa') {
-  const city = 'porto';
-  const url = `https://supercasa.pt/arrendar-casas/${city}-distrito?ordem=preco-asc`;
-  logInfo(`Scraping [${city}]...`);
-  logInfo(`Scraping [${url}]...`);
   const start = performance.now();
+  const contentAll = [];
   try {
-    const $ = await scrapeAndSave(url);
-    const content = await getSupercasa($, city);
-    logSuccess(`[${city}] scraped successfully [${content.length}]`);
+    for (const city of cities) {
+      const query = city === 'lisbon' ? 'lisboa' : city;
+      const url = `https://supercasa.pt/arrendar-casas/${query}-distrito?ordem=preco-asc`;
+      logInfo(`Scraping [${city}]...`);
+      logInfo(`Scraping [${url}]...`);
+      const $ = await scrapeAndSave(url);
+      const content = await getSupercasa($, city);
+      logSuccess(`[${city}] scraped successfully [${content.length}]`);
+      contentAll.push(content);
+    }
     logInfo(`Writing [${scrapeParameter}] to database...`);
-    await writeDBFile(scrapeParameter, content);
+    const contentFlat = contentAll.flat();
+    await writeDBFile(scrapeParameter, contentFlat);
     logSuccess(`[${scrapeParameter}] written successfully`);
   } catch (e) {
     logError(`Error scraping [${scrapeParameter}]`);
@@ -33,7 +39,7 @@ if (scrapeParameter === 'supercasa') {
 } else {
   const baseUrl = 'https://www.uniplaces.com/accommodation';
   const contentAll = [];
-  const cities = await readDBFile('cities');
+
   const start = performance.now();
   try {
     for (const city of cities) {
