@@ -7,7 +7,7 @@
     "city": "porto",
     "link": "/arrendamento-apartamento-t4-gondomar/i990175",
     "image": "https://imagens.supercasa.pt/Z360x270/OAYES/S5/C6963/P23381708/Tphoto/IDccc66401-0000-0500-0000-000010bb3098.jpg.webp",
-    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C6963/P23381708/Tphoto/IDccc66401-0000-0500-0000-000010bb3098.jpg\",\"name\":\"Apartamento T4 em Gondomar (São Cosme), Valbom e Jovim\",\"category\":\"Casas\",\"price\":[\"280\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2022-12-29T07:13:11.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Gondomar\",\"addressRegion\":\"Gondomar (São Cosme), Valbom e Jovim\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.131141,\"longitude\":-8.563118}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Exp Global Portugal  Lda\",\"image\":\"https://media.egorealestate.com/150x70/0cedd333-21a4-4103-b9f4-65bb4d16ad71.jpg\",\"address\":\"n/a\",\"telephone\":\"+351 243430853\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 243430853\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
+    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C6963/P23381708/Tphoto/IDccc66401-0000-0500-0000-000010bb3098.jpg\",\"name\":\"Apartamento T4 em Gondomar (São Cosme), Valbom e Jovim\",\"category\":\"Casas\",\"price\":[\"285\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2022-12-29T07:13:11.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Gondomar\",\"addressRegion\":\"Gondomar (São Cosme), Valbom e Jovim\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.131141,\"longitude\":-8.563118}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Exp Global Portugal  Lda\",\"image\":\"https://media.egorealestate.com/150x70/0cedd333-21a4-4103-b9f4-65bb4d16ad71.jpg\",\"address\":\"n/a\",\"telephone\":\"+351 243430853\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 243430853\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
   },
   {
     "title": "Apartamento T0 em Campanhã, Porto",
@@ -46,7 +46,7 @@
     "rentValue": "650 €",
     "city": "porto",
     "link": "/arrendamento-apartamento-t2-vila-nova-de-gaia/i665922",
-    "image": "https://imagens.supercasa.pt/Z80x60/S5/C2722/P5145431/Tphoto/ID57834e00-0000-0500-0000-0000027dde0b.JPG.webp",
+    "image": "https://imagens.supercasa.pt/Z360x270/S5/C2722/P5145431/Tphoto/ID57834e00-0000-0500-0000-0000027dde0b.JPG.webp",
     "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C2722/P5145431/Tphoto/ID57834e00-0000-0500-0000-0000027dde0b.JPG\",\"name\":\"Apartamento T2 em Canidelo\",\"category\":\"Casas\",\"price\":[\"650\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2022-04-12T20:33:11.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Vila Nova de Gaia\",\"addressRegion\":\"Canidelo\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.1207395,\"longitude\":-8.6365339}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Casa & Contratos, Lda.\",\"image\":\"https://media.egorealestate.com/150x70/22bc8a16-aaa6-459a-9533-76d3ff148d68.png\",\"address\":\"n/a\",\"telephone\":\"+351 253444035\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 253444035\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
   },
   {
@@ -56,7 +56,7 @@
     "rentValue": "675 €",
     "city": "porto",
     "link": "/arrendamento-apartamento-t0-porto/i1000497",
-    "image": "https://imagens.supercasa.pt/Z80x60/S5/C11963/P23407575/Tphoto/IDd72b6501-0000-0500-0000-000010c4cc17.jpg.webp",
+    "image": "https://imagens.supercasa.pt/Z360x270/S5/C11963/P23407575/Tphoto/IDd72b6501-0000-0500-0000-000010c4cc17.jpg.webp",
     "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C11963/P23407575/Tphoto/IDd72b6501-0000-0500-0000-000010c4cc17.jpg\",\"name\":\"Apartamento T0 em Campanhã\",\"category\":\"Casas\",\"price\":[\"675\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-01-08T00:31:18.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Porto\",\"addressRegion\":\"Campanhã\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.1568797,\"longitude\":-8.5775756835}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"HB - Grupo Habinédita\",\"image\":\"https://media.egorealestate.com/150x70/c1cf1f9b-3b1e-4a68-828a-bda29f1f1461.jpg\",\"address\":\"n/a\",\"telephone\":\"+351 225553052\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 225553052\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
   },
   {
@@ -66,7 +66,7 @@
     "rentValue": "675 €",
     "city": "porto",
     "link": "/arrendamento-apartamento-t0-porto/i1000503",
-    "image": "https://imagens.supercasa.pt/Z80x60/S5/C11963/P23407563/Tphoto/IDcb2b6501-0000-0500-0000-000010c4cb37.jpg.webp",
+    "image": "https://imagens.supercasa.pt/Z360x270/S5/C11963/P23407563/Tphoto/IDcb2b6501-0000-0500-0000-000010c4cb37.jpg.webp",
     "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C11963/P23407563/Tphoto/IDcb2b6501-0000-0500-0000-000010c4cb37.jpg\",\"name\":\"Apartamento T0 em Campanhã\",\"category\":\"Casas\",\"price\":[\"675\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-01-08T00:31:21.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Porto\",\"addressRegion\":\"Campanhã\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.1568797,\"longitude\":-8.5775756835}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"HB - Grupo Habinédita\",\"image\":\"https://media.egorealestate.com/150x70/c1cf1f9b-3b1e-4a68-828a-bda29f1f1461.jpg\",\"address\":\"n/a\",\"telephone\":\"+351 225553052\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 225553052\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
   },
   {
@@ -76,7 +76,7 @@
     "rentValue": "675 €",
     "city": "porto",
     "link": "/arrendamento-apartamento-t0-porto/i1000506",
-    "image": "https://imagens.supercasa.pt/Z80x60/S5/C11963/P23407556/Tphoto/IDc42b6501-0000-0500-0000-000010c4cac0.jpg.webp",
+    "image": "https://imagens.supercasa.pt/Z360x270/S5/C11963/P23407556/Tphoto/IDc42b6501-0000-0500-0000-000010c4cac0.jpg.webp",
     "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C11963/P23407556/Tphoto/IDc42b6501-0000-0500-0000-000010c4cac0.jpg\",\"name\":\"Apartamento T0 em Campanhã\",\"category\":\"Casas\",\"price\":[\"675\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-01-08T00:31:22.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Porto\",\"addressRegion\":\"Campanhã\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.1568797,\"longitude\":-8.5775756835}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"HB - Grupo Habinédita\",\"image\":\"https://media.egorealestate.com/150x70/c1cf1f9b-3b1e-4a68-828a-bda29f1f1461.jpg\",\"address\":\"n/a\",\"telephone\":\"+351 225553052\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 225553052\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
   },
   {
@@ -86,7 +86,7 @@
     "rentValue": "680 €",
     "city": "porto",
     "link": "/arrendamento-apartamento-matosinhos/i1008544",
-    "image": "https://imagens.supercasa.pt/Z80x60/S5/C2782/P23424847/Tphoto/ID4f6f6501-0000-0500-0000-000010caae55.jpg.webp",
+    "image": "https://imagens.supercasa.pt/Z360x270/S5/C2782/P23424847/Tphoto/ID4f6f6501-0000-0500-0000-000010caae55.jpg.webp",
     "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C2782/P23424847/Tphoto/ID4f6f6501-0000-0500-0000-000010caae55.jpg\",\"name\":\"Apartamento em São Mamede de Infesta e Senhora da Hora\",\"category\":\"Casas\",\"price\":[\"680\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-01-14T09:13:10.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Matosinhos\",\"addressRegion\":\"São Mamede de Infesta e Senhora da Hora\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.19362,\"longitude\":-8.606193}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Simetur - Mediação Imobiliária, Lda (Porto)\",\"image\":\"https://media.egorealestate.com/150x70/c9a1d470-8ec0-4314-85c8-abe2e4867e50.png\",\"address\":\"n/a\",\"telephone\":\"+351 253443587\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 253443587\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
   },
   {
@@ -96,7 +96,7 @@
     "rentValue": "700 €",
     "city": "porto",
     "link": "/arrendamento-apartamento-t1-valongo/i1005198",
-    "image": "https://imagens.supercasa.pt/Z80x60/S5/C13577/P23418057/Tphoto/IDc9546501-0000-0500-0000-000010c8934a.jpg.webp",
+    "image": "https://imagens.supercasa.pt/Z360x270/S5/C13577/P23418057/Tphoto/IDc9546501-0000-0500-0000-000010c8934a.jpg.webp",
     "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C13577/P23418057/Tphoto/IDc9546501-0000-0500-0000-000010c8934a.jpg\",\"name\":\"Apartamento T1 em Valongo\",\"category\":\"Casas\",\"price\":[\"700\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-01-12T06:37:12.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Valongo\",\"addressRegion\":\"Valongo\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.1909794,\"longitude\":-8.4980511}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"KCasa Imobiliária\",\"image\":\"https://media.egorealestate.com/150x70/829ca2ef-b478-4299-baff-5357d38b3848.jpg\",\"address\":\"n/a\",\"telephone\":\"+351 225550231\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 225550231\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
   },
   {
@@ -106,7 +106,7 @@
     "rentValue": "700 €",
     "city": "porto",
     "link": "/arrendamento-apartamento-t1-porto/i1000505",
-    "image": "https://imagens.supercasa.pt/Z80x60/S5/C11963/P23407558/Tphoto/IDc62b6501-0000-0500-0000-000010c4cada.jpg.webp",
+    "image": "https://imagens.supercasa.pt/Z360x270/S5/C11963/P23407558/Tphoto/IDc62b6501-0000-0500-0000-000010c4cada.jpg.webp",
     "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C11963/P23407558/Tphoto/IDc62b6501-0000-0500-0000-000010c4cada.jpg\",\"name\":\"Apartamento T1 em Campanhã\",\"category\":\"Casas\",\"price\":[\"700\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-01-08T00:31:22.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Porto\",\"addressRegion\":\"Campanhã\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.1568797,\"longitude\":-8.5775756835}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"HB - Grupo Habinédita\",\"image\":\"https://media.egorealestate.com/150x70/c1cf1f9b-3b1e-4a68-828a-bda29f1f1461.jpg\",\"address\":\"n/a\",\"telephone\":\"+351 225553052\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 225553052\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
   },
   {
@@ -116,7 +116,7 @@
     "rentValue": "750 €",
     "city": "porto",
     "link": "/venda-arrendamento-apartamento-t0-vila-nova-de-gaia/i279973",
-    "image": "https://imagens.supercasa.pt/Z80x60/S5/C1890/P15957435/Tphoto/IDbb7df300-0000-0500-0000-00000d5ea2b0.jpg.webp",
+    "image": "https://imagens.supercasa.pt/Z360x270/S5/C1890/P15957435/Tphoto/IDbb7df300-0000-0500-0000-00000d5ea2b0.jpg.webp",
     "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C1890/P15957435/Tphoto/IDbb7df300-0000-0500-0000-00000d5ea2b0.jpg\",\"name\":\"Apartamento T0 em Santa Marinha e São Pedro da Afurada\",\"category\":\"Casas\",\"price\":[\"163.000\",\"750\"],\"priceCurrency\":[\"€\",\"€\"],\"availabilityStarts\":\"2021-07-27T15:27:22.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Vila Nova de Gaia\",\"addressRegion\":\"Santa Marinha e São Pedro da Afurada\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.1362464,\"longitude\":-8.6124211}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Paulo Sérgio  Propriedades Lda\",\"image\":\"https://media.egorealestate.com/150x70/e98b39d7-7f6a-4110-a7a8-61e5f02b76af.jpg\",\"address\":\"n/a\",\"telephone\":\"+351 225551082\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 225551082\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
   },
   {
@@ -126,7 +126,7 @@
     "rentValue": "750 €",
     "city": "porto",
     "link": "/arrendamento-apartamento-t2-povoa-de-varzim/i997078",
-    "image": "https://imagens.supercasa.pt/Z80x60/S5/C9096/P23398683/Tphoto/ID1b096501-0000-0500-0000-000010c1702c.jpg.webp",
+    "image": "https://imagens.supercasa.pt/Z360x270/S5/C9096/P23398683/Tphoto/ID1b096501-0000-0500-0000-000010c1702c.jpg.webp",
     "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C9096/P23398683/Tphoto/ID1b096501-0000-0500-0000-000010c1702c.jpg\",\"name\":\"Apartamento T2 em Póvoa de Varzim, Beiriz e Argivai\",\"category\":\"Casas\",\"price\":[\"750\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-01-05T13:33:10.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Póvoa de Varzim\",\"addressRegion\":\"Póvoa de Varzim, Beiriz e Argivai\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.37954,\"longitude\":-8.763906}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"MOV Imobiliária\",\"image\":\"https://media.egorealestate.com/150x70/50788ff2-153d-45e6-8eff-a1dcb918b864.png\",\"address\":\"n/a\",\"telephone\":\"+351 225552531\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 225552531\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
   },
   {
@@ -136,7 +136,7 @@
     "rentValue": "750 €",
     "city": "porto",
     "link": "/arrendamento-moradia-t3-vila-nova-de-gaia/i1025111",
-    "image": "https://imagens.supercasa.pt/Z80x60/S58/C257963/P1025111/Tphoto/IDeae610c7-06af-4786-bfe6-70ad8d352b89.jpg.webp",
+    "image": "https://imagens.supercasa.pt/Z360x270/S58/C257963/P1025111/Tphoto/IDeae610c7-06af-4786-bfe6-70ad8d352b89.jpg.webp",
     "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S58/C257963/P1025111/Tphoto/IDeae610c7-06af-4786-bfe6-70ad8d352b89.jpg\",\"name\":\"Moradia T3 em Arcozelo\",\"category\":\"Casas\",\"price\":[\"750\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-01-24T19:23:10.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Vila Nova de Gaia\",\"addressRegion\":\"Arcozelo\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.0587065,\"longitude\":-8.65167}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"Person\",\"name\":\"Manuel\",\"image\":\"https://supercasa.pt/images/logo.png\",\"address\":\"n/a\",\"telephone\":\"0\"}}"
   },
   {
@@ -146,7 +146,7 @@
     "rentValue": "750 €",
     "city": "porto",
     "link": "/arrendamento-apartamento-t1-porto/i1023854",
-    "image": "https://imagens.supercasa.pt/Z80x60/S5/C11917/P23459766/Tphoto/IDb6f76501-0000-0500-0000-000010d69342.jpg.webp",
+    "image": "https://imagens.supercasa.pt/Z360x270/S5/C11917/P23459766/Tphoto/IDb6f76501-0000-0500-0000-000010d69342.jpg.webp",
     "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C11917/P23459766/Tphoto/IDb6f76501-0000-0500-0000-000010d69342.jpg\",\"name\":\"Apartamento T1 em Paranhos\",\"category\":\"Casas\",\"price\":[\"750\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-01-23T17:29:14.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Porto\",\"addressRegion\":\"Paranhos\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.183347,\"longitude\":-8.608204}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Predimartins Imobiliária\",\"image\":\"https://media.egorealestate.com/150x70/d430e654-4057-434b-90ed-4de75ce3109e.jpg\",\"address\":\"n/a\",\"telephone\":\"+351 225553054\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 225553054\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
   },
   {
@@ -156,7 +156,7 @@
     "rentValue": "750 €",
     "city": "porto",
     "link": "/arrendamento-apartamento-t1-matosinhos/i1025808",
-    "image": "https://imagens.supercasa.pt/Z80x60/S5/C13928/P23467340/Tphoto/ID4c156601-0000-0500-0000-000010d8e24c.jpg.webp",
+    "image": "https://imagens.supercasa.pt/Z360x270/S5/C13928/P23467340/Tphoto/ID4c156601-0000-0500-0000-000010d8e24c.jpg.webp",
     "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C13928/P23467340/Tphoto/ID4c156601-0000-0500-0000-000010d8e24c.jpg\",\"name\":\"Apartamento T1 em Matosinhos e Leça da Palmeira\",\"category\":\"Casas\",\"price\":[\"750\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-01-25T12:07:13.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Matosinhos\",\"addressRegion\":\"Matosinhos e Leça da Palmeira\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.1812172,\"longitude\":-8.689859}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Rita Aires Pereira - R.R. Imóveis\",\"image\":\"https://supercasa.pt/images/logo.png\",\"address\":\"n/a\",\"telephone\":\"+351 225550647\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 225550647\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
   },
   {
@@ -166,7 +166,7 @@
     "rentValue": "750 €",
     "city": "porto",
     "link": "/arrendamento-apartamento-t1-porto/i1000501",
-    "image": "https://imagens.supercasa.pt/Z80x60/S5/C11963/P23407567/Tphoto/IDcf2b6501-0000-0500-0000-000010c4cb84.jpg.webp",
+    "image": "https://imagens.supercasa.pt/Z360x270/S5/C11963/P23407567/Tphoto/IDcf2b6501-0000-0500-0000-000010c4cb84.jpg.webp",
     "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C11963/P23407567/Tphoto/IDcf2b6501-0000-0500-0000-000010c4cb84.jpg\",\"name\":\"Apartamento T1 em Campanhã\",\"category\":\"Casas\",\"price\":[\"750\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-01-08T00:31:20.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Porto\",\"addressRegion\":\"Campanhã\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.1568797,\"longitude\":-8.5775756835}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"HB - Grupo Habinédita\",\"image\":\"https://media.egorealestate.com/150x70/c1cf1f9b-3b1e-4a68-828a-bda29f1f1461.jpg\",\"address\":\"n/a\",\"telephone\":\"+351 225553052\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 225553052\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
   },
   {
@@ -176,7 +176,7 @@
     "rentValue": "790 €",
     "city": "porto",
     "link": "/arrendamento-apartamento-t2-matosinhos/i998195",
-    "image": "https://imagens.supercasa.pt/Z80x60/S5/C13382/P23403620/Tphoto/ID641c6501-0000-0500-0000-000010c2e747.jpg.webp",
+    "image": "https://imagens.supercasa.pt/Z360x270/S5/C13382/P23403620/Tphoto/ID641c6501-0000-0500-0000-000010c2e747.jpg.webp",
     "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C13382/P23403620/Tphoto/ID641c6501-0000-0500-0000-000010c2e747.jpg\",\"name\":\"Apartamento T2 em São Mamede de Infesta e Senhora da Hora\",\"category\":\"Casas\",\"price\":[\"790\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-01-06T12:03:15.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Matosinhos\",\"addressRegion\":\"São Mamede de Infesta e Senhora da Hora\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.19190475,\"longitude\":-8.6104386989}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Escolha Acertada - Mediação Imobiliária, Lda\",\"image\":\"https://media.egorealestate.com/150x70/51327e78-9fec-4389-9c6f-da3073bb7e7f.jpg\",\"address\":\"n/a\",\"telephone\":\"+351 225550186\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 225550186\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
   },
   {
@@ -186,7 +186,7 @@
     "rentValue": "790 €",
     "city": "porto",
     "link": "/arrendamento-apartamento-t2-valongo/i922388",
-    "image": "https://imagens.supercasa.pt/Z80x60/S5/C13382/P23195400/Tphoto/ID08ef6101-0000-0500-0000-0000107d8876.jpg.webp",
+    "image": "https://imagens.supercasa.pt/Z360x270/S5/C13382/P23195400/Tphoto/ID08ef6101-0000-0500-0000-0000107d8876.jpg.webp",
     "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C13382/P23195400/Tphoto/ID08ef6101-0000-0500-0000-0000107d8876.jpg\",\"name\":\"Apartamento T2 em Valongo\",\"category\":\"Casas\",\"price\":[\"790\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2022-11-03T18:09:15.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Valongo\",\"addressRegion\":\"Valongo\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.1909794,\"longitude\":-8.4980511}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Escolha Acertada - Mediação Imobiliária, Lda\",\"image\":\"https://media.egorealestate.com/150x70/51327e78-9fec-4389-9c6f-da3073bb7e7f.jpg\",\"address\":\"n/a\",\"telephone\":\"+351 225550186\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 225550186\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
   },
   {
@@ -196,7 +196,7 @@
     "rentValue": "800 €",
     "city": "porto",
     "link": "/arrendamento-apartamento-t1-porto/i1025568",
-    "image": "https://imagens.supercasa.pt/Z80x60/S5/C4494/P23466348/Tphoto/ID6c116601-0000-0500-0000-000010d898e8.JPG.webp",
+    "image": "https://imagens.supercasa.pt/Z360x270/S5/C4494/P23466348/Tphoto/ID6c116601-0000-0500-0000-000010d898e8.JPG.webp",
     "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C4494/P23466348/Tphoto/ID6c116601-0000-0500-0000-000010d898e8.JPG\",\"name\":\"Apartamento T1 em Paranhos\",\"category\":\"Casas\",\"price\":[\"800\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-01-25T09:53:11.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Porto\",\"addressRegion\":\"Paranhos\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.17478,\"longitude\":-8.60652351}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"100 DOMUS - MEDIAÇÃO IMOBILIÁRIA, LDA\",\"image\":\"https://media.egorealestate.com/150x70/7f29e57e-d138-4707-92c7-24d1428cf27b.jpg\",\"address\":\"n/a\",\"telephone\":\"+351 225551638\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 225551638\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
   },
   {
@@ -206,7 +206,7 @@
     "rentValue": "800 €",
     "city": "porto",
     "link": "/venda-arrendamento-apartamento-t1-porto/i848363",
-    "image": "https://imagens.supercasa.pt/Z80x60/S5/C3019/P9686480/Tphoto/IDd0cd9300-0000-0500-0000-000007b71398.jpg.webp",
+    "image": "https://imagens.supercasa.pt/Z360x270/S5/C3019/P9686480/Tphoto/IDd0cd9300-0000-0500-0000-000007b71398.jpg.webp",
     "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C3019/P9686480/Tphoto/IDd0cd9300-0000-0500-0000-000007b71398.jpg\",\"name\":\"Apartamento T1 em Bonfim\",\"category\":\"Casas\",\"price\":[\"150.000\",\"800\"],\"priceCurrency\":[\"€\",\"€\"],\"availabilityStarts\":\"2022-08-30T11:01:10.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Porto\",\"addressRegion\":\"Bonfim\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.159274,\"longitude\":-8.600481}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"MBAM - Soluções e Mediação Imobiliária, S.A.\",\"image\":\"https://media.egorealestate.com/150x70/32c30bba-a4d9-4f69-af06-3d411a9e0e29.jpg\",\"address\":\"n/a\",\"telephone\":\"+351 225550267\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 225550267\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
   },
   {
@@ -216,7 +216,7 @@
     "rentValue": "800 €",
     "city": "porto",
     "link": "/arrendamento-apartamento-t2-vila-nova-de-gaia/i1008462",
-    "image": "https://imagens.supercasa.pt/Z80x60/S5/C11580/P23427441/Tphoto/ID71796501-0000-0500-0000-000010cb6bd4.jpg.webp",
+    "image": "https://imagens.supercasa.pt/Z360x270/S5/C11580/P23427441/Tphoto/ID71796501-0000-0500-0000-000010cb6bd4.jpg.webp",
     "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C11580/P23427441/Tphoto/ID71796501-0000-0500-0000-000010cb6bd4.jpg\",\"name\":\"Apartamento T2 em Santa Marinha e São Pedro da Afurada\",\"category\":\"Casas\",\"price\":[\"800\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-01-14T06:13:27.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Vila Nova de Gaia\",\"addressRegion\":\"Santa Marinha e São Pedro da Afurada\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.11521,\"longitude\":-8.604939}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Predimed Portugal\",\"image\":\"https://media.egorealestate.com/150x70/de726f9c-d2a2-43d9-84b3-d6b2e6d71f38.jpg\",\"address\":\"n/a\",\"telephone\":\"+351 215556297\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 215556297\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
   },
   {
@@ -226,7 +226,7 @@
     "rentValue": "820 €",
     "city": "porto",
     "link": "/arrendamento-apartamento-t1-porto/i895648",
-    "image": "https://imagens.supercasa.pt/Z80x60/S5/C11557/P23094189/Tphoto/IDad636001-0000-0500-0000-0000105a12c4.jpg.webp",
+    "image": "https://imagens.supercasa.pt/Z360x270/S5/C11557/P23094189/Tphoto/IDad636001-0000-0500-0000-0000105a12c4.jpg.webp",
     "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C11557/P23094189/Tphoto/IDad636001-0000-0500-0000-0000105a12c4.jpg\",\"name\":\"Apartamento T1 em Bonfim\",\"category\":\"Casas\",\"price\":[\"820\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2022-10-12T05:07:10.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Porto\",\"addressRegion\":\"Bonfim\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.1555756,\"longitude\":-8.5915243}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"RE/MAX Vantagem Banca\",\"image\":\"https://media.egorealestate.com/150x70/a02d22e3-20c2-4e4c-9f13-316d45f77a73.jpg\",\"address\":\"n/a\",\"telephone\":\"+351 215556157\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 215556157\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
   },
   {
@@ -236,7 +236,7 @@
     "rentValue": "830 €",
     "city": "porto",
     "link": "/arrendamento-apartamento-t2-povoa-de-varzim/i992962",
-    "image": "https://imagens.supercasa.pt/Z80x60/S5/C11006/P23389127/Tphoto/IDc7e36401-0000-0500-0000-000010bdc6cb.jpg.webp",
+    "image": "https://imagens.supercasa.pt/Z360x270/S5/C11006/P23389127/Tphoto/IDc7e36401-0000-0500-0000-000010bdc6cb.jpg.webp",
     "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C11006/P23389127/Tphoto/IDc7e36401-0000-0500-0000-000010bdc6cb.jpg\",\"name\":\"Apartamento T2 em Póvoa de Varzim, Beiriz e Argivai\",\"category\":\"Casas\",\"price\":[\"830\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-01-02T12:47:22.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Póvoa de Varzim\",\"addressRegion\":\"Póvoa de Varzim, Beiriz e Argivai\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.3814286,\"longitude\":-8.7641914}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Casa Fama Imobiliária\",\"image\":\"https://media.egorealestate.com/150x70/d5e06268-eb19-4aeb-92f3-559ee8f122f5.png\",\"address\":\"n/a\",\"telephone\":\"+351 225551784\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 225551784\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
   },
   {
@@ -246,7 +246,7 @@
     "rentValue": "850 €",
     "city": "porto",
     "link": "/arrendamento-moradia-t2-vila-nova-de-gaia/i1025425",
-    "image": "https://imagens.supercasa.pt/Z80x60/S5/C11608/P23465928/Tphoto/IDc80f6601-0000-0500-0000-000010d86a81.jpg.webp",
+    "image": "https://imagens.supercasa.pt/Z360x270/S5/C11608/P23465928/Tphoto/IDc80f6601-0000-0500-0000-000010d86a81.jpg.webp",
     "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C11608/P23465928/Tphoto/IDc80f6601-0000-0500-0000-000010d86a81.jpg\",\"name\":\"Andar de Moradia T2 em Avintes\",\"category\":\"Casas\",\"price\":[\"850\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-01-25T06:07:10.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Vila Nova de Gaia\",\"addressRegion\":\"Avintes\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.116266,\"longitude\":-8.5508067}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Casas na Hora Gaia\",\"image\":\"https://supercasa.pt/images/logo.png\",\"address\":\"n/a\",\"telephone\":\"+351 215556347\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 215556347\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
   }
 ]

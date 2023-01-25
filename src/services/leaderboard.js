@@ -19,3 +19,13 @@ export const getCities = async () => {
     return [];
   }
 };
+
+export const getSupercasa = async () => {
+  try {
+    const places = await readDBFile('supercasa');
+    return places;
+  } catch (e) {
+    // enviar el error a un servicio de reporte de errores
+    return null;
+  }
+};
