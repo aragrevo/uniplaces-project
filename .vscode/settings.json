@@ -1,3 +1,4 @@
 {
-  "conventionalCommits.scopes": ["Scraper", "UI"]
+  "conventionalCommits.scopes": ["Scraper", "UI"],
+  "cSpell.words": ["idealista", "Supercasa"]
 }
