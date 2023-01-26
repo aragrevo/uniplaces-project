@@ -43,3 +43,8 @@ export async function getSupercasa($, city) {
 
   return leaderboard;
 }
+
+export function buildUrlSupercasa(city) {
+  const query = city === 'lisbon' ? 'lisboa' : city;
+  return `https://supercasa.pt/arrendar-casas/${query}-distrito/com-t1,t2,t3,t4?ordem=preco-asc`;
+}
