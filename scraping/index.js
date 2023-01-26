@@ -29,7 +29,7 @@ const contentAll = [];
 const start = performance.now();
 const file = scrap ? scrapeParameter : 'leaderboard';
 try {
-  for (const city of cities.slice(0, 1)) {
+  for (const city of cities) {
     const url = buildURlToScrape(city);
     logInfo(`Scraping [${city}]...`);
     logInfo(`Scraping [${url}]...`);
