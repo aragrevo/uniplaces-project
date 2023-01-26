@@ -9,7 +9,12 @@ const places = data.map(d => {
   try {
     place = JSON.parse(d.json);
   } catch (error) {
-    place = {};
+    place = {
+      name: d.title,
+      image: d.image.replace('Z80x60', 'Z360x270'),
+      price: `${d.rentValue}`,
+      availableAtOrFrom: {address: {addressLocality: d.city}},
+    };
   }
   return {
     ...place,
