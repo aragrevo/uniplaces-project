@@ -1,5 +1,7 @@
 ---
 import Image from '@components/Image.astro';
+import TagLocation from '@components/TagLocation.astro';
+import TagPrice from '@components/TagPrice.astro';
 import Layout from '@layouts/Layout.astro';
 import {getSupercasa} from '@services/leaderboard';
 
@@ -37,14 +39,10 @@ const places = data.map(d => {
               <p class='line-clamp-3'>{place?.description}</p>
               <span class='font-light text-base'>{place?.configuration}</span>
               {place?.availableAtOrFrom?.address?.addressRegion}
-              <div class='absolute bg-amber-600 py-1 px-2 text-white bottom-0 right-0 text-base whitespace-normal font-semibold mt-auto'>
-                {place?.availableAtOrFrom?.address?.addressLocality}
-              </div>
+              <TagLocation location={place?.availableAtOrFrom?.address?.addressLocality} />
             </div>
 
-            <div class='text-white absolute text-lg font-semibold bg-indigo-700 py-1 px-2'>
-              {place.price} {place.priceCurrency}
-            </div>
+            <TagPrice price={place.price} priceCurrency={place.priceCurrency} />
           </article>
         </a>
       ))

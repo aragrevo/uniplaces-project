@@ -1,0 +1,8 @@
+---
+const {price, priceCurrency, class: className = ''} = Astro.props;
+---
+
+<div class={`text-white absolute text-lg font-semibold bg-indigo-700 py-1 px-2 ${className}`}>
+  {price}
+  {priceCurrency}
+</div>

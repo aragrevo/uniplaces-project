@@ -15,7 +15,6 @@ const menu = [
   <div class='w-full flex flex-wrap items-center justify-between container max-w-6xl mx-auto px-4'>
     <div class='flex flex-col sm:flex-row gap-4 flex-grow items-center' id='navbarSupportedContent1'>
       <a class='text-xl text-white pr-2 font-semibold' href='/'>Home Project</a>
-      {Astro.url.pathname}
       <ul class='flex gap-4 mr-auto'>
         {
           menu.map(({title, href}) => (

@@ -1,0 +1,9 @@
+---
+const {location, class: className = ''} = Astro.props;
+---
+
+<div
+  class={`absolute z-50 bg-amber-600 py-1 px-2 text-white bottom-0 right-0 text-base whitespace-normal font-semibold mt-auto ${className} `}
+>
+  {location}
+</div>
