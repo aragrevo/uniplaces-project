@@ -30,3 +30,16 @@ export const getSupercasa = async () => {
     return null;
   }
 };
+
+export const getAirbnb = async () => {
+  try {
+    const places = await readDBFile('airbnb');
+    const sortedContent = places.sort((a, b) => {
+      return +a.rentValue - +b.rentValue;
+    });
+    return sortedContent;
+  } catch (e) {
+    // enviar el error a un servicio de reporte de errores
+    return null;
+  }
+};

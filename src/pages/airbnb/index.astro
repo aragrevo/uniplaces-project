@@ -1,0 +1,31 @@
+---
+import Image from '@components/Image.astro';
+import TagLocation from '@components/TagLocation.astro';
+import TagPrice from '@components/TagPrice.astro';
+import Layout from '@layouts/Layout.astro';
+import {getAirbnb} from '@services/leaderboard';
+
+const data = await getAirbnb();
+const places = data;
+---
+
+<Layout title='Airbnb'>
+  <section class='grid place-items-center grow grid-cols-1 md:grid-cols-4 gap-2 my-8'>
+    {
+      places.map(place => (
+        <a class='w-full h-full' href={`${place?.link}`} target='_blank' rel='noopener noreferrer'>
+          <article class='relative w-full h-full '>
+            <Image src={place?.image} alt={place?.title} class='w-full aspect-video absolute top-0 -z-10 ' />
+            <div class='pt-32 h-full flex flex-col'>
+              <h2 class='text-xl font-semibold truncate bg-black/30 px-2'>{place?.title}</h2>
+              <p class='line-clamp-3 px-2 flex-1'>{place?.description}</p>
+              <span class='font-light text-base px-2'>{place?.configuration}</span>
+            </div>
+            <TagLocation location={place?.city} />
+            <TagPrice price={place.rentValue} priceCurrency={place.rentDesc} class='top-0 left-0' />
+          </article>
+        </a>
+      ))
+    }
+  </section>
+</Layout>
