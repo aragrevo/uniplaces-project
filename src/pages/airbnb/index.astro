@@ -10,14 +10,18 @@ const places = data;
 ---
 
 <Layout title='Airbnb'>
-  <section class='grid place-items-center grow grid-cols-1 md:grid-cols-4 gap-2 my-8'>
+  <section
+    class='grid place-items-center grow grid-cols-1 md:grid-cols-4 gap-2 my-8 divide-y lg:divide-y-0 divide-white divide-opacity-30'
+  >
     {
       places.map(place => (
-        <a class='w-full h-full' href={`${place?.link}`} target='_blank' rel='noopener noreferrer'>
-          <article class='relative w-full h-full '>
-            <Image src={place?.image} alt={place?.title} class='w-full aspect-video absolute top-0 -z-10 ' />
-            <div class='pt-32 h-full flex flex-col'>
-              <h2 class='text-xl font-semibold truncate bg-black/30 px-2'>{place?.title}</h2>
+        <a class='w-full h-full pt-2 ' href={`${place?.link}`} target='_blank' rel='noopener noreferrer'>
+          <article class='relative w-full h-full rounded-lg overflow-hidden'>
+            <div class=' absolute top-0 -z-10'>
+              <Image src={place?.image} alt={place?.title} class='w-full aspect-video ' />
+            </div>
+            <div class='pt-32 h-full flex flex-col bg-gradient-to-b from-transparent via-black/30 to-transparent'>
+              <h2 class='text-xl font-semibold truncate px-2 lg:bg-black/30'>{place?.title}</h2>
               <p class='line-clamp-3 px-2 flex-1'>{place?.description}</p>
               <span class='font-light text-base px-2'>{place?.configuration}</span>
             </div>
