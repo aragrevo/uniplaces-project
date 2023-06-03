@@ -178,5 +178,95 @@
     "link": "/arrendamento-quintas-e-casas-rusticas-t1-castelo-branco/i761840",
     "image": "https://imagens.supercasa.pt/Z80x60/S5/C9432/P22798396/Tphoto/ID3ce05b01-0000-0500-0000-00000ffb3e8a.jpg.webp",
     "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C9432/P22798396/Tphoto/ID3ce05b01-0000-0500-0000-00000ffb3e8a.jpg\",\"name\":\"Ruína T1 em Benquerenças\",\"category\":\"Casas\",\"price\":[\"27.500\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2022-07-02T11:35:11.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Castelo Branco\",\"addressRegion\":\"Benquerenças\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":39.79239,\"longitude\":-7.583663}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Supercasa  17943\",\"image\":\"https://supercasa.pt/images/logo.png\",\"address\":\"n/a\",\"telephone\":\"0\",\"priceRange\":\"0\"}}"
+  },
+  {
+    "title": "Moradia T5 Duplex em União das freguesias de Vila Real, Vila Real",
+    "description": "EM REGIME DE EXCLUSIVIDADE! Está À procura de alojamento central , está a mudar de cidade e não tem onde se enquadrar? Nós temos a solução! Magnífica moradia para arrendamento ao quarto, desde 140 euros por quarto.  Deixe-se deslumbrar por esta magnífica moradia, situada na Traslar, numa zona central. Possui cinco quartos todos eles mobilados, cozinha equipada com forno, placa, exaustor, máquina de lavar a loiça, frigorífico, mesa e cadeiras, bem como móveis para melhor arrumação. Dispõe também de uma dispensa e uma sala muito luminosa, espaçosa , requintada e toda mobilada.  O aquecimento do imóvel é elétrico, com ar condicionado e aquecedores. A nível de caixilharia tem bom isolamento térmico e acústico. Zona sossegada, com boa acessibilidade. Está perto de escolas, padarias, restaurantes, cabeleireiros, bancos etc. De que está à espera!  Marque já a sua visita.  #ref:",
+    "configuration": "5 quartos\n                    121 m²\n                    C.E.: E",
+    "rentValue": "140",
+    "city": "vila-real",
+    "link": "/arrendamento-moradia-t5-vila-real/i321224",
+    "image": "https://imagens.supercasa.pt/Z360x270/OAYES/S5/C6987/P21464147/Tphoto/ID53844701-0000-0500-0000-00000e9a9c1a.jpg.webp",
+    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C6987/P21464147/Tphoto/ID53844701-0000-0500-0000-00000e9a9c1a.jpg\",\"name\":\"Moradia T5 Duplex em União das freguesias de Vila Real\",\"category\":\"Casas\",\"price\":[\"140\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2021-08-17T10:19:10.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Vila Real\",\"addressRegion\":\"União das freguesias de Vila Real\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.3102,\"longitude\":-7.73890448}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Imoinovação - Imobiliária, Unipessoal Lda\",\"image\":\"https://media.egorealestate.com/150x70/e760f60b-a50f-4805-8c98-f5f803110eb0.png\",\"address\":\"n/a\",\"telephone\":\"+351 273720215\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 273720215\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
+  },
+  {
+    "title": "Apartamento T5 em União das freguesias de Vila Real, Vila Real",
+    "description": "EM REGIME DE EXCLUSIVIDADE! A partir dos 180.00 euros cada quarto! Em regime de arrendamento ao quarto para estudantes, assim terá oportunidade de usufruir deste fantástico imóvel. Apartamento constituído por cinco quartos, todos mobilados, três casas de banho completas em linhas modernas, uma delas privativa. Dispõe de cozinha totalmente equipada, sala e terraço para poderem usufruir de momentos de lazer. Dispõe de caixilharia com rutura térmica, caixilharia oscilo batente. Ao seu dispor tem um magnífico terraço, onde poderão usufruir de momentos de lazer. Localiza-se ao pé do centro de camionagem, dispõe de transportes públicos bem à porta. Está no centro de Vila Real. Tem ao seu dispor toda uma zona comercial, com padarias, cafés, restaurantes, pingo doce, papelaria etc. Venha visitar este espetacular apartamento. Aguardamos por si! Seja o próximo cliente satisfeito.  #ref:",
+    "configuration": "5 quartos\n                    106 m²\n                    C.E.: D",
+    "rentValue": "180",
+    "city": "vila-real",
+    "link": "/arrendamento-apartamento-t5-vila-real/i753541",
+    "image": "https://imagens.supercasa.pt/Z360x270/OAYES/S5/C6987/P22568064/Tphoto/ID805c5801-0000-0500-0000-00000fade325.jpg.webp",
+    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C6987/P22568064/Tphoto/ID805c5801-0000-0500-0000-00000fade325.jpg\",\"name\":\"Apartamento T5 em União das freguesias de Vila Real\",\"category\":\"Casas\",\"price\":[\"180\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2022-06-29T11:27:14.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Vila Real\",\"addressRegion\":\"União das freguesias de Vila Real\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.3102,\"longitude\":-7.73890448}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Imoinovação - Imobiliária, Unipessoal Lda\",\"image\":\"https://media.egorealestate.com/150x70/e760f60b-a50f-4805-8c98-f5f803110eb0.png\",\"address\":\"n/a\",\"telephone\":\"+351 273720215\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 273720215\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
+  },
+  {
+    "title": "Moradia T2 em Águas Frias, Chaves",
+    "description": "Procura tranquilidade e estar a escassos minutos do centro da cidade?  Para férias ou para habitação propria, esta é a sua oportunidade de negocio.  Afastado do frenesim citadino e fácil acesso até à cidade.  Esta moradia é isolada, composta por dois quartos , uma casa de banho completa, uma sala de estar/ jantar e uma cozinha ampla.  Cozinha essa que tem uma lareira.  O rés do chão encontra-se amplo, podendo fazer também construção, ou deixar de garagem.  Est garagem tem potencial para mais de duas viatura.  Neste rés do chão encontramos ainda um anexo que serve de despensa.  Não podemos descrever esta moradia sem falar da excelente posição solar.  Para além da exposição solar tem umas vistas magnificas, quer sobre a aldeia, quer sobre espaços verdes.  É uma moradia que tem muita luz natural.  Ficou curioso com a potencialidade deste investimento?  Sem qualquer compromisso acrescido da sua parte, venha você mesmo tirar as suas proprias conclusões.  O compromisso é nosso em satisfazer o seu pedido.  Aguardamos por si!  #ref:322/M/01961",
+    "configuration": "2 quartos\n                    168 m²\n                    Terreno 168 m²\n                    C.E.: F",
+    "rentValue": "350",
+    "city": "vila-real",
+    "link": "/arrendamento-moradia-t2-chaves/i1059651",
+    "image": "https://imagens.supercasa.pt/Z360x270/OAYES/S5/C10371/P23559417/Tphoto/IDf97c6701-0000-0500-0000-000010f81a13.jpg.webp",
+    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C10371/P23559417/Tphoto/IDf97c6701-0000-0500-0000-000010f81a13.jpg\",\"name\":\"Moradia T2 em Águas Frias\",\"category\":\"Casas\",\"price\":[\"350\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-02-21T06:11:21.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Chaves\",\"addressRegion\":\"Águas Frias\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.766512153,\"longitude\":-7.3515682393}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"ComprarCasa - Chaves\",\"image\":\"https://media.egorealestate.com/150x70/42d2902b-81d7-4e8a-a618-f7a3067d373f.jpg\",\"address\":\"n/a\",\"telephone\":\"+351 276760132\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 276760132\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
+  },
+  {
+    "title": "Apartamento T3 em Santa Maria Maior, Chaves",
+    "description": "Procura um apartamento para arrendar ? Este apartamento encontra-se localizado na periferia da cidade, junto de vários pontos de interesse, nomeadamente de supermercados, cafés, restaurantes e paragem de TUC’s.  É semi-mobilado é composto por 3 quartos, sendo um deles com casa de banho privativa. Tem cozinha equipada e mobilada e uma sala ampla com varanda.  Tem aquecimento por gás canalizado e e por pelletes.  #ref:322/A/01524",
+    "configuration": "3 quartos\n                    93 m²\n                    C.E.: B-",
+    "rentValue": "480",
+    "city": "vila-real",
+    "link": "/arrendamento-apartamento-t3-chaves/i1120646",
+    "image": "https://imagens.supercasa.pt/Z360x270/OAYES/S5/C10371/P23721750/Tphoto/ID16f76901-0000-0500-0000-0000112ff981.jpg.webp",
+    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C10371/P23721750/Tphoto/ID16f76901-0000-0500-0000-0000112ff981.jpg\",\"name\":\"Apartamento T3 em Santa Maria Maior\",\"category\":\"Casas\",\"price\":[\"480\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-04-11T05:13:12.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Chaves\",\"addressRegion\":\"Santa Maria Maior\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.7524065,\"longitude\":-7.4764408}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"ComprarCasa - Chaves\",\"image\":\"https://media.egorealestate.com/150x70/42d2902b-81d7-4e8a-a618-f7a3067d373f.jpg\",\"address\":\"n/a\",\"telephone\":\"+351 276760132\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 276760132\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
+  },
+  {
+    "title": "Moradia T2 Duplex em Borbela e Lamas de Olo, Vila Real",
+    "description": "EM REGIME DE EXCLUSIVIDADE! Deixe-se deslumbrar por este magnífico andar moradia QUASE NOVO. Majestoso andar moradia, onde as linhas modernas e qualidade fazem parte primordial deste imóvel. Imóvel muito soalheiro, com duas frentes e muita luminosidade. Caixilharia oscilo batente, com rutura térmica e estores elétricos. Com um amplo espaço em open space cozinha e sala com todo o chão em flutuante vinílico em uníssono. Dois quartos com espaçosos roupeiros embutidos com muita arrumação. Pertencente ao imóvel uma casa de banho com muito espaço, toda ela em linhas modernas, completa com poliban, bem como resguarde para que a água não se dissipe! Tem a sua disposição na cozinha móveis que lhe permitem muita arrumação, todos os eletrodomésticos incluídos onde fazem parte integrante, forno, placa, exaustor, micro-ondas, frigorífico, máquina de lavar a roupa.  Para aquecimento das águas dispõe de cilindro e para aquecimento do próprio espaço dispõe de uma salamandra a pellets. Um fantástico e acolhedor andar moradia, no 1ro andar. Dispõe de aparcamento no exterior. Localiza-se em zona calma, bem perto do continente. Tem acessibilidade a transportes públicos. De que está à espera , marque já a sua visita! Aguardamos por si!  #ref:",
+    "configuration": "2 quartos\n                    54 m²\n                    C.E.: C",
+    "rentValue": "550",
+    "city": "vila-real",
+    "link": "/arrendamento-moradia-t2-vila-real/i1160416",
+    "image": "https://imagens.supercasa.pt/Z80x60/S5/C6987/P23821766/Tphoto/IDc67d6b01-0000-0500-0000-00001151ae6e.jpg.webp",
+    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C6987/P23821766/Tphoto/IDc67d6b01-0000-0500-0000-00001151ae6e.jpg\",\"name\":\"Moradia T2 Duplex em Borbela e Lamas de Olo\",\"category\":\"Casas\",\"price\":[\"550\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-05-05T15:29:14.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Vila Real\",\"addressRegion\":\"Borbela e Lamas de Olo\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.329792,\"longitude\":-7.75398636}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Imoinovação - Imobiliária, Unipessoal Lda\",\"image\":\"https://media.egorealestate.com/150x70/e760f60b-a50f-4805-8c98-f5f803110eb0.png\",\"address\":\"n/a\",\"telephone\":\"+351 273720215\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 273720215\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
+  },
+  {
+    "title": "Apartamento T3 em Santa Maria Maior, Chaves",
+    "description": "Procura apartamento para arrendar? Este apartamento duplex, espaçoso, remodelado no centro de Chaves. No primeiro andar: uma ampla sala, cozinha, varanda, 3 quartos sendo 1 suíte com armários embutidos, 1 casa de banho. No segundo andar: 1 casa de banho e 2 quartos. Venha agendar sua visita.  #ref:322/A/01981",
+    "configuration": "3 quartos\n                    150 m²\n                    C.E.: E",
+    "rentValue": "1000",
+    "city": "vila-real",
+    "link": "/arrendamento-apartamento-t3-chaves/i1139814",
+    "image": "https://imagens.supercasa.pt/Z80x60/S5/C10371/P23769972/Tphoto/ID74b36a01-0000-0500-0000-000011416874.jpg.webp",
+    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C10371/P23769972/Tphoto/ID74b36a01-0000-0500-0000-000011416874.jpg\",\"name\":\"Apartamento T3 em Santa Maria Maior\",\"category\":\"Casas\",\"price\":[\"1.000\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-04-25T05:11:16.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Chaves\",\"addressRegion\":\"Santa Maria Maior\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.741274,\"longitude\":-7.4717969}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"ComprarCasa - Chaves\",\"image\":\"https://media.egorealestate.com/150x70/42d2902b-81d7-4e8a-a618-f7a3067d373f.jpg\",\"address\":\"n/a\",\"telephone\":\"+351 276760132\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 276760132\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
+  },
+  {
+    "title": "Apartamento T2 em Santa Maria Maior, Chaves",
+    "description": "apartamento top perto de supermercados , farmácia. No centro da cidade",
+    "configuration": "2 quartos\n                    78 m²\n                    C.E.: A",
+    "rentValue": "450",
+    "city": "vila-real",
+    "link": "/arrendamento-apartamento-t2-chaves/i1212511",
+    "image": "https://imagens.supercasa.pt/Z80x60/S58/C652935/P1212511/Tphoto/IDffd7e76d-fa6a-4153-b80f-385b53cdbdac.jpg.webp",
+    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S58/C652935/P1212511/Tphoto/IDffd7e76d-fa6a-4153-b80f-385b53cdbdac.jpg\",\"name\":\"Apartamento T2 em Santa Maria Maior\",\"category\":\"Casas\",\"price\":[\"450\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-06-03T16:33:10.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Chaves\",\"addressRegion\":\"Santa Maria Maior\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.748751,\"longitude\":-7.4756894}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"Person\",\"name\":\"carlos\",\"image\":\"https://supercasa.pt/images/logo.png\",\"address\":\"n/a\",\"telephone\":\"0\"}}"
+  },
+  {
+    "title": "Apartamento T1 em União das freguesias de Vila Real, Vila Real",
+    "description": "T1 mobilado, como novo em edificio recuperado no centro da cidade de Vila Real. Proximo: hospital da Luz, CM de Vila Real, Loja do cidadão, escolas, PSP, etc.  #ref:32485603",
+    "configuration": "1 quarto\n                    55 m²\n                    C.E.: Avaliação em curso",
+    "rentValue": "650",
+    "city": "vila-real",
+    "link": "/arrendamento-apartamento-t1-vila-real/i1104110",
+    "image": "https://imagens.supercasa.pt/Z80x60/S58/C495367/P1104110/Tphoto/ID9f756a45-7a51-4014-9bf7-acfdd4b2f341.jpg.webp",
+    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S58/C495367/P1104110/Tphoto/ID9f756a45-7a51-4014-9bf7-acfdd4b2f341.jpg\",\"name\":\"Apartamento T1 em União das freguesias de Vila Real\",\"category\":\"Casas\",\"price\":[\"650\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-03-27T12:59:10.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Vila Real\",\"addressRegion\":\"União das freguesias de Vila Real\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.29511,\"longitude\":-7.745834}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"Person\",\"name\":\"Joaquim de Jesus\",\"image\":\"https://supercasa.pt/images/logo.png\",\"address\":\"n/a\",\"telephone\":\"0\"}}"
+  },
+  {
+    "title": "Apartamento T3 em Mateus, Vila Real",
+    "description": "",
+    "configuration": "3 quartos\n                    C.E.: B",
+    "rentValue": "800",
+    "city": "vila-real",
+    "link": "/arrendamento-apartamento-t3-vila-real/i1159945",
+    "image": "https://imagens.supercasa.pt/Z80x60/S5/C6425/P8285804/Tphoto/ID6c6e7e00-0000-0500-0000-00000506b4c0.jpg.webp",
+    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C6425/P8285804/Tphoto/ID6c6e7e00-0000-0500-0000-00000506b4c0.jpg\",\"name\":\"Apartamento T3 em Mateus\",\"category\":\"Casas\",\"price\":[\"800\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-05-05T13:47:17.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Vila Real\",\"addressRegion\":\"Mateus\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.3011742,\"longitude\":-7.711926}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Supercasa  13351\",\"image\":\"https://supercasa.pt/images/logo.png\",\"address\":\"n/a\",\"telephone\":\"0\",\"priceRange\":\"0\"}}"
   }
 ]
