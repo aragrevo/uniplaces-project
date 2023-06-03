@@ -9,6 +9,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
+    "use": "nvm use 18.12.1",
     "scrape": "node --no-warnings scraping/index.js",
     "scrapeSupercasa": "node --no-warnings scraping/index.js supercasa",
     "scrapeAirbnb": "node --no-warnings scraping/index.js airbnb"
