@@ -1,15 +1,5 @@
 [
   {
-    "title": "Apartamento T2 Triplex em Alcains, Castelo Branco",
-    "description": "Apartamento T2 para arrendar, mobilado e equipado. Localizado no centro de Alcains. Cozinha com fogão, forno, frigorifico, maquina de lavar roupa e exaustor.  #ref:APA_913",
-    "configuration": "2 quartos\n                    95 m²\n                    C.E.: Avaliação em curso",
-    "rentValue": "300",
-    "city": "castelo-branco",
-    "link": "/arrendamento-apartamento-t2-castelo-branco/i1210055",
-    "image": "https://imagens.supercasa.pt/Z360x270/OAYES/S5/C6984/P23948490/Tphoto/IDca6c6d01-0000-0500-0000-00001181bdc4.jpg.webp",
-    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C6984/P23948490/Tphoto/IDca6c6d01-0000-0500-0000-00001181bdc4.jpg\",\"name\":\"Apartamento T2 Triplex em Alcains\",\"category\":\"Casas\",\"price\":[\"300\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-06-02T11:15:16.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Castelo Branco\",\"addressRegion\":\"Alcains\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":39.9156075,\"longitude\":-7.45554352}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Imoinveste\",\"image\":\"https://media.egorealestate.com/150x70/5849df2d-ae24-4de8-ade6-7cc459401aee.png\",\"address\":\"n/a\",\"telephone\":\"+351 272220381\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 272220381\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
-  },
-  {
     "title": "Moradia T2 em Estreito-Vilar Barroco, Oleiros",
     "description": "Fantástica moradia recentemente remodelada no concelho de Oleiros. Nesta moradia encontra-se para arrendamento o rés-do-chão composto por uma cozinha em open-space com sala, uma despensa, dois quartos e uma casa banho.  #ref:LM - 48038",
     "configuration": "2 quartos\n                    C.E.: Avaliação em curso",
@@ -18,6 +8,16 @@
     "link": "/arrendamento-moradia-t2-oleiros/i1006423",
     "image": "https://imagens.supercasa.pt/Z360x270/OAYES/S5/C11828/P23420981/Tphoto/ID35606501-0000-0500-0000-000010c9a8ff.jpg.webp",
     "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C11828/P23420981/Tphoto/ID35606501-0000-0500-0000-000010c9a8ff.jpg\",\"name\":\"Moradia T2 em Estreito-Vilar Barroco\",\"category\":\"Casas\",\"price\":[\"300\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-01-13T00:17:18.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Oleiros\",\"addressRegion\":\"Estreito-Vilar Barroco\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":39.969135,\"longitude\":-7.8404835}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"CasaSerta Imobiliária\",\"image\":\"https://media.egorealestate.com/150x70/deaadec6-207e-46ed-8a30-86534f44b891.jpg\",\"address\":\"n/a\",\"telephone\":\"+351 274440138\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 274440138\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
+  },
+  {
+    "title": "Apartamento T2 Triplex em Alcains, Castelo Branco",
+    "description": "Apartamento T2 para arrendar, mobilado e equipado. Localizado no centro de Alcains. Cozinha com fogão, forno, frigorifico, maquina de lavar roupa e exaustor.  #ref:APA_913",
+    "configuration": "2 quartos\n                    95 m²\n                    C.E.: Avaliação em curso",
+    "rentValue": "300",
+    "city": "castelo-branco",
+    "link": "/arrendamento-apartamento-t2-castelo-branco/i1210055",
+    "image": "https://imagens.supercasa.pt/Z360x270/OAYES/S5/C6984/P23948490/Tphoto/IDca6c6d01-0000-0500-0000-00001181bdc4.jpg.webp",
+    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C6984/P23948490/Tphoto/IDca6c6d01-0000-0500-0000-00001181bdc4.jpg\",\"name\":\"Apartamento T2 Triplex em Alcains\",\"category\":\"Casas\",\"price\":[\"300\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-06-02T11:15:16.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Castelo Branco\",\"addressRegion\":\"Alcains\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":39.9156075,\"longitude\":-7.45554352}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Imoinveste\",\"image\":\"https://media.egorealestate.com/150x70/5849df2d-ae24-4de8-ade6-7cc459401aee.png\",\"address\":\"n/a\",\"telephone\":\"+351 272220381\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 272220381\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
   },
   {
     "title": "Moradia T2 em Troviscal, Sertã",
@@ -50,16 +50,6 @@
     "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C11754/P23729316/Tphoto/IDa4146a01-0000-0500-0000-00001132b1d7.jpg\",\"name\":\"Apartamento T1 em Castelo Branco\",\"category\":\"Casas\",\"price\":[\"600\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-04-12T23:11:12.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Castelo Branco\",\"addressRegion\":\"Castelo Branco\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":39.8238969743,\"longitude\":-7.4917316436}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Imobretanha\",\"image\":\"https://media.egorealestate.com/150x70/eea22543-91ed-478e-8ae7-35cde3411f72.png\",\"address\":\"n/a\",\"telephone\":\"+351 275550162\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 275550162\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
   },
   {
-    "title": "Apartamento T3 em Castelo Branco, Castelo Branco",
-    "description": "(ref:C (telefone) ARRENDAMENTO A INICIAR A 01/06/2023  Apartamento T3, próximo da PSP de Castelo Branco, 3º andar inserido num prédio sem elevador.   Cozinha equipada, sala de estar completa, com televisão. 3 quartos mobilados. Casa de banho com banheira e WC de serviço. Casa com bastante espaço de arrumação, com despensa e roupeiro no corredor, perto dos quartos.   Não se aceitam animais.  Requisitos para arrendamento: valor de duas rendas e uma caução.  Documentos necessários: 3 últimos recibos de vencimento e nota de liquidação do IRS.   Não perca esta oportunidade e agende a sua visita.  #ref:C",
-    "configuration": "3 quartos\n                    148 m²\n                    C.E.: C",
-    "rentValue": "600",
-    "city": "castelo-branco",
-    "link": "/arrendamento-apartamento-t3-castelo-branco/i1183214",
-    "image": "https://imagens.supercasa.pt/Z80x60/S5/C12897/P23902514/Tphoto/ID32b96c01-0000-0500-0000-0000116e67e0.jpg.webp",
-    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C12897/P23902514/Tphoto/ID32b96c01-0000-0500-0000-0000116e67e0.jpg\",\"name\":\"Apartamento T3 em Castelo Branco\",\"category\":\"Casas\",\"price\":[\"600\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-05-23T05:23:22.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Castelo Branco\",\"addressRegion\":\"Castelo Branco\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":39.8266322,\"longitude\":-7.4919318}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"CENTURY 21 Diamond\",\"image\":\"https://media.egorealestate.com/150x70/261f7fb7-b949-4147-916e-d1498610896f.png\",\"address\":\"n/a\",\"telephone\":\"+351 272220349\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 272220349\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
-  },
-  {
     "title": "Apartamento T1 em Castelo Branco, Castelo Branco",
     "description": "(ref:C (telefone) Apartamento T1 ao nível da Cave de uma moradia totalmente reconstruída, localizado em zona central da cidade, totalmente mobilado e com entrada independente. Apartamento composto por sala/cozinha em open space, WC de serviço que dá apoio a sala e cozinha, e suíte com closet.  De ressalvar a excelente decoração do mesmo, e a utilização de materiais de elevada qualidade na construção. Ar Condicionado, aspiração central, lavandaria exterior são também características que este espetacular apartamento comporta.  Sem Problemas de Estacionamento, pois a 50 metros encontramos um estacionamento publico gratuito. Oportunidade única !  #ref:C",
     "configuration": "1 quarto\n                    110 m²\n                    C.E.: B",
@@ -68,6 +58,16 @@
     "link": "/arrendamento-apartamento-t1-castelo-branco/i1166741",
     "image": "https://imagens.supercasa.pt/Z80x60/S5/C12897/P23851700/Tphoto/IDb4f26b01-0000-0500-0000-0000115c2d6d.jpg.webp",
     "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C12897/P23851700/Tphoto/IDb4f26b01-0000-0500-0000-0000115c2d6d.jpg\",\"name\":\"Apartamento T1 em Castelo Branco\",\"category\":\"Casas\",\"price\":[\"600\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-05-10T22:26:09.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Castelo Branco\",\"addressRegion\":\"Castelo Branco\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":39.8266322,\"longitude\":-7.4919318}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"CENTURY 21 Diamond\",\"image\":\"https://media.egorealestate.com/150x70/261f7fb7-b949-4147-916e-d1498610896f.png\",\"address\":\"n/a\",\"telephone\":\"+351 272220349\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 272220349\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
+  },
+  {
+    "title": "Apartamento T3 em Castelo Branco, Castelo Branco",
+    "description": "(ref:C (telefone) ARRENDAMENTO A INICIAR A 01/06/2023  Apartamento T3, próximo da PSP de Castelo Branco, 3º andar inserido num prédio sem elevador.   Cozinha equipada, sala de estar completa, com televisão. 3 quartos mobilados. Casa de banho com banheira e WC de serviço. Casa com bastante espaço de arrumação, com despensa e roupeiro no corredor, perto dos quartos.   Não se aceitam animais.  Requisitos para arrendamento: valor de duas rendas e uma caução.  Documentos necessários: 3 últimos recibos de vencimento e nota de liquidação do IRS.   Não perca esta oportunidade e agende a sua visita.  #ref:C",
+    "configuration": "3 quartos\n                    148 m²\n                    C.E.: C",
+    "rentValue": "600",
+    "city": "castelo-branco",
+    "link": "/arrendamento-apartamento-t3-castelo-branco/i1183214",
+    "image": "https://imagens.supercasa.pt/Z80x60/S5/C12897/P23902514/Tphoto/ID32b96c01-0000-0500-0000-0000116e67e0.jpg.webp",
+    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C12897/P23902514/Tphoto/ID32b96c01-0000-0500-0000-0000116e67e0.jpg\",\"name\":\"Apartamento T3 em Castelo Branco\",\"category\":\"Casas\",\"price\":[\"600\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-05-23T05:23:22.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Castelo Branco\",\"addressRegion\":\"Castelo Branco\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":39.8266322,\"longitude\":-7.4919318}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"CENTURY 21 Diamond\",\"image\":\"https://media.egorealestate.com/150x70/261f7fb7-b949-4147-916e-d1498610896f.png\",\"address\":\"n/a\",\"telephone\":\"+351 272220349\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 272220349\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
   },
   {
     "title": "Moradia T2 na Rua Rui Faleiro, Covilhã e Canhoso, Covilhã",
