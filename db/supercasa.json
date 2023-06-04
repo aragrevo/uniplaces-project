@@ -1,15 +1,5 @@
 [
   {
-    "title": "Apartamento T2 Triplex em Alcains, Castelo Branco",
-    "description": "Apartamento T2 para arrendar, mobilado e equipado. Localizado no centro de Alcains. Cozinha com fogão, forno, frigorifico, maquina de lavar roupa e exaustor.  #ref:APA_913",
-    "configuration": "2 quartos\n                    95 m²\n                    C.E.: Avaliação em curso",
-    "rentValue": "300",
-    "city": "castelo-branco",
-    "link": "/arrendamento-apartamento-t2-castelo-branco/i1210055",
-    "image": "https://imagens.supercasa.pt/Z360x270/OAYES/S5/C6984/P23948490/Tphoto/IDca6c6d01-0000-0500-0000-00001181bdc4.jpg.webp",
-    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C6984/P23948490/Tphoto/IDca6c6d01-0000-0500-0000-00001181bdc4.jpg\",\"name\":\"Apartamento T2 Triplex em Alcains\",\"category\":\"Casas\",\"price\":[\"300\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-06-02T11:15:16.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Castelo Branco\",\"addressRegion\":\"Alcains\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":39.9156075,\"longitude\":-7.45554352}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Imoinveste\",\"image\":\"https://media.egorealestate.com/150x70/5849df2d-ae24-4de8-ade6-7cc459401aee.png\",\"address\":\"n/a\",\"telephone\":\"+351 272220381\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 272220381\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
-  },
-  {
     "title": "Moradia T2 em Estreito-Vilar Barroco, Oleiros",
     "description": "Fantástica moradia recentemente remodelada no concelho de Oleiros. Nesta moradia encontra-se para arrendamento o rés-do-chão composto por uma cozinha em open-space com sala, uma despensa, dois quartos e uma casa banho.  #ref:LM - 48038",
     "configuration": "2 quartos\n                    C.E.: Avaliação em curso",
@@ -18,6 +8,16 @@
     "link": "/arrendamento-moradia-t2-oleiros/i1006423",
     "image": "https://imagens.supercasa.pt/Z360x270/OAYES/S5/C11828/P23420981/Tphoto/ID35606501-0000-0500-0000-000010c9a8ff.jpg.webp",
     "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C11828/P23420981/Tphoto/ID35606501-0000-0500-0000-000010c9a8ff.jpg\",\"name\":\"Moradia T2 em Estreito-Vilar Barroco\",\"category\":\"Casas\",\"price\":[\"300\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-01-13T00:17:18.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Oleiros\",\"addressRegion\":\"Estreito-Vilar Barroco\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":39.969135,\"longitude\":-7.8404835}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"CasaSerta Imobiliária\",\"image\":\"https://media.egorealestate.com/150x70/deaadec6-207e-46ed-8a30-86534f44b891.jpg\",\"address\":\"n/a\",\"telephone\":\"+351 274440138\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 274440138\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
+  },
+  {
+    "title": "Apartamento T2 Triplex em Alcains, Castelo Branco",
+    "description": "Apartamento T2 para arrendar, mobilado e equipado. Localizado no centro de Alcains. Cozinha com fogão, forno, frigorifico, maquina de lavar roupa e exaustor.  #ref:APA_913",
+    "configuration": "2 quartos\n                    95 m²\n                    C.E.: Avaliação em curso",
+    "rentValue": "300",
+    "city": "castelo-branco",
+    "link": "/arrendamento-apartamento-t2-castelo-branco/i1210055",
+    "image": "https://imagens.supercasa.pt/Z360x270/OAYES/S5/C6984/P23948490/Tphoto/IDca6c6d01-0000-0500-0000-00001181bdc4.jpg.webp",
+    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C6984/P23948490/Tphoto/IDca6c6d01-0000-0500-0000-00001181bdc4.jpg\",\"name\":\"Apartamento T2 Triplex em Alcains\",\"category\":\"Casas\",\"price\":[\"300\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-06-02T11:15:16.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Castelo Branco\",\"addressRegion\":\"Alcains\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":39.9156075,\"longitude\":-7.45554352}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Imoinveste\",\"image\":\"https://media.egorealestate.com/150x70/5849df2d-ae24-4de8-ade6-7cc459401aee.png\",\"address\":\"n/a\",\"telephone\":\"+351 272220381\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 272220381\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
   },
   {
     "title": "Moradia T2 em Troviscal, Sertã",
