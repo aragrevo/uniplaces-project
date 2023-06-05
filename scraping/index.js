@@ -2,6 +2,7 @@ import {readDBFile, writeDBFile} from '../db/index.js';
 import {buildUrlAirbnb, getAirbnb} from './airbnb.js';
 import {getLeaderBoard} from './leaderboard.js';
 import {logError, logInfo, logSuccess} from './log.js';
+import {buildUrlOlx, getOlx} from './olx.js';
 import {buildUrlSupercasa, getSupercasa} from './supercasa.js';
 import {scrapeAndSave} from './utils.js';
 
@@ -16,6 +17,10 @@ const SCRAPINGS = {
   airbnb: {
     url: buildUrlAirbnb,
     scrape: getAirbnb,
+  },
+  olx: {
+    url: buildUrlOlx,
+    scrape: getOlx,
   },
 };
 
