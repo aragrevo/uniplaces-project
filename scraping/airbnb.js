@@ -1,5 +1,5 @@
-const checkin = '2023-06-06';
-const checkout = '2023-06-08';
+export const checkin = '2023-06-09';
+export const checkout = '2023-06-12';
 
 export function buildUrlAirbnb(city) {
   const query = city === 'lisbon' ? 'lisboa' : city;
