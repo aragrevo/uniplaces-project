@@ -31,7 +31,8 @@ const buildURlToScrape = city => {
     return SCRAPINGS[scrapeParameter].url(city);
   } else {
     const baseUrl = 'https://www.uniplaces.com/accommodation';
-    return `${baseUrl}/${city}?guests=3&move-in=${checkin}&rent-type[]=property`;
+    return `${baseUrl}/${city}?guests=3&rent-type[]=property`;
+    // return `${baseUrl}/${city}?guests=3&move-in=${checkin}&rent-type[]=property`;
   }
 };
 

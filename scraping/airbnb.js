@@ -1,4 +1,11 @@
-export const checkin = '2023-06-09';
+function getDate() {
+  const now = new Date();
+  const month = now.getMonth() + 1;
+  const monthFormatted = month < 10 ? `0${month}` : month;
+  return `${now.getFullYear()}-${monthFormatted}-${now.getDate()}`;
+}
+
+export const checkin = getDate();
 export const checkout = '2023-06-12';
 
 export function buildUrlAirbnb(city) {
