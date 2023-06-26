@@ -1,11 +1,11 @@
 import {cleanText} from './utils.js';
 
 const LEADERBOARD_SELECTORS = {
-  rentBy: {selector: '.property__rent-by', typeOf: 'string', auxSelector: ''},
+  rentBy: {selector: '.property__rent-by', typeOf: 'string', auxSelector: '.doxuAy'},
   title: {selector: '.property__title', typeOf: 'string', auxSelector: '.lmSDwb'},
   configuration: {selector: '.property__configuration', typeOf: 'string', auxSelector: '.jOrvwj'},
   neighbourHood: {selector: '.property__neighbourhood', typeOf: 'string', auxSelector: ''},
-  rentValue: {selector: '.rent .rent__value', typeOf: 'string', auxSelector: '.SCYSn'},
+  rentValue: {selector: '.rent .rent__value', typeOf: 'string', auxSelector: '.doxuAy'},
   rentFrequency: {selector: '.rent__frequency', typeOf: 'string', auxSelector: ''},
   billsIncluded: {selector: '.bills-included', typeOf: 'string', auxSelector: '.dKcKqq'},
   offerAvailability: {selector: '.offer__availability', typeOf: 'string', auxSelector: '.fMhaQc'},
@@ -36,7 +36,7 @@ export async function getLeaderBoard($, city) {
     const partImg = parts.length >= 2 ? parts[2] : '';
     const imageUrl = partImg.split('&')[0];
     const valueParts = leaderboardForTeam.rentValue.split(' ');
-    const rawValue = valueParts.length === 1 ? valueParts[0] : valueParts[1];
+    const rawValue = valueParts.length > 2 ? valueParts[1] : valueParts[0];
     const rawValueParts = rawValue.split('/');
     const value = rawValueParts[0];
 

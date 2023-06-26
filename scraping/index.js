@@ -1,5 +1,5 @@
 import {readDBFile, writeDBFile} from '../db/index.js';
-import {buildUrlAirbnb, checkin, getAirbnb} from './airbnb.js';
+import {buildUrlAirbnb, getAirbnb} from './airbnb.js';
 import {getLeaderBoard} from './leaderboard.js';
 import {logError, logInfo, logSuccess} from './log.js';
 import {buildUrlOlx, getOlx} from './olx.js';
@@ -31,8 +31,8 @@ const buildURlToScrape = city => {
     return SCRAPINGS[scrapeParameter].url(city);
   } else {
     const baseUrl = 'https://www.uniplaces.com/accommodation';
-    return `${baseUrl}/${city}?guests=3&rent-type[]=property`;
-    // return `${baseUrl}/${city}?guests=3&move-in=${checkin}&rent-type[]=property`;
+    // return `${baseUrl}/${city}?guests=3&rent-type[]=property`;
+    return `${baseUrl}/${city}?guests=3&move-in=${'2024-01-01'}&rent-type[]=property`;
   }
 };
 
