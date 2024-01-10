@@ -5,8 +5,8 @@ function getDate() {
   return `${now.getFullYear()}-${monthFormatted}-${now.getDate()}`;
 }
 
-export const checkin = getDate();
-export const checkout = '2023-06-12';
+export const checkin = '2024-03-25';
+export const checkout = '2024-03-28';
 
 export function buildUrlAirbnb(city) {
   const query = city === 'lisbon' ? 'lisboa' : city;
