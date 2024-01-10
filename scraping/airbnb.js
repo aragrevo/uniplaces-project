@@ -10,7 +10,7 @@ export const checkout = '2024-03-28';
 
 export function buildUrlAirbnb(city) {
   const query = city === 'lisbon' ? 'lisboa' : city;
-  return `https://www.airbnb.es/s/${city}--Portugal/homes?adults=2&children=1&query=${city}%2C%20Portugal&checkin=${checkin}&checkout=${checkout}&price_max=600`;
+  return `https://www.airbnb.es/s/${city}--Portugal/homes?adults=3&children=1&query=${city}%2C%20Portugal&checkin=${checkin}&checkout=${checkout}&price_max=600`;
 }
 
 export async function getAirbnb($, city) {
