@@ -1,7 +1,9 @@
 import * as cheerio from 'cheerio';
-import {writeDBFile} from '../db/index.js';
-import {getLeaderBoard} from './leaderboard.js';
-import {logError, logInfo, logSuccess} from './log.js';
+
+// import {writeFile, readFile} from 'node:fs/promises';
+// import path from 'node:path';
+
+// const DB_PATH = path.join(process.cwd(), './db/');
 
 export const cleanText = text =>
   text
@@ -14,6 +16,7 @@ export const cleanText = text =>
 export async function scrape(url) {
   const res = await fetch(url);
   const html = await res.text();
+  // writeFile(`${DB_PATH}/uniplaces.txt`, html, 'utf-8');
   return cheerio.load(html);
 }
 

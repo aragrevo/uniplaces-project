@@ -17,6 +17,7 @@ const SCRAPINGS = {
   airbnb: {
     url: buildUrlAirbnb,
     scrape: getAirbnb,
+    filter: 'porto',
   },
   olx: {
     url: buildUrlOlx,
@@ -32,20 +33,21 @@ const buildURlToScrape = city => {
   } else {
     const baseUrl = 'https://www.uniplaces.com/accommodation';
     // return `${baseUrl}/${city}?guests=3&rent-type[]=property`;
-    return `${baseUrl}/${city}?guests=3&move-in=${'2024-01-01'}&rent-type[]=property`;
+    return `${baseUrl}/${city}?guests=3&move-in=${'2024-05-01'}&rent-type[]=property`;
   }
 };
 
-logInfo('Scraping all data...');
+logInfo('Scraping all data -----------');
 const scrap = SCRAPINGS[scrapeParameter];
 const contentAll = [];
 const start = performance.now();
 const file = scrap ? scrapeParameter : 'leaderboard';
 try {
-  for (const city of cities) {
+  const citiesToScrap = scrap?.filter ? cities.filter(c => c === scrap.filter) : cities;
+  for (const city of citiesToScrap) {
     const url = buildURlToScrape(city);
-    logInfo(`Scraping [${city}]...`);
-    logInfo(`Scraping [${url}]...`);
+    logInfo(`Scraping [${city}] -----------`);
+    logInfo(`Scraping [${url}] -----------`);
 
     const $ = await scrapeAndSave(url);
     const getData = scrap ? scrap.scrape : getLeaderBoard;
@@ -54,7 +56,7 @@ try {
     contentAll.push(content);
   }
 
-  logInfo(`Writing [${file}] to database...`);
+  logInfo(`Writing [${file}] to database -----------`);
   const contentFlat = contentAll.flat();
   await writeDBFile(file, contentFlat);
   logSuccess(`[${file}] written successfully`);

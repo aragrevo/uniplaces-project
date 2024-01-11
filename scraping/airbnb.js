@@ -1,3 +1,5 @@
+import {logError} from './log.js';
+
 function getDate() {
   const now = new Date();
   const month = now.getMonth() + 1;
@@ -6,28 +8,39 @@ function getDate() {
 }
 
 export const checkin = '2024-03-25';
-export const checkout = '2024-03-28';
+export const checkout = '2024-03-27';
 
 export function buildUrlAirbnb(city) {
   const query = city === 'lisbon' ? 'lisboa' : city;
-  return `https://www.airbnb.es/s/${city}--Portugal/homes?adults=3&children=1&query=${city}%2C%20Portugal&checkin=${checkin}&checkout=${checkout}&price_max=600`;
+  return `https://www.airbnb.es/s/${city}--Portugal/homes?adults=3&children=1&query=${city}%2C%20Portugal&checkin=${checkin}&checkout=${checkout}&price_max=100`;
+}
+
+function getPlaces(presentation) {
+  try {
+    const mapResults =
+      presentation?.explore?.sections?.sectionIndependentData?.staysMapSearch ?? presentation.staysSearch.mapResults;
+    return mapResults.mapSearchResults.map(p => ({
+      ...p.listing,
+      ...p.pricingQuote,
+    }));
+  } catch (error) {
+    logError(error);
+    return [];
+  }
 }
 
 export async function getAirbnb($, city) {
   const $rows = $('script#data-deferred-state');
-  console.log($rows.length);
+  console.log('hasData: ', $rows.length);
   const leaderboard = [];
   $rows.each((index, el) => {
     const $el = $(el);
     const text = $el.text();
     const json = JSON.parse(text);
     const item = json.niobeMinimalClientData[0];
-    const places = !item
-      ? []
-      : item[1].data.presentation.explore.sections.sectionIndependentData.staysMapSearch.mapSearchResults.map(p => ({
-          ...p.listing,
-          ...p.pricingQuote,
-        }));
+    // console.log(item[1].data.presentation);
+    // console.log(item[1].data.presentation.explore);
+    const places = !item ? [] : getPlaces(item[1].data.presentation);
     places.forEach(p => {
       const {
         id,

@@ -10,6 +10,7 @@ const {data = []} = Astro.props;
 const places = data.sort((a, b) => Number(a.rentValue) - Number(b.rentValue));
 
 const replaceToIcon = value => {
+  if (!value) return value;
   return value
     .replace('people', 'people 🕴 ')
     .replace(/bathrooms?/, 'bathroom 🛀 ')
