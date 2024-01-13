@@ -366,6 +366,11 @@
   resolved "https://registry.yarnpkg.com/@esbuild/linux-loong64/-/linux-loong64-0.15.18.tgz#128b76ecb9be48b60cf5cfc1c63a4f00691a3239"
   integrity sha512-L4jVKS82XVhw2nvzLg/19ClLWg0y27ulRwuP7lcyL6AbUWB5aPglXY3M21mauDQMDfRLs8cQmeT03r/+X3cZYQ==
 
+"@fontsource-variable/material-symbols-outlined@5.0.20":
+  version "5.0.20"
+  resolved "https://registry.yarnpkg.com/@fontsource-variable/material-symbols-outlined/-/material-symbols-outlined-5.0.20.tgz#b9091d3b1c05a0626800a6321d5be4cccc30c990"
+  integrity sha512-1WyhGXcITU1R43seyyTPHcFleFuQ3vRjLlVudHaCMZQDKdJrQnssHLObrOVR55yfu9lr9lOUiPwWc/8Hm2LYuQ==
+
 "@jridgewell/gen-mapping@^0.1.0":
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/@jridgewell/gen-mapping/-/gen-mapping-0.1.1.tgz#e5d2e450306a9491e3bd77e323e38d7aff315996"

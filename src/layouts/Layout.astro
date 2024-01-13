@@ -1,4 +1,5 @@
 ---
+import '@fontsource-variable/material-symbols-outlined';
 import {getLeaderboard} from '@services/leaderboard';
 import Navbar from '@components/Navbar.astro';
 const data = await getLeaderboard();
@@ -21,7 +22,7 @@ const {title = ''} = Astro.props;
     <title>Home Project | {title}</title>
     <meta name='description' content='Scrape uniplace to search lucky places' />
   </head>
-  <body class='container min-h-screen max-w-6xl mx-auto bg-neutral-900 text-neutral-100 flex flex-col'>
+  <body class='container min-h-screen max-w-6xl mx-auto bg-neutral-900 text-neutral-100 flex flex-col relative'>
     <header class='w-full'>
       <Navbar />
     </header>
@@ -29,5 +30,51 @@ const {title = ''} = Astro.props;
       <h1 class='text-3xl text-center'>{title}</h1>
       <slot />
     </main>
+    <button class='scrollToTopBtn bg-indigo-700 rounded-full text-lg leading-none h-6 w-6'>
+      <span class='material-symbols-outlined'> arrow_upward</span>
+    </button>
   </body>
 </html>
+<style>
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue',
+      Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji',
+      'Material Symbols Outlined Variable';
+  }
+  .material-symbols-outlined {
+    font-family: 'Material Symbols Outlined Variable';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px; /* Preferred icon size */
+    display: inline-block;
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+  }
+  .scrollToTopBtn {
+    --offset: 30px;
+    position: sticky;
+    bottom: 20px;
+    left: 100%;
+    z-index: 1000;
+    margin-top: calc(100vh + var(--offset));
+  }
+</style>
+
+<script>
+  const scrollToTopBtn = document.querySelector('.scrollToTopBtn');
+  scrollToTopBtn.addEventListener('click', scrollToTop);
+
+  function scrollToTop() {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth',
+    });
+  }
+</script>

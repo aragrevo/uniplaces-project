@@ -13,6 +13,7 @@ const SCRAPINGS = {
   supercasa: {
     scrape: getSupercasa,
     url: buildUrlSupercasa,
+    filter: 'vila-real',
   },
   airbnb: {
     url: buildUrlAirbnb,
