@@ -24,7 +24,5 @@ jobs:
           run_install: true
       - run: |
           npm run scrapeAirbnb
-          git config user.name airbnb-bot
-          git config user.email "eduver_san@hotmail.com"
           git diff --quiet && git diff --staged --quiet || git commit -am "[bot] update Airbnb database"
           git push origin main
