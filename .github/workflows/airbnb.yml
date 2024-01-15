@@ -14,7 +14,7 @@ jobs:
   build:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: actions/setup-node@v3
         with:
           node-version: 18
@@ -24,5 +24,6 @@ jobs:
           run_install: true
       - run: |
           npm run scrapeAirbnb
+          git config user.name airbnb-bot
           git diff --quiet && git diff --staged --quiet || git commit -am "[bot] update Airbnb database"
           git push origin main
