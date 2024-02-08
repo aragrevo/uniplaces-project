@@ -1,6 +1,278 @@
 [
   {
     "title": "Apartamento en Oporto",
+    "description": "Apartamentos Travel & Live Aliados (32)",
+    "configuration": "entire_home",
+    "rentValue": "154",
+    "rentDesc": "€ en total",
+    "link": "https://www.airbnb.es/rooms/52849643?source_impression_id=p3_1683219831_0Pqq5IlrIalwkYYn&check_in=2024-03-25&guests=3&adults=2&check_out=2024-03-27&children=1",
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-52849643/original/a765d60b-0026-4a57-8bae-a336c1f38f05.jpeg?im_w=720",
+    "price": "",
+    "priceCurrency": "",
+    "qualifier": "noche",
+    "json": {
+      "__typename": "ExplorePricingQuote",
+      "avgRatingA11yLabel": "Valoración media de 4,4 sobre 5, 143 evaluaciones",
+      "avgRatingLocalized": "4,4 (143)",
+      "contextualPictures": [
+        {
+          "__typename": "ExplorePicture",
+          "caption": null,
+          "dominantSaturatedColor": null,
+          "id": "1700005052",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-52849643/original/a765d60b-0026-4a57-8bae-a336c1f38f05.jpeg?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        },
+        {
+          "__typename": "ExplorePicture",
+          "caption": {
+            "__typename": "ExploreKickerContent",
+            "formattedMessages": null,
+            "kickerBadge": null,
+            "messages": [
+              "2 camas",
+              "Estudio"
+            ],
+            "textColor": null
+          },
+          "dominantSaturatedColor": null,
+          "id": "1700005075",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-52849643/original/38258f80-ee50-468f-94fe-9eea620fac98.jpeg?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        },
+        {
+          "__typename": "ExplorePicture",
+          "caption": {
+            "__typename": "ExploreKickerContent",
+            "formattedMessages": null,
+            "kickerBadge": null,
+            "messages": [
+              "1 baño"
+            ],
+            "textColor": null
+          },
+          "dominantSaturatedColor": null,
+          "id": "1700005054",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-52849643/original/a2bca3f4-4992-46e1-8d2a-afdd8750db4d.jpeg?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        },
+        {
+          "__typename": "ExplorePicture",
+          "caption": {
+            "__typename": "ExploreKickerContent",
+            "formattedMessages": null,
+            "kickerBadge": null,
+            "messages": [
+              "Wifi",
+              "Cocina",
+              "Llegada autónoma"
+            ],
+            "textColor": null
+          },
+          "dominantSaturatedColor": null,
+          "id": "1700005076",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-52849643/original/d5193f5a-f3a8-499d-8769-d53645869552.jpeg?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        },
+        {
+          "__typename": "ExplorePicture",
+          "caption": {
+            "__typename": "ExploreKickerContent",
+            "formattedMessages": null,
+            "kickerBadge": null,
+            "messages": [
+              "Puntuación de 4,6 sobre 5 en limpieza"
+            ],
+            "textColor": null
+          },
+          "dominantSaturatedColor": null,
+          "id": "1700005083",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-52849643/original/854e08d0-b1ed-43a1-8424-afd612b0bb72.jpeg?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        },
+        {
+          "__typename": "ExplorePicture",
+          "caption": null,
+          "dominantSaturatedColor": null,
+          "id": "1700005050",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-52849643/original/c8a43f2e-e526-4696-b9fb-da8f6707c61e.jpeg?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        }
+      ],
+      "contextualPicturesCount": 11,
+      "contextualPicturesPageInfo": {
+        "__typename": "PageInfo",
+        "endCursor": "NQ==",
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "startCursor": null
+      },
+      "coordinate": {
+        "__typename": "Coordinate",
+        "latitude": 41.14638,
+        "longitude": -8.60998
+      },
+      "formattedBadges": [],
+      "id": "52849643",
+      "listingObjType": "REGULAR",
+      "name": "Apartamentos Travel & Live Aliados (32)",
+      "pdpUrlType": "ROOMS",
+      "roomTypeCategory": "entire_home",
+      "roomTypeId": null,
+      "shareButton": null,
+      "structuredContent": {
+        "__typename": "ExploreStructuredContent",
+        "distance": null,
+        "mapCategoryInfo": null,
+        "mapPrimaryLine": [
+          {
+            "__typename": "MainSectionMessage",
+            "body": "2 camas",
+            "bodyA11yLabel": null,
+            "bodyType": null,
+            "fontWeight": null,
+            "headline": null,
+            "type": null
+          },
+          {
+            "__typename": "MainSectionMessage",
+            "body": "Estudio",
+            "bodyA11yLabel": null,
+            "bodyType": null,
+            "fontWeight": null,
+            "headline": null,
+            "type": null
+          }
+        ],
+        "mapSecondaryLine": null,
+        "primaryLine": [
+          {
+            "__typename": "MainSectionMessage",
+            "body": "2 camas",
+            "bodyA11yLabel": null,
+            "bodyType": null,
+            "fontWeight": null,
+            "headline": null,
+            "type": null
+          },
+          {
+            "__typename": "MainSectionMessage",
+            "body": "Estudio",
+            "bodyA11yLabel": null,
+            "bodyType": null,
+            "fontWeight": null,
+            "headline": null,
+            "type": null
+          }
+        ],
+        "secondaryLine": [
+          {
+            "__typename": "MainSectionMessage",
+            "body": "Gestionado por una empresa",
+            "bodyA11yLabel": null,
+            "bodyType": null,
+            "fontWeight": null,
+            "headline": null,
+            "type": null
+          }
+        ],
+        "reviewSnippet": null
+      },
+      "tierId": 0,
+      "title": "Apartamento en Oporto",
+      "titleLocale": "es",
+      "primaryHostPassport": null,
+      "structuredStayDisplayPrice": {
+        "__typename": "StructuredDisplayPrice",
+        "primaryLine": {
+          "__typename": "DiscountedDisplayPriceLine",
+          "displayComponentType": "DISCOUNTED_DISPLAY_PRICE_LINE",
+          "accessibilityLabel": "77 € por noche, inicialmente 211 €",
+          "discountedPrice": "77 €",
+          "originalPrice": "211 €",
+          "qualifier": "noche",
+          "shortQualifier": "noche",
+          "concatQualifierLeft": false,
+          "trailingContent": null
+        },
+        "secondaryLine": {
+          "__typename": "BasicDisplayPriceLine",
+          "displayComponentType": "BASIC_DISPLAY_PRICE_LINE",
+          "accessibilityLabel": "154 € en total",
+          "price": "154 € en total",
+          "trailingContent": null
+        },
+        "explanationData": {
+          "__typename": "DisplayPriceExplanationData",
+          "title": "Desglose del precio",
+          "priceDetails": [
+            {
+              "__typename": "DisplayPriceExplanationLineGroup",
+              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+              "items": [
+                {
+                  "__typename": "DefaultExplanationLineItem",
+                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
+                  "description": "69 € x 2 noches",
+                  "priceString": "138 €",
+                  "explanationData": null
+                },
+                {
+                  "__typename": "DefaultExplanationLineItem",
+                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
+                  "description": "Impuestos",
+                  "priceString": "16 €",
+                  "explanationData": null
+                }
+              ],
+              "renderBorderTop": false,
+              "collapsable": null
+            },
+            {
+              "__typename": "DisplayPriceExplanationDisclaimer",
+              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_DISCLAIMER",
+              "content": "El anfitrión ha bajado recientemente el precio para estas fechas con respecto a la tarifa media de las últimas 60 noches."
+            }
+          ]
+        },
+        "explanationDataDisplayPosition": "SECONDARY_LINE",
+        "explanationDataDisplayPriceTriggerType": null,
+        "layout": "ROW_WITH_SEPARATOR"
+      }
+    }
+  },
+  {
+    "title": "Apartamento en Oporto",
     "description": "*NUEVO* mercado Premium Apartments #2F por DA'HOME",
     "configuration": "entire_home",
     "rentValue": "173",
@@ -224,7 +496,8 @@
             "headline": null,
             "type": null
           }
-        ]
+        ],
+        "reviewSnippet": null
       },
       "tierId": 0,
       "title": "Apartamento en Oporto",
@@ -274,6 +547,11 @@
               ],
               "renderBorderTop": false,
               "collapsable": null
+            },
+            {
+              "__typename": "DisplayPriceExplanationDisclaimer",
+              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_DISCLAIMER",
+              "content": "Cancelación gratuita antes del 20 mar."
             }
           ]
         },
@@ -497,7 +775,8 @@
             "headline": null,
             "type": null
           }
-        ]
+        ],
+        "reviewSnippet": null
       },
       "tierId": 0,
       "title": "Apartamento en Oporto",
@@ -554,6 +833,11 @@
               ],
               "renderBorderTop": false,
               "collapsable": null
+            },
+            {
+              "__typename": "DisplayPriceExplanationDisclaimer",
+              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_DISCLAIMER",
+              "content": "Cancelación gratuita antes del 24 mar."
             }
           ]
         },
@@ -565,28 +849,36 @@
   },
   {
     "title": "Apartamento en Oporto",
-    "description": "GuestReady - Apartamento Virtudes Balcón 1",
+    "description": "Apartamento Premium - 1º Piso - R1F",
     "configuration": "entire_home",
-    "rentValue": "152",
+    "rentValue": "150",
     "rentDesc": "€ en total",
-    "link": "https://www.airbnb.es/rooms/17486317?source_impression_id=p3_1683219831_0Pqq5IlrIalwkYYn&check_in=2024-03-25&guests=3&adults=2&check_out=2024-03-27&children=1",
-    "image": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-17486317/original/353f14ec-748b-414b-a8b5-04ff41a4687e.jpeg?im_w=720",
-    "price": "76",
+    "link": "https://www.airbnb.es/rooms/721521036444511318?source_impression_id=p3_1683219831_0Pqq5IlrIalwkYYn&check_in=2024-03-25&guests=3&adults=2&check_out=2024-03-27&children=1",
+    "image": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-721521036444511318/original/aa211730-b785-45d1-bb36-7c39bd07918b.png?im_w=720",
+    "price": "75",
     "priceCurrency": "€",
     "qualifier": "noche",
     "json": {
       "__typename": "ExplorePricingQuote",
-      "avgRatingA11yLabel": "Valoración media de 4,52 sobre 5, 248 evaluaciones",
-      "avgRatingLocalized": "4,52 (248)",
+      "avgRatingA11yLabel": null,
+      "avgRatingLocalized": null,
       "contextualPictures": [
         {
           "__typename": "ExplorePicture",
-          "caption": null,
+          "caption": {
+            "__typename": "ExploreKickerContent",
+            "formattedMessages": null,
+            "kickerBadge": null,
+            "messages": [
+              "Todavía no hay evaluaciones"
+            ],
+            "textColor": null
+          },
           "dominantSaturatedColor": null,
-          "id": "1542291353",
+          "id": "1664694902",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-17486317/original/353f14ec-748b-414b-a8b5-04ff41a4687e.jpeg?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-721521036444511318/original/aa211730-b785-45d1-bb36-7c39bd07918b.png?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
@@ -599,16 +891,16 @@
             "formattedMessages": null,
             "kickerBadge": null,
             "messages": [
-              "2 camas",
-              "Estudio"
+              "1 cama",
+              "1 dormitorio"
             ],
             "textColor": null
           },
           "dominantSaturatedColor": null,
-          "id": "1542291345",
+          "id": "1664694963",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-17486317/original/3e0e76ba-7af4-4670-9fcb-c3c9d99dd1a4.jpeg?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-721521036444511318/original/72e957d5-1d07-4a03-adc2-e4b4f58705d5.png?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
@@ -626,10 +918,10 @@
             "textColor": null
           },
           "dominantSaturatedColor": null,
-          "id": "1542291265",
+          "id": "1664695010",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-17486317/original/2588fba8-c1a4-40ed-8145-4d95f89a8b35.jpeg?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-721521036444511318/original/088042f4-8f41-46bf-8f72-4866e6322956.png?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
@@ -642,16 +934,15 @@
             "formattedMessages": null,
             "kickerBadge": null,
             "messages": [
-              "1 cama «queen»",
-              "1 sofá cama"
+              "1 cama doble"
             ],
             "textColor": null
           },
           "dominantSaturatedColor": null,
-          "id": "1542291295",
+          "id": "1664695050",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-17486317/original/f4922fd6-fd34-49ad-a23b-d39bfe78fffa.jpeg?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-721521036444511318/original/b6ccb044-8499-47d1-9ffc-51e13d64ea23.png?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
@@ -671,10 +962,10 @@
             "textColor": null
           },
           "dominantSaturatedColor": null,
-          "id": "1542291322",
+          "id": "1664695086",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-17486317/original/ac2c80d4-055b-4886-97ea-c1042eca3f33.jpeg?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-721521036444511318/original/3eec1568-d600-4e01-90c6-782eebc06dff.png?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
@@ -687,15 +978,15 @@
             "formattedMessages": null,
             "kickerBadge": null,
             "messages": [
-              "Puntuación de 4,6 sobre 5 en limpieza"
+              "Todavía no hay evaluaciones"
             ],
             "textColor": null
           },
           "dominantSaturatedColor": null,
-          "id": "1542291354",
+          "id": "1664695117",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-17486317/original/e97b9479-39a1-486e-8351-79b9bc3644d0.jpeg?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-721521036444511318/original/efbabab7-3b89-4973-985a-4ce4481013af.png?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
@@ -712,13 +1003,13 @@
       },
       "coordinate": {
         "__typename": "Coordinate",
-        "latitude": 41.14464,
-        "longitude": -8.61667
+        "latitude": 41.14542,
+        "longitude": -8.603766
       },
       "formattedBadges": [],
-      "id": "17486317",
+      "id": "721521036444511318",
       "listingObjType": "REGULAR",
-      "name": "GuestReady - Apartamento Virtudes Balcón 1",
+      "name": "Apartamento Premium - 1º Piso - R1F",
       "pdpUrlType": "ROOMS",
       "roomTypeCategory": "entire_home",
       "roomTypeId": null,
@@ -730,286 +1021,7 @@
         "mapPrimaryLine": [
           {
             "__typename": "MainSectionMessage",
-            "body": "2 camas",
-            "bodyA11yLabel": null,
-            "bodyType": null,
-            "fontWeight": null,
-            "headline": null,
-            "type": null
-          },
-          {
-            "__typename": "MainSectionMessage",
-            "body": "Estudio",
-            "bodyA11yLabel": null,
-            "bodyType": null,
-            "fontWeight": null,
-            "headline": null,
-            "type": null
-          }
-        ],
-        "mapSecondaryLine": null,
-        "primaryLine": [
-          {
-            "__typename": "MainSectionMessage",
-            "body": "2 camas",
-            "bodyA11yLabel": null,
-            "bodyType": null,
-            "fontWeight": null,
-            "headline": null,
-            "type": null
-          },
-          {
-            "__typename": "MainSectionMessage",
-            "body": "Estudio",
-            "bodyA11yLabel": null,
-            "bodyType": null,
-            "fontWeight": null,
-            "headline": null,
-            "type": null
-          }
-        ],
-        "secondaryLine": [
-          {
-            "__typename": "MainSectionMessage",
-            "body": "Anfitrión: GuestReady",
-            "bodyA11yLabel": null,
-            "bodyType": null,
-            "fontWeight": null,
-            "headline": null,
-            "type": null
-          }
-        ]
-      },
-      "tierId": 0,
-      "title": "Apartamento en Oporto",
-      "titleLocale": "es",
-      "primaryHostPassport": null,
-      "structuredStayDisplayPrice": {
-        "__typename": "StructuredDisplayPrice",
-        "primaryLine": {
-          "__typename": "QualifiedDisplayPriceLine",
-          "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
-          "accessibilityLabel": "76 € por noche",
-          "price": "76 €",
-          "qualifier": "noche",
-          "shortQualifier": "noche",
-          "concatQualifierLeft": false,
-          "trailingContent": null
-        },
-        "secondaryLine": {
-          "__typename": "BasicDisplayPriceLine",
-          "displayComponentType": "BASIC_DISPLAY_PRICE_LINE",
-          "accessibilityLabel": "152 € en total",
-          "price": "152 € en total",
-          "trailingContent": null
-        },
-        "explanationData": {
-          "__typename": "DisplayPriceExplanationData",
-          "title": "Desglose del precio",
-          "priceDetails": [
-            {
-              "__typename": "DisplayPriceExplanationLineGroup",
-              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
-              "items": [
-                {
-                  "__typename": "DefaultExplanationLineItem",
-                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
-                  "description": "51 € x 2 noches",
-                  "priceString": "102 €",
-                  "explanationData": null
-                },
-                {
-                  "__typename": "DefaultExplanationLineItem",
-                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
-                  "description": "Gastos de limpieza",
-                  "priceString": "34 €",
-                  "explanationData": null
-                },
-                {
-                  "__typename": "DefaultExplanationLineItem",
-                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
-                  "description": "Impuestos",
-                  "priceString": "16 €",
-                  "explanationData": null
-                }
-              ],
-              "renderBorderTop": false,
-              "collapsable": null
-            }
-          ]
-        },
-        "explanationDataDisplayPosition": "SECONDARY_LINE",
-        "explanationDataDisplayPriceTriggerType": null,
-        "layout": "ROW_WITH_SEPARATOR"
-      }
-    }
-  },
-  {
-    "title": "Apartamento en Oporto",
-    "description": "FLH Porto en blanco y negro",
-    "configuration": "entire_home",
-    "rentValue": "167",
-    "rentDesc": "€ en total",
-    "link": "https://www.airbnb.es/rooms/14356395?source_impression_id=p3_1683219831_0Pqq5IlrIalwkYYn&check_in=2024-03-25&guests=3&adults=2&check_out=2024-03-27&children=1",
-    "image": "https://a0.muscache.com/im/pictures/5152c71c-ecb0-469c-9a4e-8a1fc1d79805.jpg?im_w=720",
-    "price": "",
-    "priceCurrency": "",
-    "qualifier": "noche",
-    "json": {
-      "__typename": "ExplorePricingQuote",
-      "avgRatingA11yLabel": "Valoración media de 4,27 sobre 5, 81 evaluaciones",
-      "avgRatingLocalized": "4,27 (81)",
-      "contextualPictures": [
-        {
-          "__typename": "ExplorePicture",
-          "caption": null,
-          "dominantSaturatedColor": null,
-          "id": "193145417",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/5152c71c-ecb0-469c-9a4e-8a1fc1d79805.jpg?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        },
-        {
-          "__typename": "ExplorePicture",
-          "caption": {
-            "__typename": "ExploreKickerContent",
-            "formattedMessages": null,
-            "kickerBadge": null,
-            "messages": [
-              "2 camas",
-              "1 dormitorio"
-            ],
-            "textColor": null
-          },
-          "dominantSaturatedColor": null,
-          "id": "193145414",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/a26768c1-a5ae-498d-9a52-7ea6c04eb6ad.jpg?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        },
-        {
-          "__typename": "ExplorePicture",
-          "caption": {
-            "__typename": "ExploreKickerContent",
-            "formattedMessages": null,
-            "kickerBadge": null,
-            "messages": [
-              "1 baño"
-            ],
-            "textColor": null
-          },
-          "dominantSaturatedColor": null,
-          "id": "193145282",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/1a0d6757-565c-4167-81bc-2ad346c085d0.jpg?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        },
-        {
-          "__typename": "ExplorePicture",
-          "caption": {
-            "__typename": "ExploreKickerContent",
-            "formattedMessages": null,
-            "kickerBadge": null,
-            "messages": [
-              "1 cama king"
-            ],
-            "textColor": null
-          },
-          "dominantSaturatedColor": null,
-          "id": "193145364",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/3f8f10f6-666b-4472-b601-851512565e6a.jpg?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        },
-        {
-          "__typename": "ExplorePicture",
-          "caption": {
-            "__typename": "ExploreKickerContent",
-            "formattedMessages": null,
-            "kickerBadge": null,
-            "messages": [
-              "Wifi",
-              "Cocina"
-            ],
-            "textColor": null
-          },
-          "dominantSaturatedColor": null,
-          "id": "193145526",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/b8b37043-74a3-48ae-99b1-7d57cd4756be.jpg?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        },
-        {
-          "__typename": "ExplorePicture",
-          "caption": {
-            "__typename": "ExploreKickerContent",
-            "formattedMessages": null,
-            "kickerBadge": null,
-            "messages": [
-              "Puntuación de 4,3 sobre 5 en limpieza"
-            ],
-            "textColor": null
-          },
-          "dominantSaturatedColor": null,
-          "id": "193145342",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/13be9b06-e2d2-4f48-94cb-3f02b831d5a6.jpg?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        }
-      ],
-      "contextualPicturesCount": 23,
-      "contextualPicturesPageInfo": {
-        "__typename": "PageInfo",
-        "endCursor": "NQ==",
-        "hasNextPage": true,
-        "hasPreviousPage": false,
-        "startCursor": null
-      },
-      "coordinate": {
-        "__typename": "Coordinate",
-        "latitude": 41.14295,
-        "longitude": -8.61301
-      },
-      "formattedBadges": [],
-      "id": "14356395",
-      "listingObjType": "REGULAR",
-      "name": "FLH Porto en blanco y negro",
-      "pdpUrlType": "ROOMS",
-      "roomTypeCategory": "entire_home",
-      "roomTypeId": null,
-      "shareButton": null,
-      "structuredContent": {
-        "__typename": "ExploreStructuredContent",
-        "distance": null,
-        "mapCategoryInfo": null,
-        "mapPrimaryLine": [
-          {
-            "__typename": "MainSectionMessage",
-            "body": "2 camas",
+            "body": "1 cama",
             "bodyA11yLabel": null,
             "bodyType": null,
             "fontWeight": null,
@@ -1030,7 +1042,7 @@
         "primaryLine": [
           {
             "__typename": "MainSectionMessage",
-            "body": "2 camas",
+            "body": "1 cama",
             "bodyA11yLabel": null,
             "bodyType": null,
             "fontWeight": null,
@@ -1057,7 +1069,8 @@
             "headline": null,
             "type": null
           }
-        ]
+        ],
+        "reviewSnippet": null
       },
       "tierId": 0,
       "title": "Apartamento en Oporto",
@@ -1066,11 +1079,10 @@
       "structuredStayDisplayPrice": {
         "__typename": "StructuredDisplayPrice",
         "primaryLine": {
-          "__typename": "DiscountedDisplayPriceLine",
-          "displayComponentType": "DISCOUNTED_DISPLAY_PRICE_LINE",
-          "accessibilityLabel": "84 € por noche, inicialmente 97 €",
-          "discountedPrice": "84 €",
-          "originalPrice": "97 €",
+          "__typename": "QualifiedDisplayPriceLine",
+          "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+          "accessibilityLabel": "75 € por noche",
+          "price": "75 €",
           "qualifier": "noche",
           "shortQualifier": "noche",
           "concatQualifierLeft": false,
@@ -1079,8 +1091,8 @@
         "secondaryLine": {
           "__typename": "BasicDisplayPriceLine",
           "displayComponentType": "BASIC_DISPLAY_PRICE_LINE",
-          "accessibilityLabel": "167 € en total",
-          "price": "167 € en total",
+          "accessibilityLabel": "150 € en total",
+          "price": "150 € en total",
           "trailingContent": null
         },
         "explanationData": {
@@ -1094,15 +1106,8 @@
                 {
                   "__typename": "DefaultExplanationLineItem",
                   "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
-                  "description": "61 € x 2 noches",
-                  "priceString": "121 €",
-                  "explanationData": null
-                },
-                {
-                  "__typename": "DefaultExplanationLineItem",
-                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
-                  "description": "Gastos de limpieza",
-                  "priceString": "30 €",
+                  "description": "67 € x 2 noches",
+                  "priceString": "134 €",
                   "explanationData": null
                 },
                 {
@@ -1119,7 +1124,7 @@
             {
               "__typename": "DisplayPriceExplanationDisclaimer",
               "displayComponentType": "DISPLAY_PRICE_EXPLANATION_DISCLAIMER",
-              "content": "El anfitrión ha bajado recientemente el precio para estas fechas con respecto a la tarifa media de las últimas 60 noches."
+              "content": "Cancelación gratuita antes del 20 mar."
             }
           ]
         },
@@ -1344,7 +1349,8 @@
             "headline": null,
             "type": null
           }
-        ]
+        ],
+        "reviewSnippet": null
       },
       "tierId": 0,
       "title": "Apartamento en Oporto",
@@ -1401,6 +1407,11 @@
               ],
               "renderBorderTop": false,
               "collapsable": null
+            },
+            {
+              "__typename": "DisplayPriceExplanationDisclaimer",
+              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_DISCLAIMER",
+              "content": "Cancelación gratuita antes del 20 mar."
             }
           ]
         },
@@ -1412,28 +1423,28 @@
   },
   {
     "title": "Apartamento en Oporto",
-    "description": "GuestReady - Genuine Oporto Apts - 3",
+    "description": "GuestReady - Intercambio de casas",
     "configuration": "entire_home",
-    "rentValue": "158",
+    "rentValue": "155",
     "rentDesc": "€ en total",
-    "link": "https://www.airbnb.es/rooms/23903624?source_impression_id=p3_1683219831_0Pqq5IlrIalwkYYn&check_in=2024-03-25&guests=3&adults=2&check_out=2024-03-27&children=1",
-    "image": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-23903624/original/a839137d-35ef-4199-80e1-064fba8e464c.png?im_w=720",
-    "price": "79",
+    "link": "https://www.airbnb.es/rooms/1049700851813036784?source_impression_id=p3_1683219831_0Pqq5IlrIalwkYYn&check_in=2024-03-25&guests=3&adults=2&check_out=2024-03-27&children=1",
+    "image": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1049700851813036784/original/820f5a0b-3415-4ce9-a310-ad85208349f9.jpeg?im_w=720",
+    "price": "78",
     "priceCurrency": "€",
     "qualifier": "noche",
     "json": {
       "__typename": "ExplorePricingQuote",
-      "avgRatingA11yLabel": "Valoración media de 4,51 sobre 5, 177 evaluaciones",
-      "avgRatingLocalized": "4,51 (177)",
+      "avgRatingA11yLabel": "Valoración media de 4,67 sobre 5, 3 evaluaciones",
+      "avgRatingLocalized": "4,67 (3)",
       "contextualPictures": [
         {
           "__typename": "ExplorePicture",
           "caption": null,
           "dominantSaturatedColor": null,
-          "id": "1540024277",
+          "id": "1804027034",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-23903624/original/a839137d-35ef-4199-80e1-064fba8e464c.png?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1049700851813036784/original/820f5a0b-3415-4ce9-a310-ad85208349f9.jpeg?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
@@ -1452,10 +1463,10 @@
             "textColor": null
           },
           "dominantSaturatedColor": null,
-          "id": "1540024237",
+          "id": "1804027110",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-23903624/original/326a194b-e344-446e-a20d-115a4f71d0f7.png?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1049700851813036784/original/501efc67-fc95-406a-9c2f-7eb09efaa0ed.jpeg?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
@@ -1468,15 +1479,15 @@
             "formattedMessages": null,
             "kickerBadge": null,
             "messages": [
-              "2 baños"
+              "1 baño"
             ],
             "textColor": null
           },
           "dominantSaturatedColor": null,
-          "id": "1540024242",
+          "id": "1804027041",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-23903624/original/611bb105-e19f-4f7c-855c-ef03b993c671.png?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1049700851813036784/original/79e273af-9491-4d09-94ba-1f719ef78f2a.jpeg?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
@@ -1495,10 +1506,10 @@
             "textColor": null
           },
           "dominantSaturatedColor": null,
-          "id": "1540024235",
+          "id": "1804027036",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-23903624/original/f755cdc8-6834-4b1e-a7a3-0e46fbdab672.png?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1049700851813036784/original/bfd2873c-35bf-4be6-8108-9e849814ec63.jpeg?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
@@ -1518,10 +1529,10 @@
             "textColor": null
           },
           "dominantSaturatedColor": null,
-          "id": "1540024263",
+          "id": "1804027048",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-23903624/original/3875319d-e635-43df-b2be-05d263630c45.png?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1049700851813036784/original/a27695c0-7799-467b-ab58-7c574689be13.jpeg?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
@@ -1534,22 +1545,22 @@
             "formattedMessages": null,
             "kickerBadge": null,
             "messages": [
-              "Puntuación de 4,5 sobre 5 en limpieza"
+              "Puntuación de 4,7 sobre 5 en limpieza"
             ],
             "textColor": null
           },
           "dominantSaturatedColor": null,
-          "id": "1540024233",
+          "id": "1804027071",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-23903624/original/40109374-c3de-4915-ac00-fccb72b433c1.png?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1049700851813036784/original/2b4da4f3-208c-4cac-9137-6f33ecc64347.jpeg?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
           "xlPicture": null
         }
       ],
-      "contextualPicturesCount": 16,
+      "contextualPicturesCount": 28,
       "contextualPicturesPageInfo": {
         "__typename": "PageInfo",
         "endCursor": "NQ==",
@@ -1559,13 +1570,13 @@
       },
       "coordinate": {
         "__typename": "Coordinate",
-        "latitude": 41.14145,
-        "longitude": -8.61548
+        "latitude": 41.14174271104797,
+        "longitude": -8.616305836842827
       },
       "formattedBadges": [],
-      "id": "23903624",
+      "id": "1049700851813036784",
       "listingObjType": "REGULAR",
-      "name": "GuestReady - Genuine Oporto Apts - 3",
+      "name": "GuestReady - Intercambio de casas",
       "pdpUrlType": "ROOMS",
       "roomTypeCategory": "entire_home",
       "roomTypeId": null,
@@ -1625,19 +1636,20 @@
             "headline": null,
             "type": null
           }
-        ]
+        ],
+        "reviewSnippet": null
       },
       "tierId": 0,
       "title": "Apartamento en Oporto",
-      "titleLocale": "en",
+      "titleLocale": "es",
       "primaryHostPassport": null,
       "structuredStayDisplayPrice": {
         "__typename": "StructuredDisplayPrice",
         "primaryLine": {
           "__typename": "QualifiedDisplayPriceLine",
           "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
-          "accessibilityLabel": "79 € por noche",
-          "price": "79 €",
+          "accessibilityLabel": "78 € por noche",
+          "price": "78 €",
           "qualifier": "noche",
           "shortQualifier": "noche",
           "concatQualifierLeft": false,
@@ -1646,8 +1658,8 @@
         "secondaryLine": {
           "__typename": "BasicDisplayPriceLine",
           "displayComponentType": "BASIC_DISPLAY_PRICE_LINE",
-          "accessibilityLabel": "158 € en total",
-          "price": "158 € en total",
+          "accessibilityLabel": "155 € en total",
+          "price": "155 € en total",
           "trailingContent": null
         },
         "explanationData": {
@@ -1661,8 +1673,8 @@
                 {
                   "__typename": "DefaultExplanationLineItem",
                   "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
-                  "description": "51 € x 2 noches",
-                  "priceString": "102 €",
+                  "description": "50 € x 2 noches",
+                  "priceString": "99 €",
                   "explanationData": null
                 },
                 {
@@ -1682,6 +1694,11 @@
               ],
               "renderBorderTop": false,
               "collapsable": null
+            },
+            {
+              "__typename": "DisplayPriceExplanationDisclaimer",
+              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_DISCLAIMER",
+              "content": "Cancelación gratuita antes del 20 mar."
             }
           ]
         },
@@ -1693,36 +1710,28 @@
   },
   {
     "title": "Apartamento en Oporto",
-    "description": "Apartamento Premium - 1º Piso - R1F",
+    "description": "FLH Porto en blanco y negro",
     "configuration": "entire_home",
-    "rentValue": "154",
+    "rentValue": "171",
     "rentDesc": "€ en total",
-    "link": "https://www.airbnb.es/rooms/721521036444511318?source_impression_id=p3_1683219831_0Pqq5IlrIalwkYYn&check_in=2024-03-25&guests=3&adults=2&check_out=2024-03-27&children=1",
-    "image": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-721521036444511318/original/aa211730-b785-45d1-bb36-7c39bd07918b.png?im_w=720",
-    "price": "77",
-    "priceCurrency": "€",
+    "link": "https://www.airbnb.es/rooms/14356395?source_impression_id=p3_1683219831_0Pqq5IlrIalwkYYn&check_in=2024-03-25&guests=3&adults=2&check_out=2024-03-27&children=1",
+    "image": "https://a0.muscache.com/im/pictures/5152c71c-ecb0-469c-9a4e-8a1fc1d79805.jpg?im_w=720",
+    "price": "",
+    "priceCurrency": "",
     "qualifier": "noche",
     "json": {
       "__typename": "ExplorePricingQuote",
-      "avgRatingA11yLabel": null,
-      "avgRatingLocalized": null,
+      "avgRatingA11yLabel": "Valoración media de 4,27 sobre 5, 81 evaluaciones",
+      "avgRatingLocalized": "4,27 (81)",
       "contextualPictures": [
         {
           "__typename": "ExplorePicture",
-          "caption": {
-            "__typename": "ExploreKickerContent",
-            "formattedMessages": null,
-            "kickerBadge": null,
-            "messages": [
-              "Todavía no hay evaluaciones"
-            ],
-            "textColor": null
-          },
+          "caption": null,
           "dominantSaturatedColor": null,
-          "id": "1664694902",
+          "id": "193145417",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-721521036444511318/original/aa211730-b785-45d1-bb36-7c39bd07918b.png?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/5152c71c-ecb0-469c-9a4e-8a1fc1d79805.jpg?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
@@ -1735,16 +1744,16 @@
             "formattedMessages": null,
             "kickerBadge": null,
             "messages": [
-              "1 cama",
+              "2 camas",
               "1 dormitorio"
             ],
             "textColor": null
           },
           "dominantSaturatedColor": null,
-          "id": "1664694963",
+          "id": "193145414",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-721521036444511318/original/72e957d5-1d07-4a03-adc2-e4b4f58705d5.png?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/a26768c1-a5ae-498d-9a52-7ea6c04eb6ad.jpg?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
@@ -1762,10 +1771,10 @@
             "textColor": null
           },
           "dominantSaturatedColor": null,
-          "id": "1664695010",
+          "id": "193145282",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-721521036444511318/original/088042f4-8f41-46bf-8f72-4866e6322956.png?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/1a0d6757-565c-4167-81bc-2ad346c085d0.jpg?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
@@ -1778,15 +1787,15 @@
             "formattedMessages": null,
             "kickerBadge": null,
             "messages": [
-              "1 cama doble"
+              "1 cama king"
             ],
             "textColor": null
           },
           "dominantSaturatedColor": null,
-          "id": "1664695050",
+          "id": "193145364",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-721521036444511318/original/b6ccb044-8499-47d1-9ffc-51e13d64ea23.png?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/3f8f10f6-666b-4472-b601-851512565e6a.jpg?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
@@ -1800,16 +1809,15 @@
             "kickerBadge": null,
             "messages": [
               "Wifi",
-              "Cocina",
-              "Llegada autónoma"
+              "Cocina"
             ],
             "textColor": null
           },
           "dominantSaturatedColor": null,
-          "id": "1664695086",
+          "id": "193145526",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-721521036444511318/original/3eec1568-d600-4e01-90c6-782eebc06dff.png?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/b8b37043-74a3-48ae-99b1-7d57cd4756be.jpg?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
@@ -1822,22 +1830,22 @@
             "formattedMessages": null,
             "kickerBadge": null,
             "messages": [
-              "Todavía no hay evaluaciones"
+              "Puntuación de 4,3 sobre 5 en limpieza"
             ],
             "textColor": null
           },
           "dominantSaturatedColor": null,
-          "id": "1664695117",
+          "id": "193145342",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-721521036444511318/original/efbabab7-3b89-4973-985a-4ce4481013af.png?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/13be9b06-e2d2-4f48-94cb-3f02b831d5a6.jpg?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
           "xlPicture": null
         }
       ],
-      "contextualPicturesCount": 30,
+      "contextualPicturesCount": 23,
       "contextualPicturesPageInfo": {
         "__typename": "PageInfo",
         "endCursor": "NQ==",
@@ -1847,13 +1855,13 @@
       },
       "coordinate": {
         "__typename": "Coordinate",
-        "latitude": 41.14542,
-        "longitude": -8.603766
+        "latitude": 41.14295,
+        "longitude": -8.61301
       },
       "formattedBadges": [],
-      "id": "721521036444511318",
+      "id": "14356395",
       "listingObjType": "REGULAR",
-      "name": "Apartamento Premium - 1º Piso - R1F",
+      "name": "FLH Porto en blanco y negro",
       "pdpUrlType": "ROOMS",
       "roomTypeCategory": "entire_home",
       "roomTypeId": null,
@@ -1865,7 +1873,7 @@
         "mapPrimaryLine": [
           {
             "__typename": "MainSectionMessage",
-            "body": "1 cama",
+            "body": "2 camas",
             "bodyA11yLabel": null,
             "bodyType": null,
             "fontWeight": null,
@@ -1886,7 +1894,7 @@
         "primaryLine": [
           {
             "__typename": "MainSectionMessage",
-            "body": "1 cama",
+            "body": "2 camas",
             "bodyA11yLabel": null,
             "bodyType": null,
             "fontWeight": null,
@@ -1913,7 +1921,8 @@
             "headline": null,
             "type": null
           }
-        ]
+        ],
+        "reviewSnippet": null
       },
       "tierId": 0,
       "title": "Apartamento en Oporto",
@@ -1922,10 +1931,11 @@
       "structuredStayDisplayPrice": {
         "__typename": "StructuredDisplayPrice",
         "primaryLine": {
-          "__typename": "QualifiedDisplayPriceLine",
-          "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
-          "accessibilityLabel": "77 € por noche",
-          "price": "77 €",
+          "__typename": "DiscountedDisplayPriceLine",
+          "displayComponentType": "DISCOUNTED_DISPLAY_PRICE_LINE",
+          "accessibilityLabel": "86 € por noche, inicialmente 97 €",
+          "discountedPrice": "86 €",
+          "originalPrice": "97 €",
           "qualifier": "noche",
           "shortQualifier": "noche",
           "concatQualifierLeft": false,
@@ -1934,8 +1944,8 @@
         "secondaryLine": {
           "__typename": "BasicDisplayPriceLine",
           "displayComponentType": "BASIC_DISPLAY_PRICE_LINE",
-          "accessibilityLabel": "154 € en total",
-          "price": "154 € en total",
+          "accessibilityLabel": "171 € en total",
+          "price": "171 € en total",
           "trailingContent": null
         },
         "explanationData": {
@@ -1949,8 +1959,15 @@
                 {
                   "__typename": "DefaultExplanationLineItem",
                   "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
-                  "description": "69 € x 2 noches",
-                  "priceString": "138 €",
+                  "description": "63 € x 2 noches",
+                  "priceString": "125 €",
+                  "explanationData": null
+                },
+                {
+                  "__typename": "DefaultExplanationLineItem",
+                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
+                  "description": "Gastos de limpieza",
+                  "priceString": "30 €",
                   "explanationData": null
                 },
                 {
@@ -1963,6 +1980,11 @@
               ],
               "renderBorderTop": false,
               "collapsable": null
+            },
+            {
+              "__typename": "DisplayPriceExplanationDisclaimer",
+              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_DISCLAIMER",
+              "content": "El anfitrión ha bajado recientemente el precio para estas fechas con respecto a la tarifa media de las últimas 60 noches."
             }
           ]
         },
@@ -2187,7 +2209,8 @@
             "headline": null,
             "type": null
           }
-        ]
+        ],
+        "reviewSnippet": null
       },
       "tierId": 0,
       "title": "Apartamento en Oporto",
@@ -2244,6 +2267,11 @@
               ],
               "renderBorderTop": false,
               "collapsable": null
+            },
+            {
+              "__typename": "DisplayPriceExplanationDisclaimer",
+              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_DISCLAIMER",
+              "content": "Cancelación gratuita antes del 24 mar."
             }
           ]
         },
@@ -2468,7 +2496,8 @@
             "headline": null,
             "type": null
           }
-        ]
+        ],
+        "reviewSnippet": null
       },
       "tierId": 0,
       "title": "Apartamento en Oporto",
@@ -2525,6 +2554,298 @@
               ],
               "renderBorderTop": false,
               "collapsable": null
+            },
+            {
+              "__typename": "DisplayPriceExplanationDisclaimer",
+              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_DISCLAIMER",
+              "content": "Cancelación gratuita antes del 24 mar."
+            }
+          ]
+        },
+        "explanationDataDisplayPosition": "SECONDARY_LINE",
+        "explanationDataDisplayPriceTriggerType": null,
+        "layout": "ROW_WITH_SEPARATOR"
+      }
+    }
+  },
+  {
+    "title": "Apartamento en Oporto",
+    "description": "GuestReady - Genuine Oporto Apts - 3",
+    "configuration": "entire_home",
+    "rentValue": "162",
+    "rentDesc": "€ en total",
+    "link": "https://www.airbnb.es/rooms/23903624?source_impression_id=p3_1683219831_0Pqq5IlrIalwkYYn&check_in=2024-03-25&guests=3&adults=2&check_out=2024-03-27&children=1",
+    "image": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-23903624/original/a839137d-35ef-4199-80e1-064fba8e464c.png?im_w=720",
+    "price": "81",
+    "priceCurrency": "€",
+    "qualifier": "noche",
+    "json": {
+      "__typename": "ExplorePricingQuote",
+      "avgRatingA11yLabel": "Valoración media de 4,51 sobre 5, 177 evaluaciones",
+      "avgRatingLocalized": "4,51 (177)",
+      "contextualPictures": [
+        {
+          "__typename": "ExplorePicture",
+          "caption": null,
+          "dominantSaturatedColor": null,
+          "id": "1540024277",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-23903624/original/a839137d-35ef-4199-80e1-064fba8e464c.png?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        },
+        {
+          "__typename": "ExplorePicture",
+          "caption": {
+            "__typename": "ExploreKickerContent",
+            "formattedMessages": null,
+            "kickerBadge": null,
+            "messages": [
+              "2 camas",
+              "1 dormitorio"
+            ],
+            "textColor": null
+          },
+          "dominantSaturatedColor": null,
+          "id": "1540024237",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-23903624/original/326a194b-e344-446e-a20d-115a4f71d0f7.png?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        },
+        {
+          "__typename": "ExplorePicture",
+          "caption": {
+            "__typename": "ExploreKickerContent",
+            "formattedMessages": null,
+            "kickerBadge": null,
+            "messages": [
+              "2 baños"
+            ],
+            "textColor": null
+          },
+          "dominantSaturatedColor": null,
+          "id": "1540024242",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-23903624/original/611bb105-e19f-4f7c-855c-ef03b993c671.png?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        },
+        {
+          "__typename": "ExplorePicture",
+          "caption": {
+            "__typename": "ExploreKickerContent",
+            "formattedMessages": null,
+            "kickerBadge": null,
+            "messages": [
+              "1 cama doble",
+              "1 sofá cama"
+            ],
+            "textColor": null
+          },
+          "dominantSaturatedColor": null,
+          "id": "1540024235",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-23903624/original/f755cdc8-6834-4b1e-a7a3-0e46fbdab672.png?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        },
+        {
+          "__typename": "ExplorePicture",
+          "caption": {
+            "__typename": "ExploreKickerContent",
+            "formattedMessages": null,
+            "kickerBadge": null,
+            "messages": [
+              "Wifi",
+              "Cocina",
+              "Llegada autónoma"
+            ],
+            "textColor": null
+          },
+          "dominantSaturatedColor": null,
+          "id": "1540024263",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-23903624/original/3875319d-e635-43df-b2be-05d263630c45.png?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        },
+        {
+          "__typename": "ExplorePicture",
+          "caption": {
+            "__typename": "ExploreKickerContent",
+            "formattedMessages": null,
+            "kickerBadge": null,
+            "messages": [
+              "Puntuación de 4,5 sobre 5 en limpieza"
+            ],
+            "textColor": null
+          },
+          "dominantSaturatedColor": null,
+          "id": "1540024233",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-23903624/original/40109374-c3de-4915-ac00-fccb72b433c1.png?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        }
+      ],
+      "contextualPicturesCount": 16,
+      "contextualPicturesPageInfo": {
+        "__typename": "PageInfo",
+        "endCursor": "NQ==",
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "startCursor": null
+      },
+      "coordinate": {
+        "__typename": "Coordinate",
+        "latitude": 41.14145,
+        "longitude": -8.61548
+      },
+      "formattedBadges": [],
+      "id": "23903624",
+      "listingObjType": "REGULAR",
+      "name": "GuestReady - Genuine Oporto Apts - 3",
+      "pdpUrlType": "ROOMS",
+      "roomTypeCategory": "entire_home",
+      "roomTypeId": null,
+      "shareButton": null,
+      "structuredContent": {
+        "__typename": "ExploreStructuredContent",
+        "distance": null,
+        "mapCategoryInfo": null,
+        "mapPrimaryLine": [
+          {
+            "__typename": "MainSectionMessage",
+            "body": "2 camas",
+            "bodyA11yLabel": null,
+            "bodyType": null,
+            "fontWeight": null,
+            "headline": null,
+            "type": null
+          },
+          {
+            "__typename": "MainSectionMessage",
+            "body": "1 dormitorio",
+            "bodyA11yLabel": null,
+            "bodyType": null,
+            "fontWeight": null,
+            "headline": null,
+            "type": null
+          }
+        ],
+        "mapSecondaryLine": null,
+        "primaryLine": [
+          {
+            "__typename": "MainSectionMessage",
+            "body": "2 camas",
+            "bodyA11yLabel": null,
+            "bodyType": null,
+            "fontWeight": null,
+            "headline": null,
+            "type": null
+          },
+          {
+            "__typename": "MainSectionMessage",
+            "body": "1 dormitorio",
+            "bodyA11yLabel": null,
+            "bodyType": null,
+            "fontWeight": null,
+            "headline": null,
+            "type": null
+          }
+        ],
+        "secondaryLine": [
+          {
+            "__typename": "MainSectionMessage",
+            "body": "Gestionado por una empresa",
+            "bodyA11yLabel": null,
+            "bodyType": null,
+            "fontWeight": null,
+            "headline": null,
+            "type": null
+          }
+        ],
+        "reviewSnippet": null
+      },
+      "tierId": 0,
+      "title": "Apartamento en Oporto",
+      "titleLocale": "en",
+      "primaryHostPassport": null,
+      "structuredStayDisplayPrice": {
+        "__typename": "StructuredDisplayPrice",
+        "primaryLine": {
+          "__typename": "QualifiedDisplayPriceLine",
+          "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+          "accessibilityLabel": "81 € por noche",
+          "price": "81 €",
+          "qualifier": "noche",
+          "shortQualifier": "noche",
+          "concatQualifierLeft": false,
+          "trailingContent": null
+        },
+        "secondaryLine": {
+          "__typename": "BasicDisplayPriceLine",
+          "displayComponentType": "BASIC_DISPLAY_PRICE_LINE",
+          "accessibilityLabel": "162 € en total",
+          "price": "162 € en total",
+          "trailingContent": null
+        },
+        "explanationData": {
+          "__typename": "DisplayPriceExplanationData",
+          "title": "Desglose del precio",
+          "priceDetails": [
+            {
+              "__typename": "DisplayPriceExplanationLineGroup",
+              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+              "items": [
+                {
+                  "__typename": "DefaultExplanationLineItem",
+                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
+                  "description": "53 € x 2 noches",
+                  "priceString": "106 €",
+                  "explanationData": null
+                },
+                {
+                  "__typename": "DefaultExplanationLineItem",
+                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
+                  "description": "Gastos de limpieza",
+                  "priceString": "40 €",
+                  "explanationData": null
+                },
+                {
+                  "__typename": "DefaultExplanationLineItem",
+                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
+                  "description": "Impuestos",
+                  "priceString": "16 €",
+                  "explanationData": null
+                }
+              ],
+              "renderBorderTop": false,
+              "collapsable": null
+            },
+            {
+              "__typename": "DisplayPriceExplanationDisclaimer",
+              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_DISCLAIMER",
+              "content": "Cancelación gratuita antes del 24 mar."
             }
           ]
         },
@@ -2749,7 +3070,8 @@
             "headline": null,
             "type": null
           }
-        ]
+        ],
+        "reviewSnippet": null
       },
       "tierId": 0,
       "title": "Apartamento en Oporto",
@@ -2806,6 +3128,11 @@
               ],
               "renderBorderTop": false,
               "collapsable": null
+            },
+            {
+              "__typename": "DisplayPriceExplanationDisclaimer",
+              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_DISCLAIMER",
+              "content": "Cancelación gratuita antes del 20 mar."
             }
           ]
         },
@@ -2816,29 +3143,29 @@
     }
   },
   {
-    "title": "Apartamento en Vila Nova de Gaia",
-    "description": "APOSENTUS -  Gaia Myst",
+    "title": "Apartamento en Oporto",
+    "description": "GuestReady - Genuine Oporto Apts - 2",
     "configuration": "entire_home",
-    "rentValue": "157",
+    "rentValue": "160",
     "rentDesc": "€ en total",
-    "link": "https://www.airbnb.es/rooms/588143976320268589?source_impression_id=p3_1683219831_0Pqq5IlrIalwkYYn&check_in=2024-03-25&guests=3&adults=2&check_out=2024-03-27&children=1",
-    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-588143976320268589/original/229b99ff-b021-4d5c-a0c5-4a74c12b4da2.jpeg?im_w=720",
-    "price": "",
-    "priceCurrency": "",
+    "link": "https://www.airbnb.es/rooms/674409958972494834?source_impression_id=p3_1683219831_0Pqq5IlrIalwkYYn&check_in=2024-03-25&guests=3&adults=2&check_out=2024-03-27&children=1",
+    "image": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-674409958972494834/original/31914c70-636e-4da1-800d-33db5b731867.png?im_w=720",
+    "price": "80",
+    "priceCurrency": "€",
     "qualifier": "noche",
     "json": {
       "__typename": "ExplorePricingQuote",
-      "avgRatingA11yLabel": "Valoración media de 4,28 sobre 5, 88 evaluaciones",
-      "avgRatingLocalized": "4,28 (88)",
+      "avgRatingA11yLabel": "Valoración media de 4,43 sobre 5, 75 evaluaciones",
+      "avgRatingLocalized": "4,43 (75)",
       "contextualPictures": [
         {
           "__typename": "ExplorePicture",
           "caption": null,
           "dominantSaturatedColor": null,
-          "id": "1365914113",
+          "id": "1540017700",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-588143976320268589/original/229b99ff-b021-4d5c-a0c5-4a74c12b4da2.jpeg?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-674409958972494834/original/31914c70-636e-4da1-800d-33db5b731867.png?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
@@ -2857,10 +3184,10 @@
             "textColor": null
           },
           "dominantSaturatedColor": null,
-          "id": "1365914112",
+          "id": "1540017320",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-588143976320268589/original/7796c6b2-b29b-4992-895e-40e39b92c66b.jpeg?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-674409958972494834/original/91e619ea-0cd2-4155-a911-7d8eeff8e93f.png?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
@@ -2878,10 +3205,10 @@
             "textColor": null
           },
           "dominantSaturatedColor": null,
-          "id": "1365913765",
+          "id": "1540017341",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-588143976320268589/original/4eea63af-4a91-475c-944a-cbf2abde0167.jpeg?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-674409958972494834/original/5aeb87c7-9cbd-4c63-8172-60e413bd03ff.png?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
@@ -2894,294 +3221,16 @@
             "formattedMessages": null,
             "kickerBadge": null,
             "messages": [
-              "2 camas «queen»"
+              "1 cama doble",
+              "1 sofá cama"
             ],
             "textColor": null
           },
           "dominantSaturatedColor": null,
-          "id": "1365914276",
+          "id": "1540017690",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-588143976320268589/original/e45d2302-154b-453e-91be-348270f50275.jpeg?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        },
-        {
-          "__typename": "ExplorePicture",
-          "caption": {
-            "__typename": "ExploreKickerContent",
-            "formattedMessages": null,
-            "kickerBadge": null,
-            "messages": [
-              "Wifi",
-              "Cocina"
-            ],
-            "textColor": null
-          },
-          "dominantSaturatedColor": null,
-          "id": "1365913864",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-588143976320268589/original/592b0e6e-417e-4fea-ba60-ee7357fb3a56.jpeg?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        },
-        {
-          "__typename": "ExplorePicture",
-          "caption": {
-            "__typename": "ExploreKickerContent",
-            "formattedMessages": null,
-            "kickerBadge": null,
-            "messages": [
-              "Puntuación de 4,3 sobre 5 en limpieza"
-            ],
-            "textColor": null
-          },
-          "dominantSaturatedColor": null,
-          "id": "1365914093",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-588143976320268589/original/c8029089-b49c-4f16-840e-69238bc53ff6.jpeg?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        }
-      ],
-      "contextualPicturesCount": 28,
-      "contextualPicturesPageInfo": {
-        "__typename": "PageInfo",
-        "endCursor": "NQ==",
-        "hasNextPage": true,
-        "hasPreviousPage": false,
-        "startCursor": null
-      },
-      "coordinate": {
-        "__typename": "Coordinate",
-        "latitude": 41.134834,
-        "longitude": -8.608012
-      },
-      "formattedBadges": [],
-      "id": "588143976320268589",
-      "listingObjType": "REGULAR",
-      "name": "APOSENTUS -  Gaia Myst",
-      "pdpUrlType": "ROOMS",
-      "roomTypeCategory": "entire_home",
-      "roomTypeId": null,
-      "shareButton": null,
-      "structuredContent": {
-        "__typename": "ExploreStructuredContent",
-        "distance": null,
-        "mapCategoryInfo": null,
-        "mapPrimaryLine": [
-          {
-            "__typename": "MainSectionMessage",
-            "body": "2 camas",
-            "bodyA11yLabel": null,
-            "bodyType": null,
-            "fontWeight": null,
-            "headline": null,
-            "type": null
-          },
-          {
-            "__typename": "MainSectionMessage",
-            "body": "1 dormitorio",
-            "bodyA11yLabel": null,
-            "bodyType": null,
-            "fontWeight": null,
-            "headline": null,
-            "type": null
-          }
-        ],
-        "mapSecondaryLine": null,
-        "primaryLine": [
-          {
-            "__typename": "MainSectionMessage",
-            "body": "2 camas",
-            "bodyA11yLabel": null,
-            "bodyType": null,
-            "fontWeight": null,
-            "headline": null,
-            "type": null
-          },
-          {
-            "__typename": "MainSectionMessage",
-            "body": "1 dormitorio",
-            "bodyA11yLabel": null,
-            "bodyType": null,
-            "fontWeight": null,
-            "headline": null,
-            "type": null
-          }
-        ],
-        "secondaryLine": [
-          {
-            "__typename": "MainSectionMessage",
-            "body": "Gestionado por una empresa",
-            "bodyA11yLabel": null,
-            "bodyType": null,
-            "fontWeight": null,
-            "headline": null,
-            "type": null
-          }
-        ]
-      },
-      "tierId": 0,
-      "title": "Apartamento en Vila Nova de Gaia",
-      "titleLocale": "en",
-      "primaryHostPassport": null,
-      "structuredStayDisplayPrice": {
-        "__typename": "StructuredDisplayPrice",
-        "primaryLine": {
-          "__typename": "DiscountedDisplayPriceLine",
-          "displayComponentType": "DISCOUNTED_DISPLAY_PRICE_LINE",
-          "accessibilityLabel": "79 € por noche, inicialmente 88 €",
-          "discountedPrice": "79 €",
-          "originalPrice": "88 €",
-          "qualifier": "noche",
-          "shortQualifier": "noche",
-          "concatQualifierLeft": false,
-          "trailingContent": null
-        },
-        "secondaryLine": {
-          "__typename": "BasicDisplayPriceLine",
-          "displayComponentType": "BASIC_DISPLAY_PRICE_LINE",
-          "accessibilityLabel": "157 € en total",
-          "price": "157 € en total",
-          "trailingContent": null
-        },
-        "explanationData": {
-          "__typename": "DisplayPriceExplanationData",
-          "title": "Desglose del precio",
-          "priceDetails": [
-            {
-              "__typename": "DisplayPriceExplanationLineGroup",
-              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
-              "items": [
-                {
-                  "__typename": "DefaultExplanationLineItem",
-                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
-                  "description": "64 € x 2 noches",
-                  "priceString": "127 €",
-                  "explanationData": null
-                },
-                {
-                  "__typename": "DefaultExplanationLineItem",
-                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
-                  "description": "Gastos de limpieza",
-                  "priceString": "30 €",
-                  "explanationData": null
-                }
-              ],
-              "renderBorderTop": false,
-              "collapsable": null
-            },
-            {
-              "__typename": "DisplayPriceExplanationDisclaimer",
-              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_DISCLAIMER",
-              "content": "El anfitrión ha bajado recientemente el precio para estas fechas con respecto a la tarifa media de las últimas 60 noches."
-            }
-          ]
-        },
-        "explanationDataDisplayPosition": "SECONDARY_LINE",
-        "explanationDataDisplayPriceTriggerType": null,
-        "layout": "ROW_WITH_SEPARATOR"
-      }
-    }
-  },
-  {
-    "title": "Apartamento en Oporto",
-    "description": "GuestReady - Freixo Vista Paraíso",
-    "configuration": "entire_home",
-    "rentValue": "164",
-    "rentDesc": "€ en total",
-    "link": "https://www.airbnb.es/rooms/909227179111378249?source_impression_id=p3_1683219831_0Pqq5IlrIalwkYYn&check_in=2024-03-25&guests=3&adults=2&check_out=2024-03-27&children=1",
-    "image": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-909227179111378249/original/baa650bc-ae72-46b6-8c28-fa416d4a7cec.jpeg?im_w=720",
-    "price": "82",
-    "priceCurrency": "€",
-    "qualifier": "noche",
-    "json": {
-      "__typename": "ExplorePricingQuote",
-      "avgRatingA11yLabel": "Valoración media de 4,7 sobre 5, 23 evaluaciones",
-      "avgRatingLocalized": "4,7 (23)",
-      "contextualPictures": [
-        {
-          "__typename": "ExplorePicture",
-          "caption": null,
-          "dominantSaturatedColor": null,
-          "id": "1670348437",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-909227179111378249/original/baa650bc-ae72-46b6-8c28-fa416d4a7cec.jpeg?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        },
-        {
-          "__typename": "ExplorePicture",
-          "caption": {
-            "__typename": "ExploreKickerContent",
-            "formattedMessages": null,
-            "kickerBadge": null,
-            "messages": [
-              "3 camas",
-              "2 dormitorios"
-            ],
-            "textColor": null
-          },
-          "dominantSaturatedColor": null,
-          "id": "1670348453",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-909227179111378249/original/3df9b7cb-a3b1-4893-b965-82b2514cf784.jpeg?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        },
-        {
-          "__typename": "ExplorePicture",
-          "caption": {
-            "__typename": "ExploreKickerContent",
-            "formattedMessages": null,
-            "kickerBadge": null,
-            "messages": [
-              "1 baño"
-            ],
-            "textColor": null
-          },
-          "dominantSaturatedColor": null,
-          "id": "1670348443",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-909227179111378249/original/3b2da6f4-23ea-4536-b9bd-9521097a0c51.jpeg?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        },
-        {
-          "__typename": "ExplorePicture",
-          "caption": {
-            "__typename": "ExploreKickerContent",
-            "formattedMessages": null,
-            "kickerBadge": null,
-            "messages": [
-              "1 cama «queen»",
-              "2 camas individuales"
-            ],
-            "textColor": null
-          },
-          "dominantSaturatedColor": null,
-          "id": "1670348430",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-909227179111378249/original/50ade82a-0470-48ea-b1f5-2b475ea8e698.jpeg?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-674409958972494834/original/3b3e00a1-5c34-4071-bd0b-f0d631557c8f.png?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
@@ -3201,10 +3250,10 @@
             "textColor": null
           },
           "dominantSaturatedColor": null,
-          "id": "1670348449",
+          "id": "1540017337",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-909227179111378249/original/5d7bf36d-ed8a-4d02-97e5-237854ef0a65.jpeg?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-674409958972494834/original/c0b866f2-4a59-4e0a-87c7-1de213be297e.png?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
@@ -3217,22 +3266,22 @@
             "formattedMessages": null,
             "kickerBadge": null,
             "messages": [
-              "Puntuación de 4,7 sobre 5 en limpieza"
+              "Puntuación de 4,3 sobre 5 en limpieza"
             ],
             "textColor": null
           },
           "dominantSaturatedColor": null,
-          "id": "1670348415",
+          "id": "1540017704",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-909227179111378249/original/97466fc2-d1ad-4b1e-87ba-f9b889970471.jpeg?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-674409958972494834/original/ef3072f9-8e1b-45ac-9123-63832b318236.png?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
           "xlPicture": null
         }
       ],
-      "contextualPicturesCount": 30,
+      "contextualPicturesCount": 15,
       "contextualPicturesPageInfo": {
         "__typename": "PageInfo",
         "endCursor": "NQ==",
@@ -3242,13 +3291,13 @@
       },
       "coordinate": {
         "__typename": "Coordinate",
-        "latitude": 41.14796,
-        "longitude": -8.58696
+        "latitude": 41.14102,
+        "longitude": -8.61581
       },
       "formattedBadges": [],
-      "id": "909227179111378249",
+      "id": "674409958972494834",
       "listingObjType": "REGULAR",
-      "name": "GuestReady - Freixo Vista Paraíso",
+      "name": "GuestReady - Genuine Oporto Apts - 2",
       "pdpUrlType": "ROOMS",
       "roomTypeCategory": "entire_home",
       "roomTypeId": null,
@@ -3260,7 +3309,7 @@
         "mapPrimaryLine": [
           {
             "__typename": "MainSectionMessage",
-            "body": "3 camas",
+            "body": "2 camas",
             "bodyA11yLabel": null,
             "bodyType": null,
             "fontWeight": null,
@@ -3269,7 +3318,7 @@
           },
           {
             "__typename": "MainSectionMessage",
-            "body": "2 dormitorios",
+            "body": "1 dormitorio",
             "bodyA11yLabel": null,
             "bodyType": null,
             "fontWeight": null,
@@ -3281,7 +3330,7 @@
         "primaryLine": [
           {
             "__typename": "MainSectionMessage",
-            "body": "3 camas",
+            "body": "2 camas",
             "bodyA11yLabel": null,
             "bodyType": null,
             "fontWeight": null,
@@ -3290,7 +3339,7 @@
           },
           {
             "__typename": "MainSectionMessage",
-            "body": "2 dormitorios",
+            "body": "1 dormitorio",
             "bodyA11yLabel": null,
             "bodyType": null,
             "fontWeight": null,
@@ -3308,19 +3357,20 @@
             "headline": null,
             "type": null
           }
-        ]
+        ],
+        "reviewSnippet": null
       },
       "tierId": 0,
       "title": "Apartamento en Oporto",
-      "titleLocale": "pt",
+      "titleLocale": "en",
       "primaryHostPassport": null,
       "structuredStayDisplayPrice": {
         "__typename": "StructuredDisplayPrice",
         "primaryLine": {
           "__typename": "QualifiedDisplayPriceLine",
           "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
-          "accessibilityLabel": "82 € por noche",
-          "price": "82 €",
+          "accessibilityLabel": "80 € por noche",
+          "price": "80 €",
           "qualifier": "noche",
           "shortQualifier": "noche",
           "concatQualifierLeft": false,
@@ -3329,8 +3379,8 @@
         "secondaryLine": {
           "__typename": "BasicDisplayPriceLine",
           "displayComponentType": "BASIC_DISPLAY_PRICE_LINE",
-          "accessibilityLabel": "164 € en total",
-          "price": "164 € en total",
+          "accessibilityLabel": "160 € en total",
+          "price": "160 € en total",
           "trailingContent": null
         },
         "explanationData": {
@@ -3344,15 +3394,15 @@
                 {
                   "__typename": "DefaultExplanationLineItem",
                   "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
-                  "description": "49 € x 2 noches",
-                  "priceString": "98 €",
+                  "description": "52 € x 2 noches",
+                  "priceString": "104 €",
                   "explanationData": null
                 },
                 {
                   "__typename": "DefaultExplanationLineItem",
                   "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
                   "description": "Gastos de limpieza",
-                  "priceString": "50 €",
+                  "priceString": "40 €",
                   "explanationData": null
                 },
                 {
@@ -3365,6 +3415,11 @@
               ],
               "renderBorderTop": false,
               "collapsable": null
+            },
+            {
+              "__typename": "DisplayPriceExplanationDisclaimer",
+              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_DISCLAIMER",
+              "content": "Cancelación gratuita antes del 20 mar."
             }
           ]
         },
@@ -3590,7 +3645,8 @@
             "headline": null,
             "type": null
           }
-        ]
+        ],
+        "reviewSnippet": null
       },
       "tierId": 0,
       "title": "Apartamento en Vila Nova de Gaia",
@@ -3647,6 +3703,866 @@
               ],
               "renderBorderTop": false,
               "collapsable": null
+            },
+            {
+              "__typename": "DisplayPriceExplanationDisclaimer",
+              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_DISCLAIMER",
+              "content": "Cancelación gratuita antes del 20 mar."
+            }
+          ]
+        },
+        "explanationDataDisplayPosition": "SECONDARY_LINE",
+        "explanationDataDisplayPriceTriggerType": null,
+        "layout": "ROW_WITH_SEPARATOR"
+      }
+    }
+  },
+  {
+    "title": "Apartamento en Oporto",
+    "description": "Moderno 1 dormitorio con terraza en el centro de Oporto",
+    "configuration": "entire_home",
+    "rentValue": "183",
+    "rentDesc": "€ en total",
+    "link": "https://www.airbnb.es/rooms/53862979?source_impression_id=p3_1683219831_0Pqq5IlrIalwkYYn&check_in=2024-03-25&guests=3&adults=2&check_out=2024-03-27&children=1",
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-53862979/original/457cb595-904b-4a89-b6a7-a0ef8cee2aa8.jpeg?im_w=720",
+    "price": "",
+    "priceCurrency": "",
+    "qualifier": "noche",
+    "json": {
+      "__typename": "ExplorePricingQuote",
+      "avgRatingA11yLabel": "Valoración media de 4,97 sobre 5, 38 evaluaciones",
+      "avgRatingLocalized": "4,97 (38)",
+      "contextualPictures": [
+        {
+          "__typename": "ExplorePicture",
+          "caption": null,
+          "dominantSaturatedColor": null,
+          "id": "1305350275",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-53862979/original/457cb595-904b-4a89-b6a7-a0ef8cee2aa8.jpeg?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        },
+        {
+          "__typename": "ExplorePicture",
+          "caption": {
+            "__typename": "ExploreKickerContent",
+            "formattedMessages": null,
+            "kickerBadge": null,
+            "messages": [
+              "2 camas",
+              "1 dormitorio"
+            ],
+            "textColor": null
+          },
+          "dominantSaturatedColor": null,
+          "id": "1305349949",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-53862979/original/88874886-ea76-4d99-a17d-03ea171b5248.jpeg?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        },
+        {
+          "__typename": "ExplorePicture",
+          "caption": {
+            "__typename": "ExploreKickerContent",
+            "formattedMessages": null,
+            "kickerBadge": null,
+            "messages": [
+              "1 baño"
+            ],
+            "textColor": null
+          },
+          "dominantSaturatedColor": null,
+          "id": "1305351225",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-53862979/original/f0983509-d8b1-4e62-9db9-4df068751743.jpeg?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        },
+        {
+          "__typename": "ExplorePicture",
+          "caption": {
+            "__typename": "ExploreKickerContent",
+            "formattedMessages": null,
+            "kickerBadge": null,
+            "messages": [
+              "1 cama doble",
+              "1 sofá cama"
+            ],
+            "textColor": null
+          },
+          "dominantSaturatedColor": null,
+          "id": "1305351496",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-53862979/original/a599b84c-6aef-4270-bc1a-947c8135453d.jpeg?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        },
+        {
+          "__typename": "ExplorePicture",
+          "caption": {
+            "__typename": "ExploreKickerContent",
+            "formattedMessages": null,
+            "kickerBadge": null,
+            "messages": [
+              "Wifi",
+              "Cocina"
+            ],
+            "textColor": null
+          },
+          "dominantSaturatedColor": null,
+          "id": "1305351374",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-53862979/original/8739129c-ce2a-43fe-844c-24cd75da50d4.jpeg?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        },
+        {
+          "__typename": "ExplorePicture",
+          "caption": {
+            "__typename": "ExploreKickerContent",
+            "formattedMessages": null,
+            "kickerBadge": null,
+            "messages": [
+              "Puntuación de 4,9 sobre 5 en limpieza"
+            ],
+            "textColor": null
+          },
+          "dominantSaturatedColor": null,
+          "id": "1305351070",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-53862979/original/494df236-4679-4617-9db6-ceec93d09160.jpeg?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        }
+      ],
+      "contextualPicturesCount": 7,
+      "contextualPicturesPageInfo": {
+        "__typename": "PageInfo",
+        "endCursor": "NQ==",
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "startCursor": null
+      },
+      "coordinate": {
+        "__typename": "Coordinate",
+        "latitude": 41.14763,
+        "longitude": -8.60584
+      },
+      "formattedBadges": [
+        {
+          "__typename": "ExploreFormattedBadge",
+          "loggingContext": {
+            "__typename": "ExploreFormattedBadgeLoggingContext",
+            "badgeType": "GUEST_FAVORITE"
+          },
+          "style": "LOUD_ROUNDED_PILL",
+          "text": "Recomendación del viajero",
+          "textColor": "#000000"
+        }
+      ],
+      "id": "53862979",
+      "listingObjType": "REGULAR",
+      "name": "Moderno 1 dormitorio con terraza en el centro de Oporto",
+      "pdpUrlType": "ROOMS",
+      "roomTypeCategory": "entire_home",
+      "roomTypeId": null,
+      "shareButton": null,
+      "structuredContent": {
+        "__typename": "ExploreStructuredContent",
+        "distance": null,
+        "mapCategoryInfo": null,
+        "mapPrimaryLine": [
+          {
+            "__typename": "MainSectionMessage",
+            "body": "2 camas",
+            "bodyA11yLabel": null,
+            "bodyType": null,
+            "fontWeight": null,
+            "headline": null,
+            "type": null
+          },
+          {
+            "__typename": "MainSectionMessage",
+            "body": "1 dormitorio",
+            "bodyA11yLabel": null,
+            "bodyType": null,
+            "fontWeight": null,
+            "headline": null,
+            "type": null
+          }
+        ],
+        "mapSecondaryLine": null,
+        "primaryLine": [
+          {
+            "__typename": "MainSectionMessage",
+            "body": "2 camas",
+            "bodyA11yLabel": null,
+            "bodyType": null,
+            "fontWeight": null,
+            "headline": null,
+            "type": null
+          },
+          {
+            "__typename": "MainSectionMessage",
+            "body": "1 dormitorio",
+            "bodyA11yLabel": null,
+            "bodyType": null,
+            "fontWeight": null,
+            "headline": null,
+            "type": null
+          }
+        ],
+        "secondaryLine": [
+          {
+            "__typename": "MainSectionMessage",
+            "body": "Gestionado por una empresa",
+            "bodyA11yLabel": null,
+            "bodyType": null,
+            "fontWeight": null,
+            "headline": null,
+            "type": null
+          }
+        ],
+        "reviewSnippet": null
+      },
+      "tierId": 0,
+      "title": "Apartamento en Oporto",
+      "titleLocale": "es",
+      "primaryHostPassport": null,
+      "structuredStayDisplayPrice": {
+        "__typename": "StructuredDisplayPrice",
+        "primaryLine": {
+          "__typename": "DiscountedDisplayPriceLine",
+          "displayComponentType": "DISCOUNTED_DISPLAY_PRICE_LINE",
+          "accessibilityLabel": "92 € por noche, inicialmente 120 €",
+          "discountedPrice": "92 €",
+          "originalPrice": "120 €",
+          "qualifier": "noche",
+          "shortQualifier": "noche",
+          "concatQualifierLeft": false,
+          "trailingContent": null
+        },
+        "secondaryLine": {
+          "__typename": "BasicDisplayPriceLine",
+          "displayComponentType": "BASIC_DISPLAY_PRICE_LINE",
+          "accessibilityLabel": "183 € en total",
+          "price": "183 € en total",
+          "trailingContent": null
+        },
+        "explanationData": {
+          "__typename": "DisplayPriceExplanationData",
+          "title": "Desglose del precio",
+          "priceDetails": [
+            {
+              "__typename": "DisplayPriceExplanationLineGroup",
+              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+              "items": [
+                {
+                  "__typename": "DefaultExplanationLineItem",
+                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
+                  "description": "84 € x 2 noches",
+                  "priceString": "167 €",
+                  "explanationData": null
+                },
+                {
+                  "__typename": "DefaultExplanationLineItem",
+                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
+                  "description": "Impuestos",
+                  "priceString": "16 €",
+                  "explanationData": null
+                }
+              ],
+              "renderBorderTop": false,
+              "collapsable": null
+            },
+            {
+              "__typename": "DisplayPriceExplanationDisclaimer",
+              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_DISCLAIMER",
+              "content": "El anfitrión ha bajado recientemente el precio para estas fechas con respecto a la tarifa media de las últimas 60 noches."
+            }
+          ]
+        },
+        "explanationDataDisplayPosition": "SECONDARY_LINE",
+        "explanationDataDisplayPriceTriggerType": null,
+        "layout": "ROW_WITH_SEPARATOR"
+      }
+    }
+  },
+  {
+    "title": "Apartamento en Oporto",
+    "description": "Acogedora Almada por Hosty",
+    "configuration": "entire_home",
+    "rentValue": "202",
+    "rentDesc": "€ en total",
+    "link": "https://www.airbnb.es/rooms/1067206725371570695?source_impression_id=p3_1683219831_0Pqq5IlrIalwkYYn&check_in=2024-03-25&guests=3&adults=2&check_out=2024-03-27&children=1",
+    "image": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1067206725371570695/original/10c4081f-eb4e-491b-a129-46067fd97d3a.png?im_w=720",
+    "price": "101",
+    "priceCurrency": "€",
+    "qualifier": "noche",
+    "json": {
+      "__typename": "ExplorePricingQuote",
+      "avgRatingA11yLabel": "Alojamiento nuevo",
+      "avgRatingLocalized": "Nuevo",
+      "contextualPictures": [
+        {
+          "__typename": "ExplorePicture",
+          "caption": null,
+          "dominantSaturatedColor": null,
+          "id": "1821526027",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1067206725371570695/original/10c4081f-eb4e-491b-a129-46067fd97d3a.png?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        },
+        {
+          "__typename": "ExplorePicture",
+          "caption": {
+            "__typename": "ExploreKickerContent",
+            "formattedMessages": null,
+            "kickerBadge": null,
+            "messages": [
+              "1 cama",
+              "1 dormitorio"
+            ],
+            "textColor": null
+          },
+          "dominantSaturatedColor": null,
+          "id": "1821526182",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1067206725371570695/original/36469940-c219-416c-bff8-b627059cd9ac.png?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        },
+        {
+          "__typename": "ExplorePicture",
+          "caption": {
+            "__typename": "ExploreKickerContent",
+            "formattedMessages": null,
+            "kickerBadge": null,
+            "messages": [
+              "1 baño"
+            ],
+            "textColor": null
+          },
+          "dominantSaturatedColor": null,
+          "id": "1821526234",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1067206725371570695/original/23dab9fe-84ef-4579-a50c-a5e16465c541.png?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        },
+        {
+          "__typename": "ExplorePicture",
+          "caption": {
+            "__typename": "ExploreKickerContent",
+            "formattedMessages": null,
+            "kickerBadge": null,
+            "messages": [
+              "1 cama doble"
+            ],
+            "textColor": null
+          },
+          "dominantSaturatedColor": null,
+          "id": "1821526276",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1067206725371570695/original/f0509a8b-5bd4-4db2-96b1-872c1f3bab79.png?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        },
+        {
+          "__typename": "ExplorePicture",
+          "caption": {
+            "__typename": "ExploreKickerContent",
+            "formattedMessages": null,
+            "kickerBadge": null,
+            "messages": [
+              "Wifi",
+              "Cocina"
+            ],
+            "textColor": null
+          },
+          "dominantSaturatedColor": null,
+          "id": "1821526318",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1067206725371570695/original/8de4e19a-97c2-4f0b-87e9-b042d27e120e.png?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        },
+        {
+          "__typename": "ExplorePicture",
+          "caption": null,
+          "dominantSaturatedColor": null,
+          "id": "1821526374",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1067206725371570695/original/d83c1183-e2c6-4eb9-8fab-5a8842c89e60.png?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        }
+      ],
+      "contextualPicturesCount": 27,
+      "contextualPicturesPageInfo": {
+        "__typename": "PageInfo",
+        "endCursor": "NQ==",
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "startCursor": null
+      },
+      "coordinate": {
+        "__typename": "Coordinate",
+        "latitude": 41.1501352,
+        "longitude": -8.6146036
+      },
+      "formattedBadges": [],
+      "id": "1067206725371570695",
+      "listingObjType": "REGULAR",
+      "name": "Acogedora Almada por Hosty",
+      "pdpUrlType": "ROOMS",
+      "roomTypeCategory": "entire_home",
+      "roomTypeId": null,
+      "shareButton": null,
+      "structuredContent": {
+        "__typename": "ExploreStructuredContent",
+        "distance": null,
+        "mapCategoryInfo": null,
+        "mapPrimaryLine": [
+          {
+            "__typename": "MainSectionMessage",
+            "body": "1 cama",
+            "bodyA11yLabel": null,
+            "bodyType": null,
+            "fontWeight": null,
+            "headline": null,
+            "type": null
+          },
+          {
+            "__typename": "MainSectionMessage",
+            "body": "1 dormitorio",
+            "bodyA11yLabel": null,
+            "bodyType": null,
+            "fontWeight": null,
+            "headline": null,
+            "type": null
+          }
+        ],
+        "mapSecondaryLine": null,
+        "primaryLine": [
+          {
+            "__typename": "MainSectionMessage",
+            "body": "1 cama",
+            "bodyA11yLabel": null,
+            "bodyType": null,
+            "fontWeight": null,
+            "headline": null,
+            "type": null
+          },
+          {
+            "__typename": "MainSectionMessage",
+            "body": "1 dormitorio",
+            "bodyA11yLabel": null,
+            "bodyType": null,
+            "fontWeight": null,
+            "headline": null,
+            "type": null
+          }
+        ],
+        "secondaryLine": [
+          {
+            "__typename": "MainSectionMessage",
+            "body": "Gestionado por una empresa",
+            "bodyA11yLabel": null,
+            "bodyType": null,
+            "fontWeight": null,
+            "headline": null,
+            "type": null
+          }
+        ],
+        "reviewSnippet": null
+      },
+      "tierId": 0,
+      "title": "Apartamento en Oporto",
+      "titleLocale": "es",
+      "primaryHostPassport": null,
+      "structuredStayDisplayPrice": {
+        "__typename": "StructuredDisplayPrice",
+        "primaryLine": {
+          "__typename": "QualifiedDisplayPriceLine",
+          "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+          "accessibilityLabel": "101 € por noche",
+          "price": "101 €",
+          "qualifier": "noche",
+          "shortQualifier": "noche",
+          "concatQualifierLeft": false,
+          "trailingContent": null
+        },
+        "secondaryLine": {
+          "__typename": "BasicDisplayPriceLine",
+          "displayComponentType": "BASIC_DISPLAY_PRICE_LINE",
+          "accessibilityLabel": "202 € en total",
+          "price": "202 € en total",
+          "trailingContent": null
+        },
+        "explanationData": {
+          "__typename": "DisplayPriceExplanationData",
+          "title": "Desglose del precio",
+          "priceDetails": [
+            {
+              "__typename": "DisplayPriceExplanationLineGroup",
+              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+              "items": [
+                {
+                  "__typename": "DefaultExplanationLineItem",
+                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
+                  "description": "68 € x 2 noches",
+                  "priceString": "136 €",
+                  "explanationData": null
+                },
+                {
+                  "__typename": "DefaultExplanationLineItem",
+                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
+                  "description": "Gastos de limpieza",
+                  "priceString": "50 €",
+                  "explanationData": null
+                },
+                {
+                  "__typename": "DefaultExplanationLineItem",
+                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
+                  "description": "Impuestos",
+                  "priceString": "16 €",
+                  "explanationData": null
+                }
+              ],
+              "renderBorderTop": false,
+              "collapsable": null
+            },
+            {
+              "__typename": "DisplayPriceExplanationDisclaimer",
+              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_DISCLAIMER",
+              "content": "Cancelación gratuita antes del 20 mar."
+            }
+          ]
+        },
+        "explanationDataDisplayPosition": "SECONDARY_LINE",
+        "explanationDataDisplayPriceTriggerType": null,
+        "layout": "ROW_WITH_SEPARATOR"
+      }
+    }
+  },
+  {
+    "title": "Apartamento en Oporto",
+    "description": "GuestReady - Freixo Vista Paraíso",
+    "configuration": "entire_home",
+    "rentValue": "164",
+    "rentDesc": "€ en total",
+    "link": "https://www.airbnb.es/rooms/909227179111378249?source_impression_id=p3_1683219831_0Pqq5IlrIalwkYYn&check_in=2024-03-25&guests=3&adults=2&check_out=2024-03-27&children=1",
+    "image": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-909227179111378249/original/baa650bc-ae72-46b6-8c28-fa416d4a7cec.jpeg?im_w=720",
+    "price": "82",
+    "priceCurrency": "€",
+    "qualifier": "noche",
+    "json": {
+      "__typename": "ExplorePricingQuote",
+      "avgRatingA11yLabel": "Valoración media de 4,7 sobre 5, 23 evaluaciones",
+      "avgRatingLocalized": "4,7 (23)",
+      "contextualPictures": [
+        {
+          "__typename": "ExplorePicture",
+          "caption": null,
+          "dominantSaturatedColor": null,
+          "id": "1670348437",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-909227179111378249/original/baa650bc-ae72-46b6-8c28-fa416d4a7cec.jpeg?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        },
+        {
+          "__typename": "ExplorePicture",
+          "caption": {
+            "__typename": "ExploreKickerContent",
+            "formattedMessages": null,
+            "kickerBadge": null,
+            "messages": [
+              "3 camas",
+              "2 dormitorios"
+            ],
+            "textColor": null
+          },
+          "dominantSaturatedColor": null,
+          "id": "1670348453",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-909227179111378249/original/3df9b7cb-a3b1-4893-b965-82b2514cf784.jpeg?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        },
+        {
+          "__typename": "ExplorePicture",
+          "caption": {
+            "__typename": "ExploreKickerContent",
+            "formattedMessages": null,
+            "kickerBadge": null,
+            "messages": [
+              "1 baño"
+            ],
+            "textColor": null
+          },
+          "dominantSaturatedColor": null,
+          "id": "1670348443",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-909227179111378249/original/3b2da6f4-23ea-4536-b9bd-9521097a0c51.jpeg?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        },
+        {
+          "__typename": "ExplorePicture",
+          "caption": {
+            "__typename": "ExploreKickerContent",
+            "formattedMessages": null,
+            "kickerBadge": null,
+            "messages": [
+              "1 cama «queen»",
+              "2 camas individuales"
+            ],
+            "textColor": null
+          },
+          "dominantSaturatedColor": null,
+          "id": "1670348430",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-909227179111378249/original/50ade82a-0470-48ea-b1f5-2b475ea8e698.jpeg?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        },
+        {
+          "__typename": "ExplorePicture",
+          "caption": {
+            "__typename": "ExploreKickerContent",
+            "formattedMessages": null,
+            "kickerBadge": null,
+            "messages": [
+              "Wifi",
+              "Cocina",
+              "Llegada autónoma"
+            ],
+            "textColor": null
+          },
+          "dominantSaturatedColor": null,
+          "id": "1670348449",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-909227179111378249/original/5d7bf36d-ed8a-4d02-97e5-237854ef0a65.jpeg?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        },
+        {
+          "__typename": "ExplorePicture",
+          "caption": {
+            "__typename": "ExploreKickerContent",
+            "formattedMessages": null,
+            "kickerBadge": null,
+            "messages": [
+              "Puntuación de 4,7 sobre 5 en limpieza"
+            ],
+            "textColor": null
+          },
+          "dominantSaturatedColor": null,
+          "id": "1670348415",
+          "largeRo": null,
+          "originalPicture": null,
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-909227179111378249/original/97466fc2-d1ad-4b1e-87ba-f9b889970471.jpeg?im_w=720",
+          "previewEncodedPng": null,
+          "saturatedA11yDarkColor": null,
+          "scrimColor": null,
+          "xlPicture": null
+        }
+      ],
+      "contextualPicturesCount": 30,
+      "contextualPicturesPageInfo": {
+        "__typename": "PageInfo",
+        "endCursor": "NQ==",
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "startCursor": null
+      },
+      "coordinate": {
+        "__typename": "Coordinate",
+        "latitude": 41.14796,
+        "longitude": -8.58696
+      },
+      "formattedBadges": [],
+      "id": "909227179111378249",
+      "listingObjType": "REGULAR",
+      "name": "GuestReady - Freixo Vista Paraíso",
+      "pdpUrlType": "ROOMS",
+      "roomTypeCategory": "entire_home",
+      "roomTypeId": null,
+      "shareButton": null,
+      "structuredContent": {
+        "__typename": "ExploreStructuredContent",
+        "distance": null,
+        "mapCategoryInfo": null,
+        "mapPrimaryLine": [
+          {
+            "__typename": "MainSectionMessage",
+            "body": "3 camas",
+            "bodyA11yLabel": null,
+            "bodyType": null,
+            "fontWeight": null,
+            "headline": null,
+            "type": null
+          },
+          {
+            "__typename": "MainSectionMessage",
+            "body": "2 dormitorios",
+            "bodyA11yLabel": null,
+            "bodyType": null,
+            "fontWeight": null,
+            "headline": null,
+            "type": null
+          }
+        ],
+        "mapSecondaryLine": null,
+        "primaryLine": [
+          {
+            "__typename": "MainSectionMessage",
+            "body": "3 camas",
+            "bodyA11yLabel": null,
+            "bodyType": null,
+            "fontWeight": null,
+            "headline": null,
+            "type": null
+          },
+          {
+            "__typename": "MainSectionMessage",
+            "body": "2 dormitorios",
+            "bodyA11yLabel": null,
+            "bodyType": null,
+            "fontWeight": null,
+            "headline": null,
+            "type": null
+          }
+        ],
+        "secondaryLine": [
+          {
+            "__typename": "MainSectionMessage",
+            "body": "Gestionado por una empresa",
+            "bodyA11yLabel": null,
+            "bodyType": null,
+            "fontWeight": null,
+            "headline": null,
+            "type": null
+          }
+        ],
+        "reviewSnippet": null
+      },
+      "tierId": 0,
+      "title": "Apartamento en Oporto",
+      "titleLocale": "pt",
+      "primaryHostPassport": null,
+      "structuredStayDisplayPrice": {
+        "__typename": "StructuredDisplayPrice",
+        "primaryLine": {
+          "__typename": "QualifiedDisplayPriceLine",
+          "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+          "accessibilityLabel": "82 € por noche",
+          "price": "82 €",
+          "qualifier": "noche",
+          "shortQualifier": "noche",
+          "concatQualifierLeft": false,
+          "trailingContent": null
+        },
+        "secondaryLine": {
+          "__typename": "BasicDisplayPriceLine",
+          "displayComponentType": "BASIC_DISPLAY_PRICE_LINE",
+          "accessibilityLabel": "164 € en total",
+          "price": "164 € en total",
+          "trailingContent": null
+        },
+        "explanationData": {
+          "__typename": "DisplayPriceExplanationData",
+          "title": "Desglose del precio",
+          "priceDetails": [
+            {
+              "__typename": "DisplayPriceExplanationLineGroup",
+              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+              "items": [
+                {
+                  "__typename": "DefaultExplanationLineItem",
+                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
+                  "description": "49 € x 2 noches",
+                  "priceString": "98 €",
+                  "explanationData": null
+                },
+                {
+                  "__typename": "DefaultExplanationLineItem",
+                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
+                  "description": "Gastos de limpieza",
+                  "priceString": "50 €",
+                  "explanationData": null
+                },
+                {
+                  "__typename": "DefaultExplanationLineItem",
+                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
+                  "description": "Impuestos",
+                  "priceString": "16 €",
+                  "explanationData": null
+                }
+              ],
+              "renderBorderTop": false,
+              "collapsable": null
+            },
+            {
+              "__typename": "DisplayPriceExplanationDisclaimer",
+              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_DISCLAIMER",
+              "content": "Cancelación gratuita antes del 20 mar."
             }
           ]
         },
@@ -3862,7 +4778,8 @@
             "headline": null,
             "type": null
           }
-        ]
+        ],
+        "reviewSnippet": null
       },
       "tierId": 0,
       "title": "Apartamento en Oporto",
@@ -3919,285 +4836,11 @@
               ],
               "renderBorderTop": false,
               "collapsable": null
-            }
-          ]
-        },
-        "explanationDataDisplayPosition": "SECONDARY_LINE",
-        "explanationDataDisplayPriceTriggerType": null,
-        "layout": "ROW_WITH_SEPARATOR"
-      }
-    }
-  },
-  {
-    "title": "Apartamento en Oporto",
-    "description": "Acogedora Almada por Hosty",
-    "configuration": "entire_home",
-    "rentValue": "179",
-    "rentDesc": "€ en total",
-    "link": "https://www.airbnb.es/rooms/1067206725371570695?source_impression_id=p3_1683219831_0Pqq5IlrIalwkYYn&check_in=2024-03-25&guests=3&adults=2&check_out=2024-03-27&children=1",
-    "image": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1067206725371570695/original/10c4081f-eb4e-491b-a129-46067fd97d3a.png?im_w=720",
-    "price": "",
-    "priceCurrency": "",
-    "qualifier": "noche",
-    "json": {
-      "__typename": "ExplorePricingQuote",
-      "avgRatingA11yLabel": "Alojamiento nuevo",
-      "avgRatingLocalized": "Nuevo",
-      "contextualPictures": [
-        {
-          "__typename": "ExplorePicture",
-          "caption": null,
-          "dominantSaturatedColor": null,
-          "id": "1821526027",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1067206725371570695/original/10c4081f-eb4e-491b-a129-46067fd97d3a.png?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        },
-        {
-          "__typename": "ExplorePicture",
-          "caption": {
-            "__typename": "ExploreKickerContent",
-            "formattedMessages": null,
-            "kickerBadge": null,
-            "messages": [
-              "1 cama",
-              "1 dormitorio"
-            ],
-            "textColor": null
-          },
-          "dominantSaturatedColor": null,
-          "id": "1821526182",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1067206725371570695/original/36469940-c219-416c-bff8-b627059cd9ac.png?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        },
-        {
-          "__typename": "ExplorePicture",
-          "caption": {
-            "__typename": "ExploreKickerContent",
-            "formattedMessages": null,
-            "kickerBadge": null,
-            "messages": [
-              "1 baño"
-            ],
-            "textColor": null
-          },
-          "dominantSaturatedColor": null,
-          "id": "1821526234",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1067206725371570695/original/23dab9fe-84ef-4579-a50c-a5e16465c541.png?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        },
-        {
-          "__typename": "ExplorePicture",
-          "caption": {
-            "__typename": "ExploreKickerContent",
-            "formattedMessages": null,
-            "kickerBadge": null,
-            "messages": [
-              "1 cama doble"
-            ],
-            "textColor": null
-          },
-          "dominantSaturatedColor": null,
-          "id": "1821526276",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1067206725371570695/original/f0509a8b-5bd4-4db2-96b1-872c1f3bab79.png?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        },
-        {
-          "__typename": "ExplorePicture",
-          "caption": {
-            "__typename": "ExploreKickerContent",
-            "formattedMessages": null,
-            "kickerBadge": null,
-            "messages": [
-              "Wifi",
-              "Cocina"
-            ],
-            "textColor": null
-          },
-          "dominantSaturatedColor": null,
-          "id": "1821526318",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1067206725371570695/original/8de4e19a-97c2-4f0b-87e9-b042d27e120e.png?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        },
-        {
-          "__typename": "ExplorePicture",
-          "caption": null,
-          "dominantSaturatedColor": null,
-          "id": "1821526374",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1067206725371570695/original/d83c1183-e2c6-4eb9-8fab-5a8842c89e60.png?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        }
-      ],
-      "contextualPicturesCount": 27,
-      "contextualPicturesPageInfo": {
-        "__typename": "PageInfo",
-        "endCursor": "NQ==",
-        "hasNextPage": true,
-        "hasPreviousPage": false,
-        "startCursor": null
-      },
-      "coordinate": {
-        "__typename": "Coordinate",
-        "latitude": 41.1501352,
-        "longitude": -8.6146036
-      },
-      "formattedBadges": [],
-      "id": "1067206725371570695",
-      "listingObjType": "REGULAR",
-      "name": "Acogedora Almada por Hosty",
-      "pdpUrlType": "ROOMS",
-      "roomTypeCategory": "entire_home",
-      "roomTypeId": null,
-      "shareButton": null,
-      "structuredContent": {
-        "__typename": "ExploreStructuredContent",
-        "distance": null,
-        "mapCategoryInfo": null,
-        "mapPrimaryLine": [
-          {
-            "__typename": "MainSectionMessage",
-            "body": "1 cama",
-            "bodyA11yLabel": null,
-            "bodyType": null,
-            "fontWeight": null,
-            "headline": null,
-            "type": null
-          },
-          {
-            "__typename": "MainSectionMessage",
-            "body": "1 dormitorio",
-            "bodyA11yLabel": null,
-            "bodyType": null,
-            "fontWeight": null,
-            "headline": null,
-            "type": null
-          }
-        ],
-        "mapSecondaryLine": null,
-        "primaryLine": [
-          {
-            "__typename": "MainSectionMessage",
-            "body": "1 cama",
-            "bodyA11yLabel": null,
-            "bodyType": null,
-            "fontWeight": null,
-            "headline": null,
-            "type": null
-          },
-          {
-            "__typename": "MainSectionMessage",
-            "body": "1 dormitorio",
-            "bodyA11yLabel": null,
-            "bodyType": null,
-            "fontWeight": null,
-            "headline": null,
-            "type": null
-          }
-        ],
-        "secondaryLine": [
-          {
-            "__typename": "MainSectionMessage",
-            "body": "Gestionado por una empresa",
-            "bodyA11yLabel": null,
-            "bodyType": null,
-            "fontWeight": null,
-            "headline": null,
-            "type": null
-          }
-        ]
-      },
-      "tierId": 0,
-      "title": "Apartamento en Oporto",
-      "titleLocale": "es",
-      "primaryHostPassport": null,
-      "structuredStayDisplayPrice": {
-        "__typename": "StructuredDisplayPrice",
-        "primaryLine": {
-          "__typename": "DiscountedDisplayPriceLine",
-          "displayComponentType": "DISCOUNTED_DISPLAY_PRICE_LINE",
-          "accessibilityLabel": "90 € por noche, inicialmente 104 €",
-          "discountedPrice": "90 €",
-          "originalPrice": "104 €",
-          "qualifier": "noche",
-          "shortQualifier": "noche",
-          "concatQualifierLeft": false,
-          "trailingContent": null
-        },
-        "secondaryLine": {
-          "__typename": "BasicDisplayPriceLine",
-          "displayComponentType": "BASIC_DISPLAY_PRICE_LINE",
-          "accessibilityLabel": "179 € en total",
-          "price": "179 € en total",
-          "trailingContent": null
-        },
-        "explanationData": {
-          "__typename": "DisplayPriceExplanationData",
-          "title": "Desglose del precio",
-          "priceDetails": [
+            },
             {
-              "__typename": "DisplayPriceExplanationLineGroup",
-              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
-              "items": [
-                {
-                  "__typename": "DefaultExplanationLineItem",
-                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
-                  "description": "71 € x 2 noches",
-                  "priceString": "141 €",
-                  "explanationData": null
-                },
-                {
-                  "__typename": "DiscountedExplanationLineItem",
-                  "displayComponentType": "DISCOUNTED_EXPLANATION_LINE_ITEM",
-                  "description": "Oferta especial",
-                  "priceString": "-28 €",
-                  "explanationData": null
-                },
-                {
-                  "__typename": "DefaultExplanationLineItem",
-                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
-                  "description": "Gastos de limpieza",
-                  "priceString": "50 €",
-                  "explanationData": null
-                },
-                {
-                  "__typename": "DefaultExplanationLineItem",
-                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
-                  "description": "Impuestos",
-                  "priceString": "16 €",
-                  "explanationData": null
-                }
-              ],
-              "renderBorderTop": false,
-              "collapsable": null
+              "__typename": "DisplayPriceExplanationDisclaimer",
+              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_DISCLAIMER",
+              "content": "Cancelación gratuita antes del 20 mar."
             }
           ]
         },
@@ -4422,7 +5065,8 @@
             "headline": null,
             "type": null
           }
-        ]
+        ],
+        "reviewSnippet": null
       },
       "tierId": 0,
       "title": "Apartamento en Oporto",
@@ -4479,287 +5123,11 @@
               ],
               "renderBorderTop": false,
               "collapsable": null
-            }
-          ]
-        },
-        "explanationDataDisplayPosition": "SECONDARY_LINE",
-        "explanationDataDisplayPriceTriggerType": null,
-        "layout": "ROW_WITH_SEPARATOR"
-      }
-    }
-  },
-  {
-    "title": "Apartamento en Oporto",
-    "description": "GuestReady - Miragaia Green",
-    "configuration": "entire_home",
-    "rentValue": "186",
-    "rentDesc": "€ en total",
-    "link": "https://www.airbnb.es/rooms/1011577547573018684?source_impression_id=p3_1683219831_0Pqq5IlrIalwkYYn&check_in=2024-03-25&guests=3&adults=2&check_out=2024-03-27&children=1",
-    "image": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1011577547573018684/original/e2bba097-3bda-4434-ae77-ea7d601dc483.jpeg?im_w=720",
-    "price": "93",
-    "priceCurrency": "€",
-    "qualifier": "noche",
-    "json": {
-      "__typename": "ExplorePricingQuote",
-      "avgRatingA11yLabel": "Valoración media de 4,38 sobre 5, 13 evaluaciones",
-      "avgRatingLocalized": "4,38 (13)",
-      "contextualPictures": [
-        {
-          "__typename": "ExplorePicture",
-          "caption": null,
-          "dominantSaturatedColor": null,
-          "id": "1768596463",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1011577547573018684/original/e2bba097-3bda-4434-ae77-ea7d601dc483.jpeg?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        },
-        {
-          "__typename": "ExplorePicture",
-          "caption": {
-            "__typename": "ExploreKickerContent",
-            "formattedMessages": null,
-            "kickerBadge": null,
-            "messages": [
-              "3 camas",
-              "2 dormitorios"
-            ],
-            "textColor": null
-          },
-          "dominantSaturatedColor": null,
-          "id": "1768596494",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1011577547573018684/original/056a535d-7af4-4981-94c5-0f5e9e78b686.jpeg?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        },
-        {
-          "__typename": "ExplorePicture",
-          "caption": {
-            "__typename": "ExploreKickerContent",
-            "formattedMessages": null,
-            "kickerBadge": null,
-            "messages": [
-              "1 baño"
-            ],
-            "textColor": null
-          },
-          "dominantSaturatedColor": null,
-          "id": "1768596490",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1011577547573018684/original/ca0f4053-ddfe-456a-a4d9-3695ee699a11.jpeg?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        },
-        {
-          "__typename": "ExplorePicture",
-          "caption": {
-            "__typename": "ExploreKickerContent",
-            "formattedMessages": null,
-            "kickerBadge": null,
-            "messages": [
-              "2 camas «queen»",
-              "1 sofá cama"
-            ],
-            "textColor": null
-          },
-          "dominantSaturatedColor": null,
-          "id": "1768596468",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1011577547573018684/original/5da22a45-8f0f-4aa2-a6b3-e357a6d4813e.jpeg?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        },
-        {
-          "__typename": "ExplorePicture",
-          "caption": {
-            "__typename": "ExploreKickerContent",
-            "formattedMessages": null,
-            "kickerBadge": null,
-            "messages": [
-              "Wifi",
-              "Cocina",
-              "Llegada autónoma"
-            ],
-            "textColor": null
-          },
-          "dominantSaturatedColor": null,
-          "id": "1768596450",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1011577547573018684/original/bd62e556-b8cc-4f6a-91a8-bcc13585412f.jpeg?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        },
-        {
-          "__typename": "ExplorePicture",
-          "caption": {
-            "__typename": "ExploreKickerContent",
-            "formattedMessages": null,
-            "kickerBadge": null,
-            "messages": [
-              "Puntuación de 4,4 sobre 5 en limpieza"
-            ],
-            "textColor": null
-          },
-          "dominantSaturatedColor": null,
-          "id": "1768596425",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1011577547573018684/original/88173625-99ba-4e7e-95e4-d3186a60748b.jpeg?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        }
-      ],
-      "contextualPicturesCount": 26,
-      "contextualPicturesPageInfo": {
-        "__typename": "PageInfo",
-        "endCursor": "NQ==",
-        "hasNextPage": true,
-        "hasPreviousPage": false,
-        "startCursor": null
-      },
-      "coordinate": {
-        "__typename": "Coordinate",
-        "latitude": 41.141790609800324,
-        "longitude": -8.618655701840419
-      },
-      "formattedBadges": [],
-      "id": "1011577547573018684",
-      "listingObjType": "REGULAR",
-      "name": "GuestReady - Miragaia Green",
-      "pdpUrlType": "ROOMS",
-      "roomTypeCategory": "entire_home",
-      "roomTypeId": null,
-      "shareButton": null,
-      "structuredContent": {
-        "__typename": "ExploreStructuredContent",
-        "distance": null,
-        "mapCategoryInfo": null,
-        "mapPrimaryLine": [
-          {
-            "__typename": "MainSectionMessage",
-            "body": "3 camas",
-            "bodyA11yLabel": null,
-            "bodyType": null,
-            "fontWeight": null,
-            "headline": null,
-            "type": null
-          },
-          {
-            "__typename": "MainSectionMessage",
-            "body": "2 dormitorios",
-            "bodyA11yLabel": null,
-            "bodyType": null,
-            "fontWeight": null,
-            "headline": null,
-            "type": null
-          }
-        ],
-        "mapSecondaryLine": null,
-        "primaryLine": [
-          {
-            "__typename": "MainSectionMessage",
-            "body": "3 camas",
-            "bodyA11yLabel": null,
-            "bodyType": null,
-            "fontWeight": null,
-            "headline": null,
-            "type": null
-          },
-          {
-            "__typename": "MainSectionMessage",
-            "body": "2 dormitorios",
-            "bodyA11yLabel": null,
-            "bodyType": null,
-            "fontWeight": null,
-            "headline": null,
-            "type": null
-          }
-        ],
-        "secondaryLine": [
-          {
-            "__typename": "MainSectionMessage",
-            "body": "Gestionado por una empresa",
-            "bodyA11yLabel": null,
-            "bodyType": null,
-            "fontWeight": null,
-            "headline": null,
-            "type": null
-          }
-        ]
-      },
-      "tierId": 0,
-      "title": "Apartamento en Oporto",
-      "titleLocale": "en",
-      "primaryHostPassport": null,
-      "structuredStayDisplayPrice": {
-        "__typename": "StructuredDisplayPrice",
-        "primaryLine": {
-          "__typename": "QualifiedDisplayPriceLine",
-          "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
-          "accessibilityLabel": "93 € por noche",
-          "price": "93 €",
-          "qualifier": "noche",
-          "shortQualifier": "noche",
-          "concatQualifierLeft": false,
-          "trailingContent": null
-        },
-        "secondaryLine": {
-          "__typename": "BasicDisplayPriceLine",
-          "displayComponentType": "BASIC_DISPLAY_PRICE_LINE",
-          "accessibilityLabel": "186 € en total",
-          "price": "186 € en total",
-          "trailingContent": null
-        },
-        "explanationData": {
-          "__typename": "DisplayPriceExplanationData",
-          "title": "Desglose del precio",
-          "priceDetails": [
+            },
             {
-              "__typename": "DisplayPriceExplanationLineGroup",
-              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
-              "items": [
-                {
-                  "__typename": "DefaultExplanationLineItem",
-                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
-                  "description": "65 € x 2 noches",
-                  "priceString": "130 €",
-                  "explanationData": null
-                },
-                {
-                  "__typename": "DefaultExplanationLineItem",
-                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
-                  "description": "Gastos de limpieza",
-                  "priceString": "40 €",
-                  "explanationData": null
-                },
-                {
-                  "__typename": "DefaultExplanationLineItem",
-                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
-                  "description": "Impuestos",
-                  "priceString": "16 €",
-                  "explanationData": null
-                }
-              ],
-              "renderBorderTop": false,
-              "collapsable": null
+              "__typename": "DisplayPriceExplanationDisclaimer",
+              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_DISCLAIMER",
+              "content": "Cancelación gratuita antes del 20 mar."
             }
           ]
         },
@@ -4976,7 +5344,8 @@
             "headline": null,
             "type": null
           }
-        ]
+        ],
+        "reviewSnippet": null
       },
       "tierId": 0,
       "title": "Apartamento en Oporto",
@@ -5050,28 +5419,28 @@
   },
   {
     "title": "Apartamento en Oporto",
-    "description": "GuestReady - Santa Catarina staycation 3.2",
+    "description": "GuestReady - Hope River view apt C",
     "configuration": "entire_home",
-    "rentValue": "189",
+    "rentValue": "177",
     "rentDesc": "€ en total",
-    "link": "https://www.airbnb.es/rooms/965911642533489972?source_impression_id=p3_1683219831_0Pqq5IlrIalwkYYn&check_in=2024-03-25&guests=3&adults=2&check_out=2024-03-27&children=1",
-    "image": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-965911642533489972/original/8f73c4b0-4fac-491a-96cb-c3a80e06feb8.jpeg?im_w=720",
-    "price": "95",
+    "link": "https://www.airbnb.es/rooms/985991919661472724?source_impression_id=p3_1683219831_0Pqq5IlrIalwkYYn&check_in=2024-03-25&guests=3&adults=2&check_out=2024-03-27&children=1",
+    "image": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-985991919661472724/original/690594d4-24cb-4039-a80f-f7d67363cf90.jpeg?im_w=720",
+    "price": "89",
     "priceCurrency": "€",
     "qualifier": "noche",
     "json": {
       "__typename": "ExplorePricingQuote",
-      "avgRatingA11yLabel": "Valoración media de 4,75 sobre 5, 12 evaluaciones",
-      "avgRatingLocalized": "4,75 (12)",
+      "avgRatingA11yLabel": "Valoración media de 4,5 sobre 5, 24 evaluaciones",
+      "avgRatingLocalized": "4,5 (24)",
       "contextualPictures": [
         {
           "__typename": "ExplorePicture",
           "caption": null,
           "dominantSaturatedColor": null,
-          "id": "1730954770",
+          "id": "1744908679",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-965911642533489972/original/8f73c4b0-4fac-491a-96cb-c3a80e06feb8.jpeg?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-985991919661472724/original/690594d4-24cb-4039-a80f-f7d67363cf90.jpeg?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
@@ -5084,307 +5453,16 @@
             "formattedMessages": null,
             "kickerBadge": null,
             "messages": [
-              "2 camas",
-              "2 dormitorios"
-            ],
-            "textColor": null
-          },
-          "dominantSaturatedColor": null,
-          "id": "1730954840",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-965911642533489972/original/8b453f8b-9547-401f-b463-f8b10791988c.jpeg?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        },
-        {
-          "__typename": "ExplorePicture",
-          "caption": {
-            "__typename": "ExploreKickerContent",
-            "formattedMessages": null,
-            "kickerBadge": null,
-            "messages": [
-              "1 baño"
-            ],
-            "textColor": null
-          },
-          "dominantSaturatedColor": null,
-          "id": "1730954891",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-965911642533489972/original/07eefb40-5859-4da7-924d-6475831cbbf9.jpeg?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        },
-        {
-          "__typename": "ExplorePicture",
-          "caption": {
-            "__typename": "ExploreKickerContent",
-            "formattedMessages": null,
-            "kickerBadge": null,
-            "messages": [
-              "2 camas dobles"
-            ],
-            "textColor": null
-          },
-          "dominantSaturatedColor": null,
-          "id": "1730954744",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-965911642533489972/original/70e19b10-eb8d-4aa1-98ff-af32b970b960.jpeg?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        },
-        {
-          "__typename": "ExplorePicture",
-          "caption": {
-            "__typename": "ExploreKickerContent",
-            "formattedMessages": null,
-            "kickerBadge": null,
-            "messages": [
-              "Wifi",
-              "Cocina",
-              "Llegada autónoma"
-            ],
-            "textColor": null
-          },
-          "dominantSaturatedColor": null,
-          "id": "1730954739",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-965911642533489972/original/b243bde7-d4c1-4de3-9095-0be6781b82bc.jpeg?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        },
-        {
-          "__typename": "ExplorePicture",
-          "caption": {
-            "__typename": "ExploreKickerContent",
-            "formattedMessages": null,
-            "kickerBadge": null,
-            "messages": [
-              "Puntuación de 4,9 sobre 5 en limpieza"
-            ],
-            "textColor": null
-          },
-          "dominantSaturatedColor": null,
-          "id": "1730954745",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-965911642533489972/original/9abde00e-595b-479f-aa26-0d5f5c9264f9.jpeg?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        }
-      ],
-      "contextualPicturesCount": 30,
-      "contextualPicturesPageInfo": {
-        "__typename": "PageInfo",
-        "endCursor": "NQ==",
-        "hasNextPage": true,
-        "hasPreviousPage": false,
-        "startCursor": null
-      },
-      "coordinate": {
-        "__typename": "Coordinate",
-        "latitude": 41.15659832850122,
-        "longitude": -8.60383573202998
-      },
-      "formattedBadges": [
-        {
-          "__typename": "ExploreFormattedBadge",
-          "loggingContext": {
-            "__typename": "ExploreFormattedBadgeLoggingContext",
-            "badgeType": "SUPERHOST"
-          },
-          "style": "MUTED_ROUNDED_PILL",
-          "text": "Superanfitrión",
-          "textColor": "#FFFFFF"
-        }
-      ],
-      "id": "965911642533489972",
-      "listingObjType": "REGULAR",
-      "name": "GuestReady - Santa Catarina staycation 3.2",
-      "pdpUrlType": "ROOMS",
-      "roomTypeCategory": "entire_home",
-      "roomTypeId": null,
-      "shareButton": null,
-      "structuredContent": {
-        "__typename": "ExploreStructuredContent",
-        "distance": null,
-        "mapCategoryInfo": null,
-        "mapPrimaryLine": [
-          {
-            "__typename": "MainSectionMessage",
-            "body": "2 camas",
-            "bodyA11yLabel": null,
-            "bodyType": null,
-            "fontWeight": null,
-            "headline": null,
-            "type": null
-          },
-          {
-            "__typename": "MainSectionMessage",
-            "body": "2 dormitorios",
-            "bodyA11yLabel": null,
-            "bodyType": null,
-            "fontWeight": null,
-            "headline": null,
-            "type": null
-          }
-        ],
-        "mapSecondaryLine": null,
-        "primaryLine": [
-          {
-            "__typename": "MainSectionMessage",
-            "body": "2 camas",
-            "bodyA11yLabel": null,
-            "bodyType": null,
-            "fontWeight": null,
-            "headline": null,
-            "type": null
-          },
-          {
-            "__typename": "MainSectionMessage",
-            "body": "2 dormitorios",
-            "bodyA11yLabel": null,
-            "bodyType": null,
-            "fontWeight": null,
-            "headline": null,
-            "type": null
-          }
-        ],
-        "secondaryLine": [
-          {
-            "__typename": "MainSectionMessage",
-            "body": "Gestionado por una empresa",
-            "bodyA11yLabel": null,
-            "bodyType": null,
-            "fontWeight": null,
-            "headline": null,
-            "type": null
-          }
-        ]
-      },
-      "tierId": 0,
-      "title": "Apartamento en Oporto",
-      "titleLocale": "en",
-      "primaryHostPassport": null,
-      "structuredStayDisplayPrice": {
-        "__typename": "StructuredDisplayPrice",
-        "primaryLine": {
-          "__typename": "QualifiedDisplayPriceLine",
-          "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
-          "accessibilityLabel": "95 € por noche",
-          "price": "95 €",
-          "qualifier": "noche",
-          "shortQualifier": "noche",
-          "concatQualifierLeft": false,
-          "trailingContent": null
-        },
-        "secondaryLine": {
-          "__typename": "BasicDisplayPriceLine",
-          "displayComponentType": "BASIC_DISPLAY_PRICE_LINE",
-          "accessibilityLabel": "189 € en total",
-          "price": "189 € en total",
-          "trailingContent": null
-        },
-        "explanationData": {
-          "__typename": "DisplayPriceExplanationData",
-          "title": "Desglose del precio",
-          "priceDetails": [
-            {
-              "__typename": "DisplayPriceExplanationLineGroup",
-              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
-              "items": [
-                {
-                  "__typename": "DefaultExplanationLineItem",
-                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
-                  "description": "66 € x 2 noches",
-                  "priceString": "131 €",
-                  "explanationData": null
-                },
-                {
-                  "__typename": "DefaultExplanationLineItem",
-                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
-                  "description": "Gastos de limpieza",
-                  "priceString": "42 €",
-                  "explanationData": null
-                },
-                {
-                  "__typename": "DefaultExplanationLineItem",
-                  "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
-                  "description": "Impuestos",
-                  "priceString": "16 €",
-                  "explanationData": null
-                }
-              ],
-              "renderBorderTop": false,
-              "collapsable": null
-            }
-          ]
-        },
-        "explanationDataDisplayPosition": "SECONDARY_LINE",
-        "explanationDataDisplayPriceTriggerType": null,
-        "layout": "ROW_WITH_SEPARATOR"
-      }
-    }
-  },
-  {
-    "title": "Apartamento en Oporto",
-    "description": "GuestReady - Genuine Oporto Apts - 2",
-    "configuration": "entire_home",
-    "rentValue": "160",
-    "rentDesc": "€ en total",
-    "link": "https://www.airbnb.es/rooms/674409958972494834?source_impression_id=p3_1683219831_0Pqq5IlrIalwkYYn&check_in=2024-03-25&guests=3&adults=2&check_out=2024-03-27&children=1",
-    "image": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-674409958972494834/original/31914c70-636e-4da1-800d-33db5b731867.png?im_w=720",
-    "price": "80",
-    "priceCurrency": "€",
-    "qualifier": "noche",
-    "json": {
-      "__typename": "ExplorePricingQuote",
-      "avgRatingA11yLabel": "Valoración media de 4,43 sobre 5, 75 evaluaciones",
-      "avgRatingLocalized": "4,43 (75)",
-      "contextualPictures": [
-        {
-          "__typename": "ExplorePicture",
-          "caption": null,
-          "dominantSaturatedColor": null,
-          "id": "1540017700",
-          "largeRo": null,
-          "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-674409958972494834/original/31914c70-636e-4da1-800d-33db5b731867.png?im_w=720",
-          "previewEncodedPng": null,
-          "saturatedA11yDarkColor": null,
-          "scrimColor": null,
-          "xlPicture": null
-        },
-        {
-          "__typename": "ExplorePicture",
-          "caption": {
-            "__typename": "ExploreKickerContent",
-            "formattedMessages": null,
-            "kickerBadge": null,
-            "messages": [
-              "2 camas",
+              "3 camas",
               "1 dormitorio"
             ],
             "textColor": null
           },
           "dominantSaturatedColor": null,
-          "id": "1540017320",
+          "id": "1744908620",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-674409958972494834/original/91e619ea-0cd2-4155-a911-7d8eeff8e93f.png?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-985991919661472724/original/2ac493a6-2912-4822-97fd-5f080194875d.jpeg?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
@@ -5402,10 +5480,10 @@
             "textColor": null
           },
           "dominantSaturatedColor": null,
-          "id": "1540017341",
+          "id": "1744908715",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-674409958972494834/original/5aeb87c7-9cbd-4c63-8172-60e413bd03ff.png?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-985991919661472724/original/8aca27c0-825a-455d-af4d-016fa4d3b0b6.jpeg?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
@@ -5418,16 +5496,17 @@
             "formattedMessages": null,
             "kickerBadge": null,
             "messages": [
+              "1 cama «queen»",
               "1 cama doble",
-              "1 sofá cama"
+              "más"
             ],
             "textColor": null
           },
           "dominantSaturatedColor": null,
-          "id": "1540017690",
+          "id": "1744908638",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-674409958972494834/original/3b3e00a1-5c34-4071-bd0b-f0d631557c8f.png?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-985991919661472724/original/8272187f-5af1-4a37-9e8a-05f55d0d9320.jpeg?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
@@ -5442,15 +5521,16 @@
             "messages": [
               "Wifi",
               "Cocina",
+              "Lavadora",
               "Llegada autónoma"
             ],
             "textColor": null
           },
           "dominantSaturatedColor": null,
-          "id": "1540017337",
+          "id": "1744908617",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-674409958972494834/original/c0b866f2-4a59-4e0a-87c7-1de213be297e.png?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-985991919661472724/original/cbac425a-1942-40d7-86e0-eb507cae88c5.jpeg?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
@@ -5468,17 +5548,17 @@
             "textColor": null
           },
           "dominantSaturatedColor": null,
-          "id": "1540017704",
+          "id": "1744908655",
           "largeRo": null,
           "originalPicture": null,
-          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-674409958972494834/original/ef3072f9-8e1b-45ac-9123-63832b318236.png?im_w=720",
+          "picture": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-985991919661472724/original/30cc9b73-96d4-49ac-b4aa-c57dbdbb3fd2.jpeg?im_w=720",
           "previewEncodedPng": null,
           "saturatedA11yDarkColor": null,
           "scrimColor": null,
           "xlPicture": null
         }
       ],
-      "contextualPicturesCount": 15,
+      "contextualPicturesCount": 26,
       "contextualPicturesPageInfo": {
         "__typename": "PageInfo",
         "endCursor": "NQ==",
@@ -5488,13 +5568,13 @@
       },
       "coordinate": {
         "__typename": "Coordinate",
-        "latitude": 41.14102,
-        "longitude": -8.61581
+        "latitude": 41.14146398274524,
+        "longitude": -8.618326662175688
       },
       "formattedBadges": [],
-      "id": "674409958972494834",
+      "id": "985991919661472724",
       "listingObjType": "REGULAR",
-      "name": "GuestReady - Genuine Oporto Apts - 2",
+      "name": "GuestReady - Hope River view apt C",
       "pdpUrlType": "ROOMS",
       "roomTypeCategory": "entire_home",
       "roomTypeId": null,
@@ -5506,7 +5586,7 @@
         "mapPrimaryLine": [
           {
             "__typename": "MainSectionMessage",
-            "body": "2 camas",
+            "body": "3 camas",
             "bodyA11yLabel": null,
             "bodyType": null,
             "fontWeight": null,
@@ -5527,7 +5607,7 @@
         "primaryLine": [
           {
             "__typename": "MainSectionMessage",
-            "body": "2 camas",
+            "body": "3 camas",
             "bodyA11yLabel": null,
             "bodyType": null,
             "fontWeight": null,
@@ -5554,7 +5634,8 @@
             "headline": null,
             "type": null
           }
-        ]
+        ],
+        "reviewSnippet": null
       },
       "tierId": 0,
       "title": "Apartamento en Oporto",
@@ -5565,8 +5646,8 @@
         "primaryLine": {
           "__typename": "QualifiedDisplayPriceLine",
           "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
-          "accessibilityLabel": "80 € por noche",
-          "price": "80 €",
+          "accessibilityLabel": "89 € por noche",
+          "price": "89 €",
           "qualifier": "noche",
           "shortQualifier": "noche",
           "concatQualifierLeft": false,
@@ -5575,8 +5656,8 @@
         "secondaryLine": {
           "__typename": "BasicDisplayPriceLine",
           "displayComponentType": "BASIC_DISPLAY_PRICE_LINE",
-          "accessibilityLabel": "160 € en total",
-          "price": "160 € en total",
+          "accessibilityLabel": "177 € en total",
+          "price": "177 € en total",
           "trailingContent": null
         },
         "explanationData": {
@@ -5590,8 +5671,8 @@
                 {
                   "__typename": "DefaultExplanationLineItem",
                   "displayComponentType": "DEFAULT_EXPLANATION_LINE_ITEM",
-                  "description": "52 € x 2 noches",
-                  "priceString": "104 €",
+                  "description": "61 € x 2 noches",
+                  "priceString": "121 €",
                   "explanationData": null
                 },
                 {
@@ -5611,6 +5692,11 @@
               ],
               "renderBorderTop": false,
               "collapsable": null
+            },
+            {
+              "__typename": "DisplayPriceExplanationDisclaimer",
+              "displayComponentType": "DISPLAY_PRICE_EXPLANATION_DISCLAIMER",
+              "content": "Cancelación gratuita antes del 20 mar."
             }
           ]
         },
