@@ -1,1 +1,132 @@
-[]
+[
+  {
+    "title": "Moradia T5 Duplex em União das freguesias de Vila Real, Vila Real",
+    "description": "EM REGIME DE EXCLUSIVIDADE! Está À procura de alojamento central , está a mudar de cidade e não tem onde se enquadrar? Nós temos a solução! Magnífica moradia para arrendamento ao quarto, desde 140 euros por quarto.  Deixe-se deslumbrar por esta magnífica moradia, situada na Traslar, numa zona central. Possui cinco quartos todos eles mobilados, cozinha equipada com forno, placa, exaustor, máquina de lavar a loiça, frigorífico, mesa e cadeiras, bem como móveis para melhor arrumação. Dispõe também de uma dispensa e uma sala muito luminosa, espaçosa , requintada e toda mobilada.  O aquecimento do imóvel é elétrico, com ar condicionado e aquecedores. A nível de caixilharia tem bom isolamento térmico e acústico. Zona sossegada, com boa acessibilidade. Está perto de escolas, padarias, restaurantes, cabeleireiros, bancos etc. De que está à espera!  Marque já a sua visita.  #ref: [--]",
+    "configuration": "5 quartos\n                    Área útil 121 m²\n                    C.E.: E",
+    "rentValue": "140",
+    "city": "vila-real",
+    "link": "/arrendamento-moradia-t5-vila-real/i321224",
+    "image": "https://imagens.supercasa.pt/Z360x270/OAYES/S5/C6987/P21464147/Tphoto/ID53844701-0000-0500-0000-00000e9a9c1a.jpg.webp",
+    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C6987/P21464147/Tphoto/ID53844701-0000-0500-0000-00000e9a9c1a.jpg\",\"name\":\"Moradia T5 Duplex em União das freguesias de Vila Real\",\"category\":\"Casas\",\"price\":[\"140\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2021-08-17T10:19:10.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Vila Real\",\"addressRegion\":\"União das freguesias de Vila Real\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.3102,\"longitude\":-7.73890448}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Imoinovação - Imobiliária, Unipessoal Lda\",\"image\":\"https://media.egorealestate.com/150x70/e760f60b-a50f-4805-8c98-f5f803110eb0.png\",\"address\":\"n/a\",\"telephone\":\"+351 273720215\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 273720215\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
+  },
+  {
+    "title": "Casa de Campo T3 Duplex na Rua do Cruzeiro, Covelo do Gerez, Montalegre",
+    "description": "Arrenda-se casa de campo no concelho de Montalegre. Horta com arvores de fruta. Localizada na serra do Gerês,O local é isolado, em plena serra do Gerês, não estando servido de escolas na proximidade, nem serviços, próximo da albufeira com trilhos em plena serra. Encontra-se a cerca de 70KM da cidade de Braga e a 40KM de Montalegre. Não há transportes públicos para a localidade.. Está mobilada e equipada.  Isento de de licença. Solicite informação!      Longitude -7,88558 Latitude 41, (telefone)  #ref:017-2991",
+    "configuration": "3 quartos\n                    Área bruta 225 m²\n                    C.E.: E",
+    "rentValue": "480",
+    "city": "vila-real",
+    "link": "/arrendamento-moradia-t3-montalegre/i1261947",
+    "image": "https://imagens.supercasa.pt/Z360x270/OAYES/S5/C5358/P24074032/Tphoto/ID30576f01-0000-0500-0000-000011b7ad99.jpg.webp",
+    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C5358/P24074032/Tphoto/ID30576f01-0000-0500-0000-000011b7ad99.jpg\",\"name\":\"Casa de Campo T3 Duplex na Rua do Cruzeiro\",\"category\":\"Casas\",\"price\":[\"480\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-07-18T10:25:38.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Montalegre\",\"addressRegion\":\"Covelo do Gerez\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.71809,\"longitude\":-7.98093}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Vendo Casa Imobiliária\",\"image\":\"https://media.egorealestate.com/150x70/6bea66e1-79f8-4a0a-9295-976188b682e0.png\",\"address\":\"n/a\",\"telephone\":\"+351 253443581\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 253443581\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
+  },
+  {
+    "title": "Apartamento T1 em União das freguesias de Vila Real, Vila Real",
+    "description": "Apartamento T1 para arrendamento em muito bom estado. Cozinha mobilada e equipada,  Quarto com roupeiro, Ar Condicionado, Sem garagem.  #ref:APA_146",
+    "configuration": "1 quarto\n                    C.E.: Avaliação em curso",
+    "rentValue": "525",
+    "city": "vila-real",
+    "link": "/arrendamento-apartamento-t1-vila-real/i849655",
+    "image": "https://imagens.supercasa.pt/Z360x270/OAYES/S5/C9237/P22967941/Tphoto/ID85765e01-0000-0500-0000-00001032b166.jpg.webp",
+    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C9237/P22967941/Tphoto/ID85765e01-0000-0500-0000-00001032b166.jpg\",\"name\":\"Apartamento T1 em União das freguesias de Vila Real\",\"category\":\"Casas\",\"price\":[\"525\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2022-08-31T13:53:12.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Vila Real\",\"addressRegion\":\"União das freguesias de Vila Real\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.3102,\"longitude\":-7.73890448}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Visit · Serviços Imobiliários\",\"image\":\"https://media.egorealestate.com/150x70/0d35c89d-aa0d-47af-9fa7-4ec0afcba595.png\",\"address\":\"n/a\",\"telephone\":\"+351 259590357\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 259590357\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
+  },
+  {
+    "title": "Andar de Moradia T3 em Folhadela, Vila Real",
+    "description": "Andar de moradia para arrendamento cozinha mobilada e equipada, 2 salas 3 quartos e 1 casa de banho Sem lugar de garagem Localizada em Sabroso, a cerca de 10 minutos do centro da cidade.  #ref:HAB_223",
+    "configuration": "3 quartos\n                    Área bruta 100 m²\n                    C.E.: Avaliação em curso",
+    "rentValue": "600",
+    "city": "vila-real",
+    "link": "/arrendamento-moradia-t3-vila-real/i1461899",
+    "image": "https://imagens.supercasa.pt/Z360x270/OAYES/S5/C9237/P24561479/Tphoto/ID47c77601-0000-0500-0000-0000126c5ce3.jpg.webp",
+    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C9237/P24561479/Tphoto/ID47c77601-0000-0500-0000-0000126c5ce3.jpg\",\"name\":\"Andar de Moradia T3 em Folhadela\",\"category\":\"Casas\",\"price\":[\"600\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2024-01-08T01:13:10.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Vila Real\",\"addressRegion\":\"Folhadela\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.2571372,\"longitude\":-7.739977}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Visit · Serviços Imobiliários\",\"image\":\"https://media.egorealestate.com/150x70/0d35c89d-aa0d-47af-9fa7-4ec0afcba595.png\",\"address\":\"n/a\",\"telephone\":\"+351 259590357\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 259590357\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
+  },
+  {
+    "title": "Apartamento T2 em União das freguesias de Vila Real, Vila Real",
+    "description": "Apartamento T2, junto à Nossa Senhora da Conceição:  Cozinha equipada e mobilada, Sala comum, Dois quartos, Uma casa de banho,  Fácil estacionamento no local  #ref:APA_238",
+    "configuration": "2 quartos\n                    Área útil 80 m²\n                    C.E.: Avaliação em curso",
+    "rentValue": "680",
+    "city": "vila-real",
+    "link": "/arrendamento-apartamento-t2-vila-real/i1523615",
+    "image": "https://imagens.supercasa.pt/Z80x60/S5/C9237/P24733472/Tphoto/ID20677901-0000-0500-0000-000012b4e738.jpg.webp",
+    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C9237/P24733472/Tphoto/ID20677901-0000-0500-0000-000012b4e738.jpg\",\"name\":\"Apartamento T2 em União das freguesias de Vila Real\",\"category\":\"Casas\",\"price\":[\"680\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2024-02-28T11:33:11.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Vila Real\",\"addressRegion\":\"União das freguesias de Vila Real\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.3102,\"longitude\":-7.73890448}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Visit · Serviços Imobiliários\",\"image\":\"https://media.egorealestate.com/150x70/0d35c89d-aa0d-47af-9fa7-4ec0afcba595.png\",\"address\":\"n/a\",\"telephone\":\"+351 259590357\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 259590357\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
+  },
+  {
+    "title": "Apartamento T4 em Lordelo, Vila Real",
+    "description": "Apartamento T4 mobilado para arrendamento, Lordelo | Vila Real :  Cozinha mobilada equipada, Sala Comum, Quatro quartos,  Três casas de banho, Varandas e lugar de garagem, Aquecimento central, 2º piso sem elevador.  Boa Exposição solar!  #ref:APA_239",
+    "configuration": "4 quartos\n                    Área bruta 180 m²\n                    C.E.: Avaliação em curso",
+    "rentValue": "1100",
+    "city": "vila-real",
+    "link": "/arrendamento-apartamento-t4-vila-real/i1523673",
+    "image": "https://imagens.supercasa.pt/Z80x60/S5/C9237/P24733595/Tphoto/ID9b677901-0000-0500-0000-000012b4fc6f.jpg.webp",
+    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C9237/P24733595/Tphoto/ID9b677901-0000-0500-0000-000012b4fc6f.jpg\",\"name\":\"Apartamento T4 em Lordelo\",\"category\":\"Casas\",\"price\":[\"1.100\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2024-02-28T12:13:14.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Vila Real\",\"addressRegion\":\"Lordelo\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.30866245,\"longitude\":-7.766376}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Visit · Serviços Imobiliários\",\"image\":\"https://media.egorealestate.com/150x70/0d35c89d-aa0d-47af-9fa7-4ec0afcba595.png\",\"address\":\"n/a\",\"telephone\":\"+351 259590357\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"sales\",\"telephone\":\"+351 259590357\",\"areaServed\":\"PT\"},\"priceRange\":\"0\"}}"
+  },
+  {
+    "title": "Apartamento T1 em Santa Maria Maior, Chaves",
+    "description": "O apartamento tem a cozinha equipada.Mobilia de quarto nova.Apartamento em excelente estado.Janelas novas com vidros duplos.  #ref:33018309",
+    "configuration": "1 quarto\n                    Área bruta 93 m²\n                    C.E.: Pendente",
+    "rentValue": "400",
+    "city": "vila-real",
+    "link": "/arrendamento-apartamento-t1-chaves/i1404816",
+    "image": "https://imagens.supercasa.pt/Z80x60/S58/C774762/P1404816/Tphoto/ID4b56665e-201c-4985-8044-a9046e16ccde.jpg.webp",
+    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S58/C774762/P1404816/Tphoto/ID4b56665e-201c-4985-8044-a9046e16ccde.jpg\",\"name\":\"Apartamento T1 em Santa Maria Maior\",\"category\":\"Casas\",\"price\":[\"400\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-11-16T12:43:11.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Chaves\",\"addressRegion\":\"Santa Maria Maior\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.748217,\"longitude\":-7.473785}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"Person\",\"name\":\"[--]\",\"image\":\"https://supercasa.pt/images/logo.png\",\"address\":\"n/a\",\"telephone\":\"0\"}}"
+  },
+  {
+    "title": "Quinta T1 em Vale de Anta, Chaves",
+    "description": "Estúdio em Chaves, situado numa Quinta, a 5 minutos do centro da cidade, mobilado, completamente independente, para 1 ou 2 pessoas para arrendar ao mês. Luz, água e lenha para a lareira e uso da piscina no verão, tudo incluído no preço. Não há pagamento de condomínio. Por ter piscina e atendendo à responsabilidade, no caso de queda, não se aceita crianças até aos 12 anos.  #ref:32305285",
+    "configuration": "1 quarto\n                    Área útil 75 m²\n                    C.E.: Avaliação em curso",
+    "rentValue": "600",
+    "city": "vila-real",
+    "link": "/arrendamento-quintas-e-casas-rusticas-t1-chaves/i962351",
+    "image": "https://imagens.supercasa.pt/Z80x60/S58/C342417/P962351/Tphoto/ID1ce97d29-b216-498a-b507-73440fbc746d.jpg.webp",
+    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S58/C342417/P962351/Tphoto/ID1ce97d29-b216-498a-b507-73440fbc746d.jpg\",\"name\":\"Quinta T1 em Vale de Anta\",\"category\":\"Casas\",\"price\":[\"600\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2022-12-01T11:01:12.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Chaves\",\"addressRegion\":\"Vale de Anta\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.730319,\"longitude\":-7.490452}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"Person\",\"name\":\"Francisco Morgado\",\"image\":\"https://supercasa.pt/images/logo.png\",\"address\":\"n/a\",\"telephone\":\"0\"}}"
+  },
+  {
+    "title": "Apartamento T3 em Madalena e Samaiões, Chaves",
+    "description": "Aluga-se apartamento T3 em condomínio fechado com grande jardim e piscina.3 quartos, um deles suite. Armários embutidos em todos os quartos.Cozinha totalmente equipada. Lavandaria. Apartamento mobilado.2 lugares de garagem.  #ref:33184308",
+    "configuration": "3 quartos\n                    Área bruta 148 m²\n                    C.E.: B",
+    "rentValue": "1000",
+    "city": "vila-real",
+    "link": "/arrendamento-apartamento-t3-chaves/i1503029",
+    "image": "https://imagens.supercasa.pt/Z80x60/S58/C828177/P1503029/Tphoto/IDb20bf263-8208-46fd-a946-c1dec850d14b.jpg.webp",
+    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S58/C828177/P1503029/Tphoto/IDb20bf263-8208-46fd-a946-c1dec850d14b.jpg\",\"name\":\"Apartamento T3 em Madalena e Samaiões\",\"category\":\"Casas\",\"price\":[\"1.000\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2024-02-09T13:03:14.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Chaves\",\"addressRegion\":\"Madalena e Samaiões\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.7334938,\"longitude\":-7.45225048}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"Person\",\"name\":\"Laura\",\"image\":\"https://supercasa.pt/images/logo.png\",\"address\":\"n/a\",\"telephone\":\"0\"}}"
+  },
+  {
+    "title": "Apartamento T4 na Avenida Cidade de Ourense, União das freguesias de Vila Real, Vila Real",
+    "description": "POSSIBILIDADE ALUGAR QUARTOS com determinadas condições. Apartamento remodelado por arquiteto de renome, tem 4 quartos e 4 quartos de banho, cozinha completamente equipada. Possibilidade de negociar preços conforme condições de inquilinos. Tem lugar para 2 carros e o apartamento localiza-se em zona residencial com boa vizinhança. Não tem elevador",
+    "configuration": "4 quartos\n                    Área bruta 170 m²\n                    C.E.: Avaliação em curso",
+    "rentValue": "1200",
+    "city": "vila-real",
+    "link": "/arrendamento-apartamento-t4-vila-real/i1373849",
+    "image": "https",
+    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S58/C647339/P1373849/Tphoto/IDcdd363ed-2294-4f7b-a450-bf0b3a3b39aa.jpg\",\"name\":\"Apartamento T4 na Avenida Cidade de Ourense\",\"category\":\"Casas\",\"price\":[\"1.200\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-10-21T10:27:10.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Vila Real\",\"addressRegion\":\"União das freguesias de Vila Real\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.30445,\"longitude\":-7.74526}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"Person\",\"name\":\"Cristina Ribeiro \",\"image\":\"https://supercasa.pt/images/logo.png\",\"address\":\"n/a\",\"telephone\":\"0\"}}"
+  },
+  {
+    "title": "Apartamento T3 em União das freguesias de Vila Real, Vila Real",
+    "description": "Apartamento T3 em Vila Real junto ao Quartel, com dois lugares de garagem, três quartos, três casas de banho, sala mobilada, varanda, cozinha totalmente equipada e arrecadação.  #ref:33188512",
+    "configuration": "3 quartos\n                    Área bruta 120 m²\n                    C.E.: B",
+    "rentValue": "1250",
+    "city": "vila-real",
+    "link": "/arrendamento-apartamento-t3-vila-real/i1505733",
+    "image": "https://imagens.supercasa.pt/Z80x60/S58/C830606/P1505733/Tphoto/IDf9fe46e0-e99d-4404-8841-6b7ce23421d6.jpg.webp",
+    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S58/C830606/P1505733/Tphoto/IDf9fe46e0-e99d-4404-8841-6b7ce23421d6.jpg\",\"name\":\"Apartamento T3 em União das freguesias de Vila Real\",\"category\":\"Casas\",\"price\":[\"1.250\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2024-02-12T12:29:13.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Vila Real\",\"addressRegion\":\"União das freguesias de Vila Real\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.3102,\"longitude\":-7.73890448}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"Person\",\"name\":\"MAM INVEST\",\"image\":\"https://supercasa.pt/images/logo.png\",\"address\":\"n/a\",\"telephone\":\"0\"}}"
+  },
+  {
+    "title": "Moradia T6 em União das freguesias de Vila Real, Vila Real",
+    "description": "Vivenda de 3 pisos em Rua Tranquila e Sossegada do Centro da Cidade, com Espaco Exterior e de Lazer, 6 Quartos Diferenciados, Sala Comum com Aparelho de Ginasio, Sala de Estar e Cozinha com acesso ao Jardim e 2 Casas de banho.  #ref:32849996",
+    "configuration": "6 quartos\n                    Área bruta 210 m²\n                    C.E.: Avaliação em curso",
+    "rentValue": "1600",
+    "city": "vila-real",
+    "link": "/arrendamento-moradia-t6-vila-real/i1307167",
+    "image": "https://imagens.supercasa.pt/Z80x60/S58/C722576/P1307167/Tphoto/IDe71fafce-06d3-4ef4-870d-8fc72e976c69.jpg.webp",
+    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S58/C722576/P1307167/Tphoto/IDe71fafce-06d3-4ef4-870d-8fc72e976c69.jpg\",\"name\":\"Moradia T6 em União das freguesias de Vila Real\",\"category\":\"Casas\",\"price\":[\"1.600\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-08-29T09:05:10.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Vila Real\",\"addressRegion\":\"União das freguesias de Vila Real\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.302191,\"longitude\":-7.746192}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"Person\",\"name\":\"Helena e Mario\",\"image\":\"https://supercasa.pt/images/logo.png\",\"address\":\"n/a\",\"telephone\":\"0\"}}"
+  },
+  {
+    "title": "Apartamento T4 em União das freguesias de Vila Real, Vila Real",
+    "description": "T4 mobilado junto ao Terminal Rodoviário em Vila Real  #ref:APA_711",
+    "configuration": "4 quartos\n                    C.E.: Avaliação em curso",
+    "rentValue": "800",
+    "city": "vila-real",
+    "link": "/arrendamento-apartamento-t4-vila-real/i1413594",
+    "image": "https://imagens.supercasa.pt/Z80x60/S5/C5483/P24452845/Tphoto/IDed1e7501-0000-0500-0000-000012446f24.jpg.webp",
+    "json": "{\"@context\":\"http://schema.org\",\"@type\":\"Offer\",\"image\":\"https://imagens.supercasa.pt/Z640x480/OAYES/S5/C5483/P24452845/Tphoto/IDed1e7501-0000-0500-0000-000012446f24.jpg\",\"name\":\"Apartamento T4 em União das freguesias de Vila Real\",\"category\":\"Casas\",\"price\":[\"800\"],\"priceCurrency\":[\"€\"],\"availabilityStarts\":\"2023-11-23T16:33:18.0000000\",\"availableAtOrFrom\":{\"@type\":\"Place\",\"address\":{\"addressCountry\":620,\"addressLocality\":\"Vila Real\",\"addressRegion\":\"União das freguesias de Vila Real\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":41.3102,\"longitude\":-7.73890448}},\"seller\":{\"@context\":\"http://schema.org\",\"@type\":\"RealEstateAgent\",\"name\":\"Supercasa  3959\",\"image\":\"https://supercasa.pt/images/logo.png\",\"address\":\"n/a\",\"telephone\":\"0\",\"priceRange\":\"0\"}}"
+  }
+]
